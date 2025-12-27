@@ -1,0 +1,3964 @@
+City,Country,Region, AirQuality, WaterPollution
+New York City, United States of America, New York,46.81603774,49.5049505
+"Washington, D.C.", United States of America, District of Columbia,66.12903226,49.10714286
+San Francisco, United States of America, California,60.51401869,43
+Berlin, Germany,None,62.36413043,28.61271676
+Los Angeles, United States of America, California,36.62162162,61.29943503
+Bern, Switzerland, Canton of Bern,94.31818182,12.5
+Geneva, Switzerland, Canton of Geneva,71.53846154,17.37288136
+Zurich, Switzerland, Canton of Zurich,83.80952381,10.71428571
+Basel, Switzerland,None,81.66666667,26.92307692
+London, United Kingdom, England,37.04225352,40.71637427
+Cairo, Egypt, Cairo Governorate,15.830721,74.35064935
+Alexandria, Egypt, Alexandria Governorate,41.03773585,71.2962963
+Alexandria, United States of America, Virginia,89.0625,46.15384615
+Paris, France, Ile-de-France,34.02439024,43.12169312
+Boston, United States of America, Massachusetts,78.23529412,32.91139241
+Toronto, Canada, Ontario,65.53468208,37.7994012
+Sao Paulo, Brazil, Sao Paulo,24.05660377,73.71794872
+Vilnius, Lithuania,None,77.24719101,20.58823529
+Monaco, Monaco,None,28.78787879,61.36363636
+Brussels, Belgium,None,35.81081081,44.76190476
+Poznan, Poland, Greater Poland Voivodeship,33.07692308,50.42372881
+Tashkent, Uzbekistan,None,56.4516129,49.16666667
+Warsaw, Poland, Masovian Voivodeship,27.27272727,36.01485149
+Modena, Italy, Emilia-Romagna,39.0625,50
+Tours, France,None,84.375,6.25
+Singapore, Singapore,None,65.87837838,24.204947
+Montreal, Canada, Quebec,70.76023392,36.96319018
+Cambridge, United Kingdom, England,69.82758621,30.55555556
+Cologne, Germany, North Rhine-Westphalia,60.71428571,27.77777778
+Skopje, North Macedonia, Greater Skopje,10.19417476,45.26315789
+Gdynia, Poland, Pomeranian Voivodeship,49.41860465,48.61111111
+Szczecin, Poland, West Pomeranian Voivodeship,41.37931034,53.75
+Ljubljana, Slovenia, Ljubljana City Municipality,72.16494845,17.58241758
+Plovdiv, Bulgaria, Plovdiv region,31.41025641,36.29032258
+Sofia, Bulgaria, Sofia City Province,23.62132353,40.94339623
+Milan, Italy, Lombardy,24.39759036,39.49044586
+Trieste, Italy, Friuli-Venezia Giulia,58.87096774,29
+Lodz, Poland, Lodz Voivodeship,28.84615385,40.44117647
+Villeurbanne, France,None,75,50
+Oslo, Norway,None,74.75728155,14.17525773
+Bonn, Germany, North Rhine-Westphalia,82.8125,22.5
+Katowice, Poland, Silesian Voivodeship,27.77777778,48.33333333
+Lisbon, Portugal, Lisbon,64.60674157,24.85632184
+Rzeszow, Poland, Podkarpackie Voivodeship,37.5,47.05882353
+Dubai, United Arab Emirates, Emirate of Dubai,48.87387387,39.84615385
+Padua, Italy, Veneto,29.16666667,50
+Bergamo, Italy, Lombardy,46.66666667,35
+Venice, Italy, Veneto,36.25,67.85714286
+Rennes, France,None,62.5,35
+Lille, France,None,48.91304348,35.52631579
+Moscow, Russia,None,41.47526502,49.72527473
+Saint Petersburg, Russia,None,43.10344828,54.8816568
+Heilbronn, Germany, Baden-Wurttemberg,80,0
+Saginaw, United States of America, Michigan,85,70
+Bialystok, Poland, Podlaskie Voivodeship,34.52380952,52.94117647
+Nowy Sacz, Poland, Lesser Poland Voivodeship,30,100
+Lausanne, Switzerland, Canton of Vaud,78.26086957,17.5
+Abakan, Russia, Republic of Khakassia,0,75
+Novosibirsk, Russia, Novosibirsk Oblast,36.48648649,54.05405405
+Yekaterinburg, Russia, Sverdlovsk Oblast,27.90697674,58.33333333
+Samara, Russia, Samara Oblast,48.4375,51.5625
+Omsk, Russia, Omsk Oblast,16.17647059,48.52941176
+Kazan, Russia, Republic of Tatarstan,41.25,58.33333333
+Chelyabinsk, Russia, Chelyabinsk Oblast,16.66666667,70.3125
+Ufa, Russia, Bashkortostan,20.83333333,68.18181818
+Volgograd, Russia, Volgograd Oblast,21.66666667,59.375
+Perm, Russia, Perm Krai,44.44444444,50
+Krasnoyarsk, Russia, Krasnoyarsk Krai,6.617647059,49.21875
+Beijing, People's Republic of China,None,21.36627907,70.78313253
+Vladivostok, Russia, Primorsky Krai,35,67.5
+San Antonio, United States of America, Texas,63.41463415,50.67567568
+Tomsk, Russia, Tomsk Oblast,46.42857143,51.78571429
+Tbilisi, Georgia,None,22.98387097,49.34782609
+Maribor, Slovenia, Maribor City Municipality,76.25,18.75
+Celje, Slovenia, City Municipality of Celje,50,8.333333333
+Koper, Slovenia, City Municipality of Koper,87.5,0
+Aachen, Germany, North Rhine-Westphalia,70.45454545,17.85714286
+Nova Gorica, Slovenia, City Municipality of Nova Gorica,75,12.5
+Kranj, Slovenia, City Municipality of Kranj,80.55555556,12.5
+Stuttgart, Germany, Baden-Wurttemberg,43.125,24.28571429
+Biel/Bienne, Switzerland, Canton of Bern,37.5,31.25
+Karlsruhe, Germany, Baden-Wurttemberg,87.5,5.555555556
+Hamburg, Germany,None,70.76271186,24.50980392
+Ahmedabad, India, Gujarat,32.96296296,66.9921875
+Salerno, Italy, Campania,60,58.33333333
+Prague, Czech Republic,None,63.21243523,25.70621469
+Jamnagar, India, Gujarat,34.48275862,58.33333333
+Busto Arsizio, Italy, Lombardy,0,75
+Mumbai, India, Maharashtra,25.16025641,75.32537961
+Jerusalem, Israel, Jerusalem District,37.09677419,42.39130435
+Grenoble, France,None,34.09090909,26.47058824
+Dortmund, Germany, North Rhine-Westphalia,75,15.625
+Ghent, Belgium, Flemish Region,55.46875,27.67857143
+Chicago, United States of America, Illinois,57.43243243,53.62068966
+Como, Italy, Lombardy,58.33333333,40
+Montevideo, Uruguay, Montevideo Department,65.78947368,46.75324675
+Tolyatti, Russia, Samara Oblast,36.11111111,43.75
+Pittsburgh, United States of America, Pennsylvania,58.92857143,59.61538462
+Philadelphia, United States of America, Pennsylvania,54.28571429,55.64516129
+Kolkata, India, West Bengal,25.93457944,68.26923077
+Chennai, India, Tamil Nadu,35.88435374,73.07017544
+Delhi, India,None,11.8441358,77.41679873
+Dhaka, Bangladesh, Dhaka Division,14.96815287,78.25342466
+Hyderabad, India, Telangana,31.49253731,70.10703364
+Islamabad, Pakistan, Islamabad Capital Territory,67.41803279,51.32743363
+Zagreb, Croatia,None,69.7740113,26.59883721
+Genoa, Italy, Liguria,51.72413793,30
+Manila, Philippines, Metro Manila,17.01570681,83.7431694
+Quezon City, Philippines, Metro Manila,23.80952381,80.12820513
+Le Mans, France,None,95,50
+Caloocan, Philippines, Metro Manila,25,83.33333333
+Bordeaux, France,None,68.47826087,42.64705882
+Buenos Aires, Argentina,None,54.26470588,54.84375
+Mexico City, Mexico,None,18.07909605,69.59064327
+Tokyo, Japan,None,61.87150838,37.94117647
+La Paz, Bolivia, La Paz Department,27.94117647,79.54545455
+Barcelona, Spain, Catalonia,35.49723757,51.31578947
+Makati, Philippines, Metro Manila,34.21052632,70.94594595
+Nagpur, India, Maharashtra,46.61016949,69.44444444
+Abidjan, Cote d'Ivoire,None,6.944444444,79.41176471
+Abu Dhabi, United Arab Emirates, Emirate of Abu Dhabi,55.98290598,37.99019608
+Athens, Greece, Attica Region,44.17412141,30.31561462
+Caracas, Venezuela, Capital District,43.359375,69.06779661
+Pune, India, Maharashtra,39.10788382,71.86147186
+Guatemala City, Guatemala, Guatemala Department,39.28571429,69.53125
+Havana, Cuba, Havana Province,46.66666667,50
+Valenzuela, Philippines, Metro Manila,48.68421053,88.15789474
+Pasig, Philippines, Metro Manila,27.94117647,82.69230769
+Antipolo, Philippines,None,60.29411765,75
+Osijek, Croatia, Osijek-Baranja County,83.75,13.33333333
+Cagayan de Oro, Philippines,None,62.5,100
+Rijeka, Croatia, Primorje-Gorski Kotar County,75,17.85714286
+Split, Croatia, Split-Dalmatia County,71.71052632,30
+Butuan, Philippines,None,37.5,66.66666667
+Kiel, Germany, Schleswig-Holstein,93.75,25
+Schwerin, Germany, Mecklenburg-Western Pomerania,87.5,50
+Potsdam, Germany, Brandenburg,88.63636364,10.71428571
+Hanover, Germany, Lower Saxony,75,22.91666667
+D?sseldorf, Germany, North Rhine-Westphalia,64.81481481,23.91304348
+Mainz, Germany, Rhineland-Palatinate,86.11111111,35
+Wiesbaden, Germany, Hesse,73.21428571,42.5
+Dubrovnik, Croatia, Dubrovnik-Neretva County,87.5,40
+Saarbr?cken, Germany, Saarland,87.5,12.5
+Lipa, Philippines,None,87.5,25
+Munich, Germany, Bavaria,74.41860465,15.46610169
+Dresden, Germany, Saxony,75,7.894736842
+Magdeburg, Germany, Saxony-Anhalt,93.75,6.25
+Innsbruck, Austria, Tyrol,75,7.8125
+Bregenz, Austria, Vorarlberg,95,50
+Vienna, Austria,None,82.70547945,10.14492754
+Stockholm, Sweden, Stockholm County,83.20610687,15.0390625
+Helsinki, Finland, Uusimaa,89.88095238,15.49586777
+Dublin, Ireland,None,67.02380952,39.70588235
+Murmansk, Russia, Murmansk Oblast,57.14285714,14.28571429
+Reykjavik, Iceland,None,86.68478261,5.113636364
+Tallinn, Estonia, Harju County,81.8877551,18.61702128
+Riga, Latvia,None,62.5,31.95652174
+Bratislava, Slovakia, Bratislava Region,62.32394366,32.46268657
+Budapest, Hungary,None,40.61032864,32.375
+Gdansk, Poland, Pomeranian Voivodeship,45.55555556,45
+Frankfurt, Germany, Hesse,63.39285714,25.98039216
+Wroclaw, Poland, Lower Silesian Voivodeship,25.68807339,35.4368932
+Kochi, India, Kerala,36.5625,68.40277778
+Baguio, Philippines, Cordillera Administrative Region,26.88679245,66.4893617
+Kaliningrad, Russia, Kaliningrad Oblast,55,55
+Luxembourg, Luxembourg,None,83.10810811,20.45454545
+Vaduz, Liechtenstein,None,100,0
+San Marino, San Marino,None,87.5,50
+Phnom Penh, Cambodia,None,26.06382979,70.83333333
+Arkhangelsk, Russia, Arkhangelsk Oblast,43.75,50
+Ho Chi Minh City, Vietnam,None,12.21910112,77.76162791
+Hanoi, Vietnam,None,15.70247934,77.35042735
+Bangkok, Thailand,None,26.85185185,70.83333333
+Andorra la Vella, Andorra, Andorra la Vella,37.5,25
+Kuala Lumpur, Malaysia,None,39.43452381,65.68322981
+Taipei, Taiwan,None,52.47933884,44.87179487
+Odessa, Ukraine, Odessa Oblast,50.5,58.85416667
+Concepcion, Chile, Biobio Region,55.76923077,33.33333333
+Bologna, Italy, Emilia-Romagna,38.15789474,28.03030303
+Petrozavodsk, Russia, Karelia,58.33333333,25
+Cagliari, Italy, Sardinia,71.05263158,20
+Catania, Italy, Sicily,46.42857143,55.55555556
+Caserta, Italy, Campania,34.375,56.25
+Ottawa, Canada, Ontario,84.56375839,27.99295775
+Juba, South Sudan,None,62.5,75
+Yerevan, Armenia,None,41.81034483,35
+Vologda, Russia, Vologda Oblast,62.5,25
+Dar es Salaam, Tanzania, Dar es Salaam Region,46.875,76
+Khartoum, Sudan, Khartoum,42.85714286,78.125
+Verona, Italy, Veneto,36.11111111,42.85714286
+Iqaluit, Canada, Nunavut,50,50
+Florence, Italy, Tuscany,52.67857143,36
+Whitehorse, Canada, Yukon,92.5,12.5
+Yellowknife, Canada, Northwest Territories,87.5,43.75
+Essen, Germany, North Rhine-Westphalia,80,4.166666667
+Leipzig, Germany, Saxony,84.21052632,20
+St. John's, Canada, Newfoundland and Labrador,90.625,35.41666667
+Nuremberg, Germany, Bavaria,75,12.5
+Edmonton, Canada,None,72.03703704,27.46212121
+Duisburg, Germany, North Rhine-Westphalia,53.57142857,31.25
+Bochum, Germany, North Rhine-Westphalia,68.18181818,25
+Wuppertal, Germany, North Rhine-Westphalia,90,0
+Bielefeld, Germany, North Rhine-Westphalia,67.85714286,50
+Mannheim, Germany, Baden-Wurttemberg,51.08695652,30.55555556
+Regina, Canada, Saskatchewan,68.57142857,42.74193548
+Charlottetown, Canada, Prince Edward Island,97.5,20
+Victoria, Canada, British Columbia,92.72151899,27.7027027
+Winnipeg, Canada, Manitoba,71.31147541,42.64705882
+Fredericton, Canada, New Brunswick,90,31.25
+Halifax, Canada, Nova Scotia,84.57446809,36.25
+Cherepovets, Russia, Vologda Oblast,0,100
+Quebec City, Canada, Quebec,82.5,43.75
+Arica, Chile, Arica y Parinacota Region,75,50
+Pskov, Russia, Pskov Oblast,100,50
+Veliky Novgorod, Russia, Novgorod Oblast,100,50
+Birmingham, United Kingdom, England,52.97619048,25.64102564
+Minsk, Belarus,None,60.9223301,41.40625
+Tver, Russia, Tver Oblast,62.5,37.5
+Smolensk, Russia, Smolensk Oblast,50,54.16666667
+Yaroslavl, Russia, Yaroslavl Oblast,16.66666667,58.33333333
+Mogadishu, Somalia, Banaadir,60,57.5
+Nassau, The Bahamas,None,50,59.25925926
+Sanaa, Yemen,None,41.66666667,91.66666667
+Ivanovo, Russia, Ivanovo Oblast,33.33333333,87.5
+Naples, Italy, Campania,28.84615385,55.31914894
+Palermo, Italy, Sicily,45.45454545,51.31578947
+Gomel, Belarus, Gomel Region,44.73684211,53.57142857
+Parma, Italy, Emilia-Romagna,34.375,56.81818182
+Vladimir, Russia, Vladimir Oblast,37.5,50
+Pescara, Italy, Abruzzo,61.11111111,79.16666667
+Bremerhaven, Germany,None,75,50
+M?nster, Germany, North Rhine-Westphalia,71.875,25
+Ryazan, Russia, Ryazan Oblast,0,91.66666667
+Augsburg, Germany, Bavaria,73.52941176,26.92307692
+Siena, Italy, Tuscany,81.25,21.42857143
+Gelsenkirchen, Germany, North Rhine-Westphalia,62.5,50
+Tula, Russia, Tula Oblast,33.33333333,75
+Udine, Italy, Friuli-Venezia Giulia,72.5,33.33333333
+Chemnitz, Germany, Saxony,87.5,50
+Krefeld, Germany, North Rhine-Westphalia,87.5,50
+Madrid, Spain, Community of Madrid,36.23417722,18.95424837
+Halle (Saale), Germany, Saxony-Anhalt,75,0
+Freiburg im Breisgau, Germany, Baden-Wurttemberg,88.33333333,5
+Oberhausen, Germany, North Rhine-Westphalia,62.5,50
+Bogota, Colombia,None,23.35025381,48.15789474
+L?beck, Germany, Schleswig-Holstein,100,25
+Brasilia, Brazil, Federal District,76.53061224,38.04347826
+Rostock, Germany, Mecklenburg-Western Pomerania,90.625,37.5
+Kassel, Germany, Hesse,75,50
+Lima, Peru, Lima region,19.75,76.04166667
+Hagen, Germany, North Rhine-Westphalia,100,50
+Hamm, Germany, North Rhine-Westphalia,87.5,50
+Santiago, Chile, Santiago Metropolitan Region,17.71523179,40.23972603
+Quito, Ecuador, Pichincha Province,35.86956522,53.07692308
+Ludwigshafen, Germany, Rhineland-Palatinate,75,0
+Osnabr?ck, Germany, Lower Saxony,82.14285714,0
+Asuncion, Paraguay, Capital District,39.65517241,67
+Oldenburg, Germany, Lower Saxony,75,18.75
+Leverkusen, Germany, North Rhine-Westphalia,83.33333333,50
+Solingen, Germany, North Rhine-Westphalia,87.5,50
+Neuss, Germany, North Rhine-Westphalia,50,75
+Heidelberg, Germany, Baden-Wurttemberg,89.28571429,25
+Paderborn, Germany, North Rhine-Westphalia,75,25
+Darmstadt, Germany, Hesse,71.875,27.5
+Regensburg, Germany, Bavaria,87.5,7.142857143
+Paramaribo, Suriname, Paramaribo District,61.36363636,54.54545455
+Ingolstadt, Germany, Bavaria,100,0
+Ulm, Germany, Baden-Wurttemberg,88.88888889,10
+Wolfsburg, Germany, Lower Saxony,96.875,0
+Kathmandu, Nepal, Bagmati,11.46341463,80.45685279
+Offenbach am Main, Germany, Hesse,75,50
+Belmopan, Belize, Cayo District,62.5,54.16666667
+Pforzheim, Germany, Baden-Wurttemberg,85,25
+Recklinghausen, Germany, North Rhine-Westphalia,100,50
+Bottrop, Germany, North Rhine-Westphalia,80,0
+San Jose, Costa Rica, San Jose Province,57.43243243,46.09375
+Reutlingen, Germany, Baden-Wurttemberg,85,25
+Koblenz, Germany, Rhineland-Palatinate,67.85714286,41.66666667
+San Salvador, El Salvador, San Salvador Department,18.42105263,76.5625
+Canberra, Australia, Australian Capital Territory,90.74675325,17.80821918
+Erlangen, Germany, Bavaria,81.25,29.16666667
+Sydney, Australia,None,75.88996764,28.54785479
+Moers, Germany, North Rhine-Westphalia,62.5,50
+Trier, Germany, Rhineland-Palatinate,85.71428571,25
+Melbourne, Australia, Victoria,79.07303371,28.2234957
+Jena, Germany, Thuringia,95,75
+Kursk, Russia, Kursk Oblast,100,50
+Siegen, Germany, North Rhine-Westphalia,91.66666667,12.5
+Perth, Australia, Western Australia,82.98755187,28.0720339
+Hildesheim, Germany, Lower Saxony,62.5,50
+Salzgitter, Germany, Lower Saxony,95,0
+Cottbus, Germany, Brandenburg,100,50
+Tegucigalpa, Honduras, Francisco Morazan Department,22.61904762,88.46153846
+Managua, Nicaragua, Managua Department,58.33333333,76.66666667
+Panama City, Panama, Panama Province,49.23076923,67.06349206
+Belgorod, Russia, Belgorod Oblast,75,70.83333333
+Zadar, Croatia, Zadar County,100,8.333333333
+Trento, Italy, Trentino-South Tyrol,86.76470588,0
+Ancona, Italy, Marche,63.88888889,30
+Voronezh, Russia, Voronezh Oblast,36.84210526,67.10526316
+Perugia, Italy, Umbria,70,50
+L'Aquila, Italy, Abruzzo,87.5,50
+Lipetsk, Russia, Lipetsk Oblast,37.5,37.5
+Bari, Italy, Apulia,63.33333333,22.22222222
+Tambov, Russia, Tambov Oblast,62.5,45
+Sibenik, Croatia, Sibenik-Knin County,100,0
+Rabat, Morocco, Rabat-Sale-Kenitra,68.33333333,31.73076923
+Algiers, Algeria, Algiers Province,39.74358974,60.29411765
+Tunis, Tunisia, Tunis Governorate,36.25,61.11111111
+Tripoli, Libya,None,54.62962963,68.51851852
+Novy Jicin, Czech Republic,None,62.5,50
+Djibouti, Djibouti, Djibouti Region,54.16666667,54.16666667
+Antofagasta, Chile, Antofagasta Region,31.25,81.25
+Tehran, Iran, Tehran Province,10.70075758,48.12992126
+Karlovac, Croatia,None,75,25
+Addis Ababa, Ethiopia,None,32.27272727,69.54545455
+Jakarta, Indonesia,None,22.265625,77.1
+Ankara, Turkey, Ankara Province,38.9084507,57.95454545
+Krasnodar, Russia, Krasnodar Krai,44.44444444,44.44444444
+N'Djamena, Chad,None,41.66666667,41.66666667
+Niamey, Niger,None,25,100
+Calama, Chile, Antofagasta Region,20,75
+Nouakchott, Mauritania,None,43.75,37.5
+Riyadh, Saudi Arabia, Riyadh Province,33.69565217,44.57364341
+Bamako, Mali,None,15,62.5
+Belgrade, Serbia, Belgrade District,34.82532751,50.90497738
+Dakar, Senegal, Dakar,10.34482759,82
+Banjul, The Gambia,None,75,62.5
+Conakry, Guinea,None,5,93.75
+Monrovia, Liberia, Montserrado County,16.66666667,87.5
+Gera, Germany, Thuringia,100,50
+Kaiserslautern, Germany, Rhineland-Palatinate,87.5,5
+Accra, Ghana, Greater Accra Region,20.55555556,90.78947368
+Chiguayante, Chile, Biobio Region,50,50
+Chillan, Chile, Nuble Region,37.5,50
+Zwickau, Germany, Saxony,75,50
+Freetown, Sierra Leone, Western Area,25,100
+Abuja, Nigeria, Federal Capital Territory,56.25,71.42857143
+Lome, Togo, Maritime,37.5,75
+Flensburg, Germany, Schleswig-Holstein,87.5,50
+Amman, Jordan, Amman Governorate,34.03846154,63.10483871
+T?bingen, Germany, Baden-Wurttemberg,89.28571429,8.333333333
+Yaounde, Cameroon, Centre,14.0625,88.63636364
+Coyhaique, Chile, Aysen Region,0,25
+Malabo, Equatorial Guinea,None,70,35
+Beirut, Lebanon, Beirut Governorate,16.96428571,81.80379747
+Libreville, Gabon, Estuaire Province,37.5,87.5
+Muscat, Oman, Muscat Governorate,65.57377049,31.73076923
+Bangui, Central African Republic,None,0,100
+Konstanz, Germany, Baden-Wurttemberg,79.16666667,25
+Brazzaville, Republic of the Congo,None,37.5,62.5
+Minden, Germany, North Rhine-Westphalia,100,50
+Worms, Germany, Rhineland-Palatinate,60,100
+Bujumbura, Burundi, Bujumbura Mairie Province,50,75
+Wilhelmshaven, Germany, Lower Saxony,100,50
+Kigali, Rwanda, Kigali province,56.25,50
+Concon, Chile, Valparaiso Region,37.5,50
+Doha, Qatar, Ad Dawhah,37.87313433,46.16935484
+Dodoma, Tanzania, Dodoma Region,50,50
+Copiapo, Chile, Atacama Region,12.5,50
+Marburg, Germany, Hesse,85,0
+Nairobi, Kenya,None,31.25,84.02777778
+Atletico Morelia, Chile, Coquimbo Region,50,50
+Coronel, Chile, Biobio Region,50,50
+Lilongwe, Malawi, Central Region,45,95
+Lusaka, Zambia, Lusaka Province,33.33333333,98.07692308
+Manama, Bahrain, Capital Governorate,40.27777778,46.77419355
+Catanzaro, Italy, Calabria,87.5,50
+Maputo, Mozambique,None,57.69230769,68.75
+Kampala, Uganda,None,19,84.09090909
+Luanda, Angola, Luanda Province,15,81.25
+Mbabane, Eswatini, Hhohho District,93.75,31.25
+Maseru, Lesotho, Maseru District,45.83333333,80
+Antananarivo, Madagascar,None,15.90909091,82.35294118
+Gaborone, Botswana, South-East District,67.10526316,37.5
+Harare, Zimbabwe,None,38.46153846,87.5
+Bayreuth, Germany, Bavaria,75,0
+Pretoria, South Africa, Gauteng,50.32894737,57.74647887
+Astrakhan, Russia, Astrakhan Oblast,50,56.25
+Port Louis, Mauritius, Port Louis District,50,55.95238095
+Windhoek, Namibia, Khomas Region,72.82608696,54.34782609
+Bamberg, Germany, Bavaria,95.83333333,12.5
+Victoria, Seychelles,None,62.5,25
+Aschaffenburg, Germany, Bavaria,77.77777778,40
+Aalen, Germany, Baden-Wurttemberg,87.5,50
+Fulda, Germany, Hesse,87.5,50
+Bergheim, Germany, North Rhine-Westphalia,75,50
+Liege, Belgium, Wallonia,54.54545455,28.57142857
+Wesel, Germany, North Rhine-Westphalia,100,50
+Frankfurt (Oder), Germany, Brandenburg,70,100
+Osasco, Brazil, Sao Paulo,35,66.66666667
+Fujairah, United Arab Emirates, Emirate of Fujairah,25,62.5
+Friedrichshafen, Germany, Baden-Wurttemberg,90,0
+Glasgow, United Kingdom, Scotland,64.90384615,19.44444444
+Neu-Ulm, Germany, Bavaria,100,50
+Schweinfurt, Germany, Bavaria,87.5,62.5
+Passau, Germany, Bavaria,90,0
+Lucerne, Switzerland, Canton of Lucerne,71.66666667,21.875
+Arusha, Tanzania, Arusha Region,91.66666667,50
+Curitiba, Brazil, Parana,73.10126582,48.91304348
+Khabarovsk, Russia, Khabarovsk Krai,61.11111111,57.5
+Talca, Chile, Maule Region,40,0
+Rancagua, Chile, O'Higgins Region,0,100
+Surat, India, Gujarat,46.3592233,61.96808511
+Pula, Croatia, Istria County,88.63636364,27.27272727
+Slavonski Brod, Croatia, Brod-Posavina County,27.27272727,17.85714286
+Barquisimeto, Venezuela, Lara,25,100
+Surakarta, Indonesia, Central Java,55,55
+Hangzhou, People's Republic of China, Zhejiang,25.69444444,62.93103448
+Seattle, United States of America, Washington,79.37062937,36.94852941
+Siliguri, India, West Bengal,40,67
+Durgapur, India, West Bengal,12.5,50
+Baltimore, United States of America, Maryland,62.5,64.13043478
+Adelaide, Australia, South Australia,88.84803922,24.60526316
+Makhachkala, Russia, Republic of Dagestan,62.5,43.75
+Stavropol, Russia, Stavropol Krai,85.71428571,28.57142857
+Bacolod, Philippines, Western Visayas,39.28571429,75
+Vladikavkaz, Russia, Republic of North Ossetia-Alania,50,25
+Riehen, Switzerland,None,100,50
+Tarlac City, Philippines,None,56.25,75
+Rovinj, Croatia, Istria County,100,25
+Porec, Croatia, Istria County,83.33333333,8.333333333
+Saratov, Russia, Saratov Oblast,25,60
+Orenburg, Russia, Orenburg Oblast,30,60
+Saransk, Russia, Republic of Mordovia,0,100
+Kirov, Russia, Kirov Oblast,66.66666667,66.66666667
+Varazdin, Croatia, Varazdin County,91.66666667,33.33333333
+Izhevsk, Russia, Udmurt Republic,33.33333333,70.83333333
+Yoshkar-Ola, Russia, Mari El Republic,100,50
+Stellenbosch, South Africa, Western Cape,75,58.33333333
+Cape Town, South Africa, Western Cape,68.61111111,50.42613636
+Durban, South Africa, KwaZulu-Natal,57.72058824,60.22727273
+Cheboksary, Russia, Chuvash Republic,50,35
+Treviso, Italy, Veneto,50,27.77777778
+Penza, Russia, Penza Oblast,37.5,62.5
+Ulyanovsk, Russia, Ulyanovsk Oblast,58.33333333,37.5
+Koprivnica, Croatia, Koprivnica-Krizevci County,100,0
+Bjelovar, Croatia, Bjelovar-Bilogora County,100,0
+Mary, Turkmenistan, Mary Region,100,0
+Banda Aceh, Indonesia, Aceh,71.42857143,12.5
+Mecca, Saudi Arabia, Mecca Province,28.57142857,40.625
+Tyumen, Russia, Tyumen Oblast,66.66666667,55
+Xi'an, People's Republic of China, Shaanxi,5.952380952,72.05882353
+Toledo, Spain, Castile-La Mancha,75,50
+Kabul, Afghanistan, Kabul,18.42105263,81.06060606
+Vukovar, Croatia, Vukovar-Syrmia County,25,75
+Lhasa, People's Republic of China, Tibet,12.5,50
+Huntington Beach, United States of America, California,85.71428571,65.625
+Binjai, Indonesia, North Sumatra,75,0
+Cuneo, Italy, Piedmont,82.5,0
+Medan, Indonesia, North Sumatra,20.83333333,43.33333333
+Pematangsiantar, Indonesia, North Sumatra,100,0
+Hvar, Croatia, Split-Dalmatia County,75,25
+Novara, Italy, Piedmont,65,0
+Kemerovo, Russia, Kemerovo Oblast,40,60
+Alessandria, Italy, Piedmont,35.71428571,56.25
+Portland, United States of America, Oregon,74.12280702,36.34259259
+Asti, Italy, Piedmont,62.5,50
+Soest, Germany, North Rhine-Westphalia,100,50
+Brescia, Italy, Lombardy,22.65625,70.53571429
+Coventry, United Kingdom, England,56.66666667,31.81818182
+St Albans, United Kingdom, England,62.5,18.75
+Cremona, Italy, Lombardy,50,50
+Monza, Italy, Lombardy,42.85714286,50
+Varese, Italy, Lombardy,50,33.33333333
+Indianapolis, United States of America, Indiana,67.44186047,50.65789474
+Avignon, France,None,57.14285714,66.66666667
+Montpellier, France,None,71.66666667,29.54545455
+Antalya, Turkey, Antalya Province,67.1875,41.07142857
+Varna, Bulgaria, Varna Province,40.10416667,48.88888889
+Burgas, Bulgaria, Burgas Province,46.42857143,46.73913043
+Vicenza, Italy, Veneto,45,47.5
+Orleans, France,None,83.33333333,50
+Irkutsk, Russia, Irkutsk Oblast,53.125,37.5
+Gorizia, Italy, Friuli-Venezia Giulia,90,25
+Strasbourg, France,None,68,47.36842105
+Yakutsk, Russia, Sakha Republic,58.33333333,87.5
+Poitiers, France,None,87.5,50
+Pokhara, Nepal,None,65.47619048,71.42857143
+Lalitpur, Nepal, Bagmati,20.45454545,65
+Perpignan, France,None,95,50
+Livorno, Italy, Tuscany,55.55555556,62.5
+Herzogenrath, Germany, North Rhine-Westphalia,75,50
+Blagoveshchensk, Russia, Amur Oblast,25,25
+Hof, Germany, Bavaria,75,50
+Dijon, France,None,87.5,12.5
+Lugano, Switzerland, Ticino,67.85714286,12.5
+Nordhausen, Germany, Thuringia,100,50
+Br?hl, Germany, North Rhine-Westphalia,75,50
+Girona, Spain, Catalonia,100,0
+Amberg, Germany, Bavaria,100,50
+Bad Kreuznach, Germany, Rhineland-Palatinate,100,50
+Padang, Indonesia, West Sumatra,68.75,25
+Sevastopol, Ukraine,None,75,56.25
+Lutsk, Ukraine, Volyn Oblast,54.16666667,58.33333333
+Yogyakarta City, Indonesia, Special Region of Yogyakarta,45.65217391,57.29166667
+Jambi, Indonesia, Jambi,87.5,12.5
+Pekanbaru, Indonesia, Riau,80,25
+Yuzhno-Sakhalinsk, Russia, Sakhalin Oblast,8.333333333,75
+Toulouse, France,None,61.29032258,39.42307692
+Casablanca, Morocco, Casablanca-Settat,22.6744186,60.57692308
+Palembang, Indonesia, South Sumatra,75,0
+Bandar Lampung, Indonesia, Lampung,62.5,40
+Biratnagar, Nepal, Province No. 1,40,50
+Dharan, Nepal, Province No. 1,75,50
+Valladolid, Spain, Castile and Leon,70,41.66666667
+Ostrava, Czech Republic,None,28.84615385,25
+Terni, Italy, Umbria,42.5,50
+Miami, United States of America, Florida,70.2020202,47.36842105
+Karachi, Pakistan, Sindh,21.96969697,83.11170213
+Lagos, Nigeria, Lagos,20.60810811,80.51470588
+Rio de Janeiro, Brazil, Rio de Janeiro,46.81208054,77.24137931
+Seoul, South Korea,None,33.7628866,36.45251397
+Shanghai, People's Republic of China,None,25,67.58474576
+Bilbao, Spain, Basque Autonomous Community,70,26.31578947
+Seville, Spain, Andalusia,57.14285714,23.80952381
+Vigo, Spain, Galicia,86.45833333,21.25
+Granada, Spain, Andalusia,58.92857143,14.28571429
+Valencia, Spain, Community of Valencia,59.65909091,38.41463415
+Palma, Spain, Balearic Islands,75,36.66666667
+Malaga, Spain, Andalusia,75,30.55555556
+Las Pinas, Philippines, Metro Manila,33.33333333,75
+Malabon, Philippines, Metro Manila,25,50
+Cancun, Mexico, Quintana Roo,75,55
+Schaffhausen, Switzerland, Canton of Schaffhausen,87.5,18.75
+Guadalajara, Mexico, Jalisco,43.07692308,64.54545455
+Mandaluyong, Philippines, Metro Manila,12.5,82.5
+Winterthur, Switzerland, Canton of Zurich,91.66666667,0
+Baku, Azerbaijan,None,29.89690722,69.02173913
+Thimphu, Bhutan, Thimphu District,44.64285714,60
+Bandar Seri Begawan, Brunei, Brunei-Muara District,82.95454545,48.86363636
+Dili, Timor-Leste, Dili municipality,59.375,62.5
+Vientiane, Laos, Vientiane Prefecture,23.48484848,73.33333333
+Male, Maldives, Kaafu Atoll,35.57692308,87.5
+Bishkek, Kyrgyzstan,None,18.57142857,45.96774194
+Dushanbe, Tajikistan,None,41.66666667,61.11111111
+Burgos, Spain, Castile and Leon,100,33.33333333
+Erode, India, Tamil Nadu,50,61.11111111
+Salem, India, Tamil Nadu,48.80952381,64.28571429
+Coimbatore, India, Tamil Nadu,50,65.74074074
+Mysore, India, Karnataka,51.5625,62.5
+Batam, Indonesia, Riau Islands,56.25,50
+Tanjung Pinang, Indonesia, Riau Islands,0,25
+Cilegon, Indonesia, Banten,50,50
+Tangerang, Indonesia, Banten,45.45454545,52.27272727
+Pamplona, Spain, Navarre,100,0
+Bandung, Indonesia, West Java,40.38461538,61.70212766
+Bogor, Indonesia, West Java,67.30769231,52.08333333
+Cimahi, Indonesia, West Java,58.33333333,33.33333333
+Depok, Indonesia, West Java,8.333333333,91.66666667
+Almeria, Spain, Andalusia,75,43.75
+Elche, Spain, Community of Valencia,85,41.66666667
+Saskatoon, Canada, Saskatchewan,74.32432432,29.6875
+Belfast, United Kingdom, Northern Ireland,76.35135135,22.72727273
+Cardiff, United Kingdom, Wales,70,20.45454545
+Georgetown, Guyana, Demerara-Mahaica,51.31578947,83.33333333
+Montecchio, Italy, Umbria,87.5,50
+Magelang, Indonesia, Central Java,100,0
+Salatiga, Indonesia, Central Java,83.33333333,37.5
+Semarang, Indonesia, Central Java,55.55555556,47.5
+Lugo, Spain, Galicia,100,50
+Sarajevo, Bosnia and Herzegovina, Federation of Bosnia and Herzegovina,25,44.01041667
+Butwal, Nepal,None,75,53.125
+Hetauda, Nepal, Bagmati,53.57142857,83.33333333
+Kediri, Indonesia, East Java,75,0
+Madiun, Indonesia, East Java,100,6.25
+Malang, Indonesia, East Java,77.17391304,34.7826087
+Mojokerto, Indonesia, East Java,100,0
+Surabaya, Indonesia, East Java,49.43181818,57.77777778
+Denpasar, Indonesia, Bali,33.69565217,60.22727273
+Darwin, Australia, Northern Territory,84.65909091,26.92307692
+Tulcea, Romania, Tulcea County,80,29.16666667
+Siem Reap, Cambodia, Siem Reap Province,60,95
+Shenyang, People's Republic of China, Liaoning,6.25,76.5625
+Chongqing, People's Republic of China,None,30,63.75
+Tianjin, People's Republic of China,None,16.34615385,75
+Lahore, Pakistan, Punjab,23.41463415,75.51546392
+Wuhan, People's Republic of China, Hubei,14.81481481,72.72727273
+Nagoya, Japan, Aichi Prefecture,76.25,37.5
+Rajkot, India, Gujarat,43.60465116,58.10810811
+Zvolen, Slovakia, Banska Bystrica Region,87.5,50
+Vadodara, India, Gujarat,43.45794393,65.90909091
+Gandhinagar, India, Gujarat,87.90322581,50
+Alicante, Spain, Community of Valencia,80.68181818,40.625
+Tychy, Poland, Silesian Voivodeship,22.5,43.75
+Nantes, France,None,72.61904762,20.58823529
+Brest, France,None,79.54545455,35.71428571
+Murcia, Spain, Region of Murcia,68.18181818,32.14285714
+Huelva, Spain, Andalusia,40,50
+Sabadell, Spain, Catalonia,50,0
+Gijon, Spain, Asturias,50,25
+Jerez de la Frontera, Spain, Andalusia,67.85714286,25
+Pontevedra, Spain, Galicia,96.42857143,16.66666667
+Detroit, United States of America, Michigan,51.2195122,52.08333333
+Lokeren, Belgium, Flemish Region,75,50
+Majuro, Marshall Islands,None,43.75,91.66666667
+Bruges, Belgium, Flemish Region,82.5,30
+Curico, Chile, Maule Region,25,50
+Sint-Niklaas, Belgium, Flemish Region,25,50
+Macerata, Italy, Marche,93.75,8.333333333
+La Linea de la Concepcion, Spain, Andalusia,37.5,75
+Ronda, Spain, Andalusia,100,0
+Krk, Croatia, Primorje-Gorski Kotar County,50,50
+Graz, Austria, Styria,53.33333333,21.15384615
+Savona, Italy, Liguria,66.66666667,62.5
+Piacenza, Italy, Emilia-Romagna,62.5,50
+Ferrara, Italy, Emilia-Romagna,39.28571429,50
+Ravenna, Italy, Emilia-Romagna,64.28571429,16.66666667
+Forli, Italy, Emilia-Romagna,58.33333333,100
+Rimini, Italy, Emilia-Romagna,75,62.5
+Lucca, Italy, Tuscany,66.66666667,37.5
+Pisa, Italy, Tuscany,53.125,37.5
+Prato, Italy, Tuscany,50,50
+Lecce, Italy, Apulia,71.66666667,47.72727273
+Latina, Italy, Lazio,70.83333333,62.5
+Foggia, Italy, Apulia,62.5,81.25
+Barletta, Italy, Apulia,65,75
+Brindisi, Italy, Apulia,35,58.33333333
+Taranto, Italy, Apulia,75,50
+Sassari, Italy, Sardinia,71.875,43.75
+Olbia, Italy, Sardinia,87.5,50
+Messina, Italy, Sicily,75,12.5
+Syracuse, Italy, Sicily,59.375,75
+Agrigento, Italy, Sicily,75,50
+Tartu, Estonia, Tartu County,92.59259259,11.95652174
+Banjarmasin, Indonesia, South Kalimantan,100,0
+Aarau, Switzerland, Canton Aargau,87.5,0
+Palangkaraya, Indonesia, Central Kalimantan,100,0
+Huasco, Chile, Atacama Region,87.5,50
+Iquique, Chile, Tarapaca Region,40,50
+La Serena, Chile, Coquimbo Region,50,62.5
+Balikpapan, Indonesia, East Kalimantan,72.22222222,38.88888889
+Linares, Chile, Maule Region,0,50
+Samarinda, Indonesia, East Kalimantan,87.5,0
+Makassar, Indonesia, South Sulawesi,50,45
+Aviles, Spain, Asturias,50,50
+Kaufbeuren, Germany, Bavaria,100,50
+Coburg, Germany, Bavaria,100,50
+Ansbach, Germany, Bavaria,80,25
+Bensheim, Germany, Hesse,87.5,50
+Saarlouis, Germany, Saarland,100,50
+Bernburg, Germany, Saxony-Anhalt,100,50
+Backnang, Germany, Baden-Wurttemberg,100,0
+Brno, Czech Republic,None,55.93220339,35.18518519
+Tarragona, Spain, Catalonia,50,45
+Castello de la Plana, Spain, Community of Valencia,87.5,25
+Albacete, Spain, Castile-La Mancha,75,12.5
+Shenzhen, People's Republic of China, Guangdong,44.87179487,67.01388889
+Kendari, Indonesia, Southeast Sulawesi,100,0
+Badalona, Spain, Catalonia,87.5,50
+Vilanova i la Geltru, Spain, Catalonia,87.5,50
+Kagoshima, Japan, Kagoshima Prefecture,50,50
+Caceres, Spain, Extremadura,100,50
+Badajoz, Spain, Extremadura,96.875,43.75
+Jaen, Spain, Andalusia,75,37.5
+Cadiz, Spain, Andalusia,77.77777778,25
+Salamanca, Spain, Castile and Leon,96.42857143,25
+Novorossiysk, Russia, Krasnodar Krai,33.33333333,90
+Manado, Indonesia, North Sulawesi,50,58.33333333
+Domzale, Slovenia, Municipality of Domzale,50,0
+Grosuplje, Slovenia, Municipality of Grosuplje,100,0
+Idrija, Slovenia, Municipality of Idrija,75,25
+Izola, Slovenia, Municipality of Izola,90,10
+Murska Sobota, Slovenia, City Municipality of Murska Sobota,62.5,50
+Ravne na Koroskem, Slovenia, Municipality of Ravne na Koroskem,75,50
+Slovenska Bistrica, Slovenia, Municipality of Slovenska Bistrica,100,75
+Slovenj Gradec, Slovenia, City Municipality of Slovenj Gradec,75,0
+Skofja Loka, Slovenia, Municipality of Skofja Loka,100,0
+Velenje, Slovenia, City Municipality of Velenje,75,50
+Zagorje ob Savi, Slovenia, Zagorje ob Savi Municipality,62.5,50
+Uelzen, Germany, Lower Saxony,100,50
+Schwedt/Oder, Germany, Brandenburg,87.5,50
+Esch-sur-Alzette, Luxembourg,None,75,50
+Deggendorf, Germany, Bavaria,50,0
+Maldonado, Uruguay, Maldonado Department,100,0
+Nanaimo, Canada, British Columbia,89.77272727,29.16666667
+Ceske Budejovice, Czech Republic,None,65,50
+Busan, South Korea,None,44.73684211,48.33333333
+San Diego, United States of America, California,74.38271605,52.36486486
+San Jose, United States of America, California,62.20930233,41.25
+Denver, United States of America, Colorado,53.1779661,36.83035714
+Houston, United States of America, Texas,45.86092715,57.09459459
+Phoenix, United States of America, Arizona,44.29347826,47.64705882
+Dallas, United States of America, Texas,63.38028169,42.69230769
+Fort Worth, United States of America, Texas,47.72727273,51.13636364
+Austin, United States of America, Texas,68.57142857,43.5
+El Paso, United States of America, Texas,63.75,44.64285714
+Memphis, United States of America, Tennessee,66.30434783,48.68421053
+Charlotte, United States of America, North Carolina,76.875,31.57894737
+Columbus, United States of America, Ohio,87.5,62.5
+Jacksonville, United States of America, Florida,75.65789474,66.21621622
+Guangzhou, People's Republic of China, Guangdong,29.32692308,68.47826087
+Nanjing, People's Republic of China, Jiangsu,26.92307692,75
+Long Beach, United States of America, California,50,32.69230769
+Maple Ridge, Canada, British Columbia,66.66666667,41.66666667
+Laredo, United States of America, Texas,0,100
+Los Angeles, Chile, Biobio Region,12.5,50
+Urumqi, People's Republic of China, Xinjiang,16.66666667,62.5
+Oakland, United States of America, California,72.14285714,33.33333333
+Thessaloniki, Greece,None,39.52380952,47.5
+Marikina, Philippines, Metro Manila,83.33333333,66.66666667
+Muntinlupa, Philippines, Metro Manila,40.625,83.33333333
+Pasay, Philippines, Metro Manila,25,100
+Ballarat, Australia, Victoria,89.0625,23.33333333
+Alice Springs, Australia, Northern Territory,65.625,28.125
+Sacramento, United States of America, California,55.09259259,39.89361702
+Biella, Italy, Piedmont,87.5,50
+Honolulu, United States of America, Hawaii,74.58333333,41.51785714
+Manchester, United Kingdom, England,52,37.77777778
+Providence, United States of America, Rhode Island,76.47058824,59.61538462
+Brooklyn, United States of America, New York,52.08333333,33.65384615
+Tucson, United States of America, Arizona,84.27419355,39.65517241
+Stockport, United Kingdom, England,75,0
+Nha Trang, Vietnam, Khanh Hoa,51.92307692,57.69230769
+Simferopol, Russia, Republic of Crimea,18.75,33.33333333
+Gori, Georgia, Shida Kartli,75,50
+Bucharest, Romania,None,23.50574713,55.02336449
+Tirana, Albania, Tirana County,18.31683168,73.17708333
+Welwyn Garden City, United Kingdom, England,100,0
+Stevenage, United Kingdom, England,75,0
+Neustrelitz, Germany, Mecklenburg-Western Pomerania,100,50
+Suwon, South Korea, Gyeonggi Province,28.125,6.25
+Daejeon, South Korea,None,33.92857143,42.5
+Daegu, South Korea,None,27.94117647,50
+Incheon, South Korea,None,27.08333333,33.33333333
+Skovde, Sweden, Vastra Gotaland County,100,0
+Aurora, United States of America, Illinois,75,25
+Bath, United Kingdom, England,40,35
+Bradford, United Kingdom, England,37.5,31.25
+Landstuhl, Germany, Rhineland-Palatinate,100,0
+Red Deer, Canada, Alberta,58.82352941,42.5
+Swansea, United Kingdom, Wales,80.55555556,10
+Bristol, United Kingdom, England,56.81818182,33.92857143
+Nashville, United States of America, Tennessee,70,42.94871795
+Salt Lake City, United States of America, Utah,23.13432836,41.66666667
+Ulaanbaatar, Mongolia,None,6.862745098,71.73913043
+Edinburgh, United Kingdom, Scotland,75.81967213,12.5
+Ashgabat, Turkmenistan,None,61.11111111,36.11111111
+Marseille, France,None,29.44444444,52.43902439
+Merida, Venezuela, Merida State,75,25
+Atlanta, United States of America, Georgia,59.6875,46.57534247
+Podgorica, Montenegro, Podgorica Municipality,51.13636364,38.88888889
+Wellington, New Zealand, Wellington Region,95.68965517,27.40384615
+Las Vegas, United States of America, Nevada,51.72413793,49.69135802
+Valletta, Malta,None,31.94444444,56.57894737
+Vancouver, Canada, British Columbia,80.56930693,31.66666667
+Liverpool, United Kingdom, England,71.66666667,20
+Albany, United States of America, New York,87.5,31.25
+Bremen, Germany,None,78.75,15.625
+Cabuyao, Philippines,None,25,100
+Harrisburg, United States of America, Pennsylvania,82.5,37.5
+Da Lat, Vietnam, L?m ???g,62.5,54.16666667
+Da Nang, Vietnam,None,50,51.19047619
+Uppsala, Sweden, Uppsala County,88.54166667,7.894736842
+Gothenburg, Sweden, Vastra Gotaland County,82.25806452,20.53571429
+Raciborz, Poland, Silesian Voivodeship,62.5,50
+Trenton, United States of America, New Jersey,85,100
+Newark, United States of America, New Jersey,50,62.5
+Kosice, Slovakia, Kosice Region,52.38095238,35.29411765
+Helsingborg, Sweden, Skane County,31.25,35
+Vasteras, Sweden, Vastmanland County,80.76923077,16.66666667
+Linkoping, Sweden, Ostergotland County,85,0
+Funchal, Portugal, Madeira,84.09090909,31.94444444
+Batumi, Georgia, Adjara,90.625,25
+Umea, Sweden, Vasterbotten County,97.22222222,0
+St. Gallen, Switzerland, Canton of St. Gallen,96.875,0
+Orebro, Sweden, Orebro County,87.5,12.5
+Zilina, Slovakia, Zilina region,55,31.25
+Trondheim, Norway, Trondelag,91,9.210526316
+Presov, Slovakia, Presov Region,58.33333333,25
+Trnava, Slovakia, Trnava Region,60.71428571,0
+Jieyang, People's Republic of China, Guangdong,12.5,50
+Aley, Lebanon, Mount Lebanon Governorate,75,100
+Jersey City, United States of America, New Jersey,58.33333333,60
+Kalmar, Sweden, Kalmar County,100,50
+Poprad, Slovakia, Presov Region,97.22222222,10
+Nitra, Slovakia, Nitra Region,75,50
+Keller, United States of America, Texas,66.66666667,25
+Ciudad Juarez, Mexico, Chihuahua,56.25,43.75
+Fukuoka, Japan, Fukuoka Prefecture,56.25,40.625
+Nausori, Fiji, Central Division,0,100
+Bergen, Norway, Vestland,80.3030303,17.59259259
+Davenport, United States of America, Iowa,86.36363636,53.57142857
+Ciudad Bolivar, Venezuela, Bolivar,100,50
+Martin, Slovakia, Zilina region,55,0
+Unaizah, Saudi Arabia, Al-Qassim Province,50,50
+Najran, Saudi Arabia, Najran Province,75,25
+Molndal, Sweden, Vastra Gotaland County,100,50
+Ruzomberok, Slovakia, Zilina region,45,50
+Jizan, Saudi Arabia, Jazan Province,25,100
+Jayapura, Indonesia, Papua,100,12.5
+Jackson, United States of America, Mississippi,85.41666667,28.57142857
+Augusta, United States of America, Maine,50,100
+Baton Rouge, United States of America, Louisiana,64.58333333,40.625
+Lansing, United States of America, Michigan,92.85714286,41.66666667
+Concord, United States of America, New Hampshire,91.66666667,15
+Lincoln, United States of America, Nebraska,86.66666667,27.5
+Annapolis, United States of America, Maryland,86.53846154,47.22222222
+Olinda, Brazil, Pernambuco,50,75
+Sao Luis, Brazil, Maranhao,50,100
+Springfield, United States of America, Illinois,90.625,62.5
+Hamadan, Iran, Hamadan Province,39.28571429,37.5
+Kozhikode, India, Kerala,57.25806452,70.23809524
+Saint Paul, United States of America, Minnesota,88.54166667,30
+Lahti, Finland,None,90.90909091,14.28571429
+Jixi, People's Republic of China, Heilongjiang,12.5,50
+Zunyi, People's Republic of China, Guizhou,0,50
+Jinzhou, People's Republic of China, Liaoning,0,75
+Zigong, People's Republic of China, Sichuan,0,50
+Akureyri, Iceland,None,85,75
+Hastings, United Kingdom, England,100,0
+Canterbury, United Kingdom, England,56.25,35.41666667
+Montgomery, United States of America, Alabama,70.83333333,56.25
+Boca Raton, United States of America, Florida,94.23076923,34.61538462
+Juneau, United States of America, Alaska,100,25
+Aswan, Egypt, Aswan Governorate,75,25
+Asyut, Egypt, Asyut Governorate,50,25
+Chengdu, People's Republic of China, Sichuan,22.14285714,58.87096774
+Zhengzhou, People's Republic of China, Henan,2.631578947,68.33333333
+Heredia, Costa Rica, Heredia Province,35.71428571,50
+Cartago, Costa Rica, Provincia de Cartago,78.125,18.75
+Jalgaon, India, Maharashtra,33.75,54.6875
+Rouen, France,None,47.72727273,57.14285714
+El Alto, Bolivia, La Paz Department,50,100
+Burlington, United States of America, Vermont,100,30
+Krakow, Poland, Lesser Poland Voivodeship,12.19879518,36.53846154
+Invercargill, New Zealand, Southland Region,72.22222222,30
+Allen, United States of America, Texas,75,12.5
+Las Cruces, United States of America, New Mexico,82.8125,33.33333333
+Sikar, India, Rajasthan,58.33333333,87.5
+Melitopol, Ukraine, Zaporizhzhia Oblast,75,50
+Jalandhar, India, Punjab,23.75,67.1875
+Little Rock, United States of America, Arkansas,89.28571429,22.05882353
+Hubli, India, Karnataka,26.78571429,69.44444444
+Hartford, United States of America, Connecticut,65.38461538,50
+Dover, United States of America, Delaware,100,50
+Gandia, Spain, Community of Valencia,100,50
+Nice, France,None,53.125,28.94736842
+Valparaiso, Chile, Valparaiso Region,51.92307692,30.55555556
+Sarnia, Canada, Ontario,70.58823529,50
+Fargo, United States of America, North Dakota,100,0
+Thunder Bay, Canada, Ontario,87.5,34.375
+Grand Forks, United States of America, North Dakota,87.5,37.5
+Brantford, Canada, Ontario,75,43.33333333
+Barrie, Canada, Ontario,83.82352941,29.16666667
+Oxford, United Kingdom, England,78.75,26.5625
+Burlington, Canada, Ontario,91.25,35.9375
+Belleville, Canada, Ontario,88.88888889,20
+Port-au-Prince, Haiti, Ouest,12.5,68.75
+New Orleans, United States of America, Louisiana,65.13157895,72.85714286
+Jingdezhen, People's Republic of China, Jiangxi,50,75
+Foshan, People's Republic of China, Guangdong,28.57142857,50
+Kyoto, Japan, Kyoto Prefecture,64.77272727,28.33333333
+Johannesburg, South Africa, Gauteng,42.75956284,57.36111111
+Hiroshima, Japan, Hiroshima Prefecture,79.16666667,25
+Kingston, Jamaica, Surrey County,33.125,58.57142857
+Salzburg, Austria, Salzburg,82.69230769,38.88888889
+Dayton, United States of America, Ohio,82.8125,33.33333333
+Albuquerque, United States of America, New Mexico,83.33333333,39.70588235
+Santo Domingo, Dominican Republic,None,32.54716981,70.28301887
+Oklahoma City, United States of America, Oklahoma,88.33333333,31.73076923
+Brisbane, Australia, Queensland,83.06878307,30.46448087
+Trinidad, Bolivia, Beni Department,75,50
+Kuwait City, Kuwait,None,35.13513514,56.89655172
+Colombo, Sri Lanka, Western Province,45.13274336,62.73148148
+Medina, Saudi Arabia, Medina Province,20,66.66666667
+Almaty, Kazakhstan,None,11.83035714,48.86363636
+Osaka, Japan, Osaka Prefecture,51.47058824,55.35714286
+Boise, United States of America, Idaho,68.93939394,32.5
+Izmir, Turkey, Izmir Province,47.08737864,58.60215054
+Lviv, Ukraine, Lviv Oblast,51.86567164,49.23076923
+Minneapolis, United States of America, Minnesota,79.51388889,33.57142857
+Bridgetown, Barbados, Saint Michael,90,15
+Puerto Montt, Chile, Los Lagos Region,25,50
+Apia, Samoa,None,70.83333333,40
+Salta, Argentina, Salta Province,60,50
+Calgary, Canada,None,80,24.8502994
+Fribourg, Switzerland, canton of Fribourg,92.85714286,25
+Aberdeen, United Kingdom, Scotland,79.76190476,14.70588235
+Porto, Portugal,None,68.44262295,34.58333333
+Port Moresby, Papua New Guinea,None,32.29166667,76.92307692
+Karaj, Iran, Alborz Province,29.16666667,59.375
+Cork, Ireland,None,83.33333333,28.125
+Munger, India, Bihar,100,62.5
+Salvador, Brazil, Bahia,83,51.31578947
+Pardubice, Czech Republic,None,50,41.66666667
+Rauma, Finland,None,100,0
+Tallahassee, United States of America, Florida,92.1875,41.66666667
+Bismarck, United States of America, North Dakota,95.83333333,50
+Auckland, New Zealand, Auckland Region,78.52348993,41.66666667
+Alajuela, Costa Rica, Alajuela Province,55,50
+Gulbarga, India,None,33.92857143,76.92307692
+Mariupol, Ukraine, Donetsk Oblast,12.5,91.66666667
+Cleveland, United States of America, Ohio,66.66666667,54.54545455
+Lublin, Poland, Lublin Voivodeship,35.9375,41.66666667
+Bloemfontein, South Africa, Free State,45.83333333,62.5
+Besancon, France,None,87.5,37.5
+Port Vila, Vanuatu, Shefa,75,70
+Milwaukee, United States of America, Wisconsin,79.06976744,43.29268293
+Sapporo, Japan, Hokkaido Prefecture,81.25,25
+Yangon, Myanmar, Yangon Region,17.59259259,78.5
+Nagasaki, Japan, Nagasaki Prefecture,33.33333333,66.66666667
+Yokohama, Japan, Kanagawa Prefecture,75,29.16666667
+Angers, France,None,100,25
+Columbia, United States of America, South Carolina,66.07142857,52.27272727
+Turku, Finland,None,90,11.66666667
+Adana, Turkey, Adana Province,55,12.5
+Santa Fe, United States of America, New Mexico,89.28571429,38.63636364
+Helena, United States of America, Montana,100,50
+Suva, Fiji, Central Division,57.5,58.75
+Maoming, People's Republic of China, Guangdong,25,50
+Liuzhou, People's Republic of China, Guangxi,0,50
+Cheyenne, United States of America, Wyoming,92.85714286,0
+Leeds, United Kingdom, England,53.67647059,19.64285714
+Port of Spain, Trinidad and Tobago,None,37.5,69.79166667
+Bodo, Norway, Nordland,100,0
+Sochi, Russia, Krasnodar Krai,75,42.85714286
+Anchorage, United States of America, Alaska,90,18.75
+Birkirkara, Malta,None,17.85714286,64.28571429
+Des Moines, United States of America, Iowa,82.5,38.33333333
+Cannes, France,None,75,25
+Hobart, Australia, Tasmania,92.85714286,21.05263158
+Manaus, Brazil, Amazonas,31.25,46.42857143
+Springfield, United States of America, Oregon,25,50
+Porto Alegre, Brazil, Rio Grande do Sul,54.66101695,59.25925926
+Norman, United States of America, Oklahoma,100,25
+Buffalo, United States of America, New York,77.08333333,36.95652174
+San Fernando, Philippines, Ilocos Region,37.5,87.5
+Tacloban, Philippines,None,75,70
+Bursa, Turkey, Bursa Province,55.76923077,37.5
+Benghazi, Libya,None,50,58.33333333
+Tampere, Finland,None,86.60714286,13.54166667
+Carson City, United States of America, Nevada,100,50
+Nancy, France,None,47.22222222,35
+Honiara, Solomon Islands,None,39.0625,84.72222222
+Topeka, United States of America, Kansas,81.25,56.25
+Raleigh, United States of America, North Carolina,84.44444444,31.25
+Aleppo, Syria, Aleppo Governorate,25,55
+Caen, France,None,81.25,31.25
+Bydgoszcz, Poland, Kuyavian-Pomeranian Voivodeship,34.52380952,42.64705882
+Nottingham, United Kingdom, England,54.6875,38.63636364
+Ulsan, South Korea,None,27.5,37.5
+Linz, Austria, Upper Austria,61.76470588,27.5
+St. George's, Grenada, Saint George Parish,55,25
+Thoothukudi, India, Tamil Nadu,50,50
+Mykolaiv, Ukraine, Mykolaiv Oblast,50,75
+Amiens, France,None,75,37.5
+Haifa, Israel, Haifa District,17.96875,54.62962963
+Castries, Saint Lucia, Castries Quarter,70.83333333,33.33333333
+Klagenfurt, Austria, Carinthia,71.42857143,16.66666667
+Kansas City, United States of America, Missouri,76.74418605,44.51219512
+Beersheba, Israel, Southern District,29.16666667,21.875
+Reims, France,None,81.25,18.75
+Sri Jayawardenepura Kotte, Sri Lanka, Western Province,75,75
+Talcahuano, Chile, Biobio Region,33.33333333,0
+Szombathely, Hungary, Vas County,100,50
+Isfahan, Iran, Isfahan Province,35.15625,44
+Gangneung, South Korea, Gangwon Province,25,50
+Geoje, South Korea, South Gyeongsang,37.5,50
+Gwangyang, South Korea, South Jeolla,0,100
+Gwangju, South Korea, Gyeonggi Province,41.66666667,0
+Gumi, South Korea, North Gyeongsang Province,25,50
+Gunsan, South Korea, North Jeolla Province,12.5,50
+Gimcheon, South Korea, North Gyeongsang Province,25,50
+Mokpo, South Korea, South Jeolla,37.5,50
+Gyeongju, South Korea, North Gyeongsang Province,25,50
+Bucheon, South Korea, Gyeonggi Province,10,0
+Seosan, South Korea, South Chungcheong Province,37.5,50
+Seongnam, South Korea, Gyeonggi Province,12.5,50
+Andong, South Korea, North Gyeongsang Province,25,50
+Ansan, South Korea, Gyeonggi Province,33.33333333,25
+Anyang, South Korea, Gyeonggi Province,7.5,58.33333333
+Yeosu, South Korea, South Jeolla,25,50
+Wonju, South Korea, Gangwon Province,12.5,50
+Uijeongbu, South Korea, Gyeonggi Province,25,50
+Icheon, South Korea, Gyeonggi Province,0,100
+Jeonju, South Korea, North Jeolla Province,19.44444444,100
+Jeju, South Korea, Jeju Province,50,60.71428571
+Jecheon, South Korea, North Chungcheong Province,12.5,50
+Cheonan, South Korea, South Chungcheong Province,25,50
+Cheongju, South Korea, North Chungcheong Province,7.142857143,50
+Chuncheon, South Korea, Gangwon Province,31.25,12.5
+Pyeongtaek, South Korea, Gyeonggi Province,0,75
+Pohang, South Korea, North Gyeongsang Province,43.75,37.5
+Clermont-Ferrand, France,None,80.55555556,15
+Kharkiv, Ukraine, Kharkiv Oblast,52.05882353,58.73493976
+Sheffield, United Kingdom, England,70.23809524,27.94117647
+York, United Kingdom, England,81.81818182,18.75
+Suzhou, People's Republic of China, Jiangsu,21.96969697,73.21428571
+Wenzhou, People's Republic of China, Zhejiang,10,75
+Wuxi, People's Republic of China, Jiangsu,12.5,87.5
+Huzhou, People's Republic of China, Zhejiang,5,100
+Shaoxing, People's Republic of China, Zhejiang,0,50
+Saint-Etienne, France,None,90,0
+Olympia, United States of America, Washington,87.5,18.75
+Palikir, Federated States of Micronesia, Pohnpei State,100,100
+Santiago de los Caballeros, Dominican Republic, Santiago Province,35,66.66666667
+Ningbo, People's Republic of China, Zhejiang,20.3125,75
+Belo Horizonte, Brazil, Minas Gerais,51.171875,47.45762712
+Nimes, France,None,75,50
+Le Havre, France,None,75,25
+Agra, India, Uttar Pradesh,23.61111111,69.82758621
+Harbin, People's Republic of China, Heilongjiang,14.28571429,57.5
+Donetsk, Ukraine, Donetsk Oblast,20,65
+Aigle, Switzerland, Canton of Vaud,75,25
+Cincinnati, United States of America, Ohio,57.57575758,43.10344828
+Omaha, United States of America, Nebraska,78.57142857,32.35294118
+Fresno, United States of America, California,21.25,78.125
+Plymouth, United Kingdom, England,73.80952381,23.61111111
+Edirne, Turkey, Edirne Province,33.33333333,50
+Richmond, United States of America, Virginia,73.17073171,27.63157895
+Chandigarh, India,None,54.41176471,58.11688312
+Plzen, Czech Republic,None,65,42.85714286
+Fortaleza, Brazil, Ceara,66.66666667,56.94444444
+Derby, United Kingdom, England,73.07692308,21.15384615
+Guayaquil, Ecuador, Guayas Province,41.21621622,70.51282051
+Cotonou, Benin, Littoral Department,25,100
+Louisville, United States of America, Kentucky,56.06060606,38.79310345
+Madison, United States of America, Wisconsin,86.76470588,40.32258065
+Salem, United States of America, Oregon,87.5,17.85714286
+Ketchikan, United States of America, Alaska,100,50
+Trois-Rivieres, Canada, Quebec,82.14285714,0
+Vaughan, Canada, Ontario,80.88235294,28.33333333
+Markham, Canada, Ontario,89.58333333,17.70833333
+La Plata, Argentina, Buenos Aires Province,40.90909091,63.63636364
+Toulon, France,None,60,41.66666667
+Brampton, Canada, Ontario,70.83333333,39.88095238
+Cordoba, Argentina, Cordoba Province,35,58.33333333
+Santa Rosa, Argentina, La Pampa,75,75
+San Salvador de Jujuy, Argentina, Province of Jujuy,75,50
+La Rioja, Argentina, La Rioja Province,100,50
+Mendoza, Argentina, Mendoza,65.625,53.57142857
+Viedma, Argentina, Rio Negro Province,100,75
+San Luis, Argentina, San Luis Province,75,50
+Santiago del Estero, Argentina, Santiago del Estero Province,75,25
+Charleston, United States of America, West Virginia,95,50
+Bugibba, Malta,None,40,65
+Viljandi, Estonia, Viljandi County,100,37.5
+Tulsa, United States of America, Oklahoma,75,38.63636364
+Paide, Estonia, Jarva County,100,0
+Monte Carlo, Monaco, Commune of Monaco,22.72727273,43.75
+Trabzon, Turkey, Trabzon Province,27.77777778,25
+Herat, Afghanistan, Herat,43.75,31.25
+Coimbra, Portugal, Coimbra,82.35294118,41.17647059
+Kandahar, Afghanistan, Kandahar,0,75
+Limoges, France,None,100,0
+Pecs, Hungary, Baranya County,62.5,25
+Dunkirk, France,None,36.11111111,45
+Gifu, Japan, Gifu Prefecture,62.5,50
+Guelma, Algeria, Annaba Province,25,50
+Sfax, Tunisia, Sfax Governorate,11.11111111,70.83333333
+Suceava, Romania, Suceava County,71.875,37.5
+Kavaje, Albania, Tirana County,100,75
+Sendai, Japan, Miyagi Prefecture,87.5,25
+Alcala de Henares, Spain, Community of Madrid,75,50
+Espoo, Finland, Uusimaa,95.45454545,19.44444444
+Saint-Denis, France, Reunion,75,50
+Oulu, Finland,None,86.95652174,12.5
+Santa Monica, United States of America, California,66.66666667,54.16666667
+Hassan, India, Karnataka,68.18181818,60.71428571
+Palo Alto, United States of America, California,56.25,50
+Green Bay, United States of America, Wisconsin,63.88888889,50
+Aix-en-Provence, France,None,78.57142857,50
+Torun, Poland, Kuyavian-Pomeranian Voivodeship,37.5,42.85714286
+Charleston, United States of America, South Carolina,75,57.69230769
+Bariloche, Argentina, Rio Negro Province,83.33333333,41.66666667
+Lucknow, India, Uttar Pradesh,25.66666667,72.82608696
+Salford, United Kingdom, England,100,50
+Basra, Iraq, Basra Governorate,27.08333333,72.91666667
+Dover, United States of America, New Hampshire,100,50
+Dnipro, Ukraine, Dnipropetrovsk Oblast,24.19354839,70.65217391
+Nashua, United States of America, New Hampshire,87.5,0
+Medellin, Colombia, Antioquia Department,23.9010989,38.23529412
+Kobe, Japan, Hyogo Prefecture,80,33.33333333
+Kayseri, Turkey, Kayseri Province,25,62.5
+Recife, Brazil, Pernambuco,49.16666667,77.41935484
+Manchester, United States of America, New Hampshire,76.92307692,38.88888889
+Amritsar, India, Punjab,21.56862745,76.70454545
+Oak Ridge, United States of America, Tennessee,87.5,50
+Strumica, North Macedonia, Strumica Municipality,68.75,28.125
+San Luis Obispo, United States of America, California,92.5,45.83333333
+Cambridge, United States of America, Massachusetts,91.66666667,21.875
+West Hartford, United States of America, Connecticut,91.66666667,6.25
+New Haven, United States of America, Connecticut,81.81818182,37.5
+New Bedford, United States of America, Massachusetts,25,75
+Stamford, United States of America, Connecticut,50,54.16666667
+Bridgeport, United States of America, Connecticut,79.16666667,66.66666667
+Waterbury, United States of America, Connecticut,80,0
+Worcester, United States of America, Massachusetts,91.66666667,75
+Pittsfield, United States of America, Massachusetts,89.28571429,100
+Fall River, United States of America, Massachusetts,100,50
+Newton, United States of America, Massachusetts,75,50
+Danbury, United States of America, Connecticut,75,0
+Somerville, United States of America, Massachusetts,100,12.5
+Portland, United States of America, Maine,82.14285714,42.85714286
+Rochester, United States of America, New York,64.70588235,47.91666667
+Irvine, United States of America, California,63.15789474,33.33333333
+Fremont, United States of America, California,79.16666667,15
+Scottsdale, United States of America, Arizona,68.75,28.84615385
+Reno, United States of America, Nevada,70.93023256,28.84615385
+Winston-Salem, United States of America, North Carolina,94.44444444,5
+Durham, United States of America, North Carolina,75,39.58333333
+Norfolk, United States of America, Virginia,100,75
+Orlando, United States of America, Florida,75.73529412,48.38709677
+Greensboro, United States of America, North Carolina,76.66666667,31.81818182
+Toledo, United States of America, Ohio,75,75
+Stockton, United States of America, California,44.23076923,71.875
+Lexington, United States of America, Kentucky,89.28571429,40
+Corpus Christi, United States of America, Texas,70,68.18181818
+Riverside, United States of America, California,45.83333333,53.33333333
+Santa Ana, United States of America, California,50,55
+Aurora, United States of America, Colorado,45.83333333,33.33333333
+Anaheim, United States of America, California,55.76923077,33.33333333
+Tampa, United States of America, Florida,79.78723404,45.93023256
+Bakersfield, United States of America, California,16.66666667,68.47826087
+Colorado Springs, United States of America, Colorado,79.41176471,38.39285714
+Virginia Beach, United States of America, Virginia,85.52631579,36.66666667
+Mesa, United States of America, Arizona,68.75,31.25
+Wichita, United States of America, Kansas,86.36363636,33.82352941
+Henderson, United States of America, Nevada,67.85714286,35
+Fort Wayne, United States of America, Indiana,66.66666667,43.75
+Chula Vista, United States of America, California,37.5,75
+Chandler, United States of America, Arizona,65,45
+Lubbock, United States of America, Texas,69.64285714,34.09090909
+Garland, United States of America, Texas,75,50
+Balzers, Liechtenstein,None,75,0
+Garden Grove, United States of America, California,75,0
+Mississauga, Canada, Ontario,81.69642857,32.69230769
+Demmin, Germany, Mecklenburg-Western Pomerania,100,50
+Osorno, Chile, Los Lagos Region,25,62.5
+Ovalle, Chile, Coquimbo Region,100,25
+Cali, Colombia, Valle del Cauca Department,67.04545455,42.1875
+Pereira, Colombia, Risaralda Department,25,75
+Gniezno, Poland, Greater Poland Voivodeship,50,0
+Puente Alto, Chile, Santiago Metropolitan Region,0,50
+Punta Arenas, Chile, Magellan and the Chilean Antarctic Region,94.44444444,45
+Gilbert, United States of America, Arizona,75,0
+Tempe, United States of America, Arizona,68.18181818,46.42857143
+Peoria, United States of America, Arizona,65,15
+Surprise, United States of America, Arizona,100,0
+Plano, United States of America, Texas,78.57142857,32.14285714
+Irving, United States of America, Texas,62.5,37.5
+Amarillo, United States of America, Texas,53.125,53.125
+Brownsville, United States of America, Texas,57.14285714,68.75
+Mesquite, United States of America, Texas,50,75
+McKinney, United States of America, Texas,87.5,18.75
+McAllen, United States of America, Texas,87.5,35.71428571
+Chiang Mai, Thailand, Chiang Mai,19.27710843,59.45945946
+Kolomyia, Ukraine, Ivano-Frankivsk Oblast,75,0
+Orem, United States of America, Utah,65.625,33.33333333
+Ogden, United States of America, Utah,80.55555556,0
+Rosario, Argentina, Santa Fe Province,71.42857143,57.14285714
+Mar del Plata, Argentina, Buenos Aires Province,82.14285714,35.71428571
+Kalisz, Poland, Greater Poland Voivodeship,50,50
+Konin, Poland, Greater Poland Voivodeship,25,25
+Leszno, Poland, Greater Poland Voivodeship,75,50
+Faenza, Italy, Emilia-Romagna,75,50
+Richmond Hill, Canada, Ontario,89.28571429,8.333333333
+Newmarket, Canada, Ontario,100,0
+Saltillo, Mexico, Coahuila,68.33333333,42.85714286
+Bahia Blanca, Argentina, Buenos Aires Province,58.33333333,58.33333333
+Haverhill, United States of America, Massachusetts,100,50
+Beverly, United States of America, Massachusetts,100,0
+Medford, United States of America, Massachusetts,100,0
+Woburn, United States of America, Massachusetts,87.5,50
+Norwalk, United States of America, Connecticut,75,30
+East Providence, United States of America, Rhode Island,100,50
+Woonsocket, United States of America, Rhode Island,80,100
+Nykoping, Sweden, Sodermanland County,100,50
+Kumanovo, North Macedonia, Kumanovo Municipality,16.66666667,91.66666667
+Visby, Sweden, Gotland County,75,0
+Valencia, Venezuela, Carabobo,39.28571429,96.42857143
+Cuenca, Ecuador, Azuay Province,45.39473684,28.67647059
+Fuenlabrada, Spain, Community of Madrid,87.5,100
+Harrow, United Kingdom, England,75,58.33333333
+Cabanatuan, Philippines,None,33.33333333,50
+Novi Sad, Serbia,None,59.23913043,47.15909091
+San Fernando, Philippines,None,0,100
+Angeles, Philippines,None,32.8125,79.6875
+Punta del Este, Uruguay, Maldonado Department,81.25,50
+San Bernardo, Chile, Santiago Metropolitan Region,10.88709677,88.72282609
+Olongapo, Philippines,None,64.28571429,79.16666667
+Newcastle, Australia, New South Wales,78,39.28571429
+Venice, United States of America, Florida,91.66666667,16.66666667
+Xuzhou, People's Republic of China, Jiangsu,12.5,75
+Lianyungang, People's Republic of China, Jiangsu,0,50
+Suqian, People's Republic of China, Jiangsu,0,50
+Huai'an, People's Republic of China, Jiangsu,15,25
+Yancheng, People's Republic of China, Jiangsu,0,50
+Yangzhou, People's Republic of China, Jiangsu,0,50
+Taizhou, People's Republic of China, Jiangsu,0,50
+Annaberg-Buchholz, Germany, Saxony,87.5,50
+Nantong, People's Republic of China, Jiangsu,7.142857143,58.33333333
+Zhenjiang, People's Republic of China, Jiangsu,12.5,62.5
+Changzhou, People's Republic of China, Jiangsu,4.166666667,62.5
+Jiaxing, People's Republic of China, Zhejiang,0,50
+Jinhua, People's Republic of China, Zhejiang,0,50
+Quzhou, People's Republic of China, Zhejiang,0,50
+Lishui, People's Republic of China, Zhejiang,0,50
+Zhoushan, People's Republic of China, Zhejiang,12.5,50
+Banff, Canada, Alberta,100,0
+Shijiazhuang, People's Republic of China, Hebei,0,100
+Tangshan, People's Republic of China, Hebei,0,50
+Qinhuangdao, People's Republic of China, Hebei,0,50
+Xingtai, People's Republic of China, Hebei,0,50
+Baoding, People's Republic of China, Hebei,35.71428571,33.33333333
+Zhangjiakou, People's Republic of China, Hebei,0,50
+Chengde, People's Republic of China, Hebei,0,50
+Cangzhou, People's Republic of China, Hebei,0,25
+Langfang, People's Republic of China, Hebei,0,50
+Hengshui, People's Republic of China, Hebei,0,50
+Doncaster, United Kingdom, England,15,45.83333333
+Kakinada, India, Andhra Pradesh,62.5,37.5
+Zhuhai, People's Republic of China, Guangdong,41.66666667,65
+Shantou, People's Republic of China, Guangdong,25,50
+Narvik, Norway, Nordland,90,100
+Shaoguan, People's Republic of China, Guangdong,25,50
+Jiangmen, People's Republic of China, Guangdong,12.5,50
+Zhanjiang, People's Republic of China, Guangdong,35,50
+Zhaoqing, People's Republic of China, Guangdong,12.5,50
+Mo i Rana, Norway, Nordland,80,0
+Huizhou, People's Republic of China, Guangdong,25,50
+Meizhou, People's Republic of China, Guangdong,25,50
+Shanwei, People's Republic of China, Guangdong,30,50
+Heyuan, People's Republic of China, Guangdong,40,0
+Yangjiang, People's Republic of China, Guangdong,20,100
+Dongguan, People's Republic of China, Guangdong,35,50
+Zhongshan, People's Republic of China, Guangdong,29.16666667,87.5
+Chaozhou, People's Republic of China, Guangdong,25,50
+Yunfu, People's Republic of China, Guangdong,25,50
+Uzice, Serbia, Zlatibor District,25,75
+Columbia, United States of America, Missouri,96.42857143,25
+Swakopmund, Namibia, Erongo Region,50,50
+Bejaia, Algeria, Bejaia Province,58.33333333,50
+Zalaegerszeg, Hungary, Zala County,0,100
+Napa, United States of America, California,92.85714286,37.5
+Ashkelon, Israel, Southern District,5,100
+Malacca, Malaysia, Melaka,75,25
+George Town, Malaysia,None,50,58.33333333
+Campeche, Mexico, Campeche,80,68.75
+Chihuahua City, Mexico, Chihuahua,81.25,47.91666667
+Colima, Mexico, Colima,75,37.5
+Latur, India, Maharashtra,83.33333333,58.33333333
+Brandon, Canada, Manitoba,85,40
+Nellore, India, Andhra Pradesh,31.48148148,66.66666667
+Navi Mumbai, India, Maharashtra,40.2173913,55.27522936
+Jonesboro, United States of America, Arkansas,50,50
+Semey, Kazakhstan, East Kazakhstan Region,25,75
+Taicang, People's Republic of China, Jiangsu,0,100
+Vanadzor, Armenia, Lori Region,25,50
+General Trias, Philippines,None,25,25
+Magallanes, Philippines,None,50,50
+Barranquilla, Colombia, Atlantico Department,52.77777778,50
+Koszalin, Poland, West Pomeranian Voivodeship,55,50
+Abadan, Iran, Khuzestan Province,0,50
+Bacoor, Philippines,None,33.33333333,71.42857143
+Dasmarinas, Philippines,None,28.57142857,79.6875
+Imus, Philippines,None,25,60
+Tagaytay, Philippines,None,86.11111111,37.5
+Vernier, Switzerland, Canton of Geneva,12.5,75
+Baden, Switzerland, Canton Aargau,75,20
+Nyon, Switzerland, Canton of Vaud,100,0
+Lancy, Switzerland, Canton of Geneva,75,0
+Dubendorf, Switzerland, Canton of Zurich,100,50
+Baar, Switzerland, Canton of Zug,75,50
+High Wycombe, United Kingdom, England,62.5,50
+Glogow, Poland, Lower Silesian Voivodeship,50,50
+Jaipur, India, Rajasthan,43.6746988,63.55263158
+Kanpur, India, Uttar Pradesh,16.40625,76.66666667
+Indore, India, Madhya Pradesh,45,70.56451613
+Davos, Switzerland, Grisons,100,50
+La Chaux-de-Fonds, Switzerland, Canton of Neuchatel,75,0
+Olten, Switzerland, Canton of Solothurn,80,100
+Sion, Switzerland, Canton of Valais,80,6.25
+Zug, Switzerland, Canton of Zug,91.66666667,8.333333333
+Vevey, Switzerland, Canton of Vaud,100,0
+Nanping, People's Republic of China, Fujian,37.5,50
+Putian, People's Republic of China, Fujian,35,50
+Sanming, People's Republic of China, Fujian,25,50
+Quanzhou, People's Republic of China, Fujian,25,75
+Xiamen, People's Republic of China, Fujian,61.11111111,48.21428571
+Zhangzhou, People's Republic of China, Fujian,0,50
+Longyan, People's Republic of China, Fujian,25,50
+Ningde, People's Republic of China, Fujian,25,50
+Solothurn, Switzerland, Canton of Solothurn,100,50
+Chur, Switzerland, Grisons,100,0
+Xining, People's Republic of China, Qinghai,5,75
+Cham, Switzerland, Canton of Zug,100,0
+Neuchatel, Switzerland, Canton of Neuchatel,92.85714286,0
+Montreux, Switzerland, Canton of Vaud,62.5,50
+Langenthal, Switzerland, Canton of Bern,100,0
+Shiyan, People's Republic of China, Hubei,0,50
+Jingzhou, People's Republic of China, Hubei,0,50
+Yichang, People's Republic of China, Hubei,0,50
+Xiangyang, People's Republic of China, Hubei,15,50
+Huanggang, People's Republic of China, Hubei,0,100
+Portsmouth, United Kingdom, England,60,40
+Kurchatov, Russia, Kursk Oblast,75,75
+Taiyuan, People's Republic of China, Shanxi,0,100
+Datong, People's Republic of China, Shanxi,12.5,50
+Yangquan, People's Republic of China, Shanxi,0,50
+Changzhi, People's Republic of China, Shanxi,0,50
+Jincheng, People's Republic of China, Shanxi,0,50
+Jinzhong, People's Republic of China, Shanxi,0,50
+Xinzhou, People's Republic of China, Shanxi,0,50
+Linfen, People's Republic of China, Shanxi,22.22222222,55
+Dalian, People's Republic of China, Liaoning,26.78571429,50
+Fushun, People's Republic of China, Liaoning,0,50
+Benxi, People's Republic of China, Liaoning,0,50
+Dandong, People's Republic of China, Liaoning,16.66666667,37.5
+Yingkou, People's Republic of China, Liaoning,0,50
+Panjin, People's Republic of China, Liaoning,0,50
+Tieling, People's Republic of China, Liaoning,0,50
+Huludao, People's Republic of China, Liaoning,0,50
+San Pedro, Philippines,None,25,0
+Calamba, Philippines,None,58.33333333,77.77777778
+Santa Rosa, Philippines,None,50,62.5
+Dzerzhinsk, Russia, Nizhny Novgorod Oblast,100,50
+Marion, United States of America, Arkansas,0,75
+Kluczbork, Poland, Opole Voivodeship,50,50
+Cabot, United States of America, Arkansas,75,25
+Russellville, United States of America, Arkansas,93.75,50
+Bullhead City, United States of America, Arizona,100,50
+Texarkana, United States of America, Arkansas,87.5,50
+Rogers, United States of America, Arkansas,87.5,12.5
+Dothan, United States of America, Alabama,100,62.5
+Fort Smith, United States of America, Arkansas,95,25
+Tuscaloosa, United States of America, Alabama,86.11111111,40
+Fairbanks, United States of America, Alaska,68.18181818,10
+Van Buren, United States of America, Arkansas,100,50
+Kingman, United States of America, Arizona,100,75
+Florence, United States of America, Alabama,100,50
+Mulhouse, France,None,87.5,25
+Yuma, United States of America, Arizona,77.77777778,45
+Flagstaff, United States of America, Arizona,100,18.75
+Southampton, United Kingdom, England,67.30769231,46.875
+Palmer, United States of America, Alaska,95,0
+Konya, Turkey, Konya Province,18.18181818,45
+Huntsville, United States of America, Alabama,95,25
+Mobile, United States of America, Alabama,75,57.14285714
+Maricopa, United States of America, Arizona,100,50
+Murfreesboro, United States of America, Arkansas,87.5,37.5
+Debrecen, Hungary, Hajdu-Bihar County,56.57894737,20.83333333
+Sierra Vista, United States of America, Arizona,75,30
+Seward, United States of America, Alaska,100,0
+Hot Springs, United States of America, Arkansas,100,0
+Prescott, United States of America, Arizona,96.42857143,25
+Wasilla, United States of America, Alaska,96.42857143,33.33333333
+Varanasi, India, Uttar Pradesh,19.33962264,70.91836735
+Kodiak, United States of America, Alaska,100,25
+Christchurch, New Zealand, Canterbury Region,80.11363636,33.75
+Daugavpils, Latvia,None,50,37.5
+Tabriz, Iran, East Azerbaijan Province,30.26315789,47.72727273
+Patna, India, Bihar,14.49275362,68.25396825
+Shreveport, United States of America, Louisiana,78.125,91.66666667
+Antakya, Turkey, Hatay Province,87.5,50
+Bhopal, India, Madhya Pradesh,48.92857143,67.30769231
+Monterrey, Mexico, Nuevo Leon,23.79310345,50
+Charleroi, Belgium, Wallonia,50,60
+Olomouc, Czech Republic,None,66.66666667,20
+Acapulco, Mexico, Guerrero,36.36363636,77.27272727
+Szeged, Hungary, Csongrad-Csanad County,69.44444444,25
+Giza, Egypt, Giza Governorate,8.333333333,79.16666667
+Gresham, United States of America, Oregon,100,0
+Beaverton, United States of America, Oregon,81.25,6.25
+Santos, Brazil, Sao Paulo,65.625,18.75
+Temuco, Chile, Araucania Region,18.75,37.5
+La Rochelle, France,None,90,0
+Olsztyn, Poland, Warmian-Masurian Voivodeship,42.70833333,43.75
+Van, Turkey, Van Province,0,50
+Leicester, United Kingdom, England,70.3125,27.08333333
+Goiania, Brazil, Goias,68.75,39.58333333
+Durres, Albania, Durres County,37.5,62.5
+Mosul, Iraq,None,0,75
+Sibiu, Romania, Sibiu County,77.63157895,21.66666667
+Diyarbakir, Turkey, Diyarbakir Province,18.75,0
+Mons, Belgium, Wallonia,80,50
+Shimla, India,None,63.95348837,62.5
+Savannah, United States of America, Georgia,64.0625,52.08333333
+Saue, Estonia, Harju County,100,0
+Changchun, People's Republic of China, Jilin,16.66666667,56.81818182
+Opole, Poland, Opole Voivodeship,37.5,45.45454545
+Liaoyuan, People's Republic of China, Jilin,12.5,50
+Baishan, People's Republic of China, Jilin,0,50
+Baicheng, People's Republic of China, Jilin,0,50
+London, Canada, Ontario,69.82758621,51
+Sopot, Poland, Pomeranian Voivodeship,45.45454545,53.57142857
+Rawalpindi, Pakistan, Punjab,33.33333333,79.34782609
+Chrzanow, Poland, Lesser Poland Voivodeship,37.5,50
+Gaziantep, Turkey, Gaziantep Province,25,37.5
+Sugar Land, United States of America, Texas,87.5,37.5
+Mostar, Bosnia and Herzegovina, Federation of Bosnia and Herzegovina,93.18181818,35
+Oradea, Romania,None,65.47619048,26.66666667
+Novokuznetsk, Russia, Kemerovo Oblast,0,45
+Greeley, United States of America, Colorado,95,0
+Waukesha, United States of America, Wisconsin,87.5,50
+Appleton, United States of America, Wisconsin,89.28571429,25
+Magnitogorsk, Russia, Chelyabinsk Oblast,0,72.72727273
+Nizhny Tagil, Russia, Sverdlovsk Oblast,0,100
+Volzhsky, Russia,None,0,75
+Ourense, Spain, Galicia,100,33.33333333
+Ibb, Yemen, Ibb Governorate,100,75
+Cluj-Napoca, Romania, Cluj County,57.11206897,33.40909091
+Newport, United Kingdom, Wales,82.14285714,58.33333333
+Narva, Estonia, Ida-Viru County,75,66.66666667
+Kielce, Poland, Swietokrzyskie Voivodeship,50,50
+Bytom, Poland, Silesian Voivodeship,35,75
+Parnu, Estonia, Parnu County,75,25
+Miskolc, Hungary, Borsod-Abauj-Zemplen County,44.44444444,15
+Corinth, Greece, Peloponnese Region,87.5,50
+Czestochowa, Poland, Silesian Voivodeship,45.83333333,12.5
+Rovaniemi, Finland,None,100,15
+Zabrze, Poland, Silesian Voivodeship,15.625,37.5
+Ventspils, Latvia,None,92.85714286,8.333333333
+Lucena, Philippines,None,54.16666667,69.23076923
+Chorzow, Poland, Silesian Voivodeship,25,50
+Zgierz, Poland, Lodz Voivodeship,75,50
+Bakal, Russia, Chelyabinsk Oblast,75,100
+Balashikha, Russia, Moscow Oblast,25,58.33333333
+Elblag, Poland, Warmian-Masurian Voivodeship,54.16666667,50
+Zielona Gora, Poland, Lubusz Voivodeship,75,12.5
+Plock, Poland, Masovian Voivodeship,33.33333333,45
+Gorzow Wielkopolski, Poland, Lubusz Voivodeship,55,75
+Radom, Poland, Masovian Voivodeship,40,50
+Slupsk, Poland, Pomeranian Voivodeship,87.5,50
+Sosnowiec, Poland, Silesian Voivodeship,17.85714286,25
+Gliwice, Poland, Silesian Voivodeship,19.11764706,59.61538462
+Legnica, Poland, Lower Silesian Voivodeship,50,50
+Tarnow, Poland, Lesser Poland Voivodeship,37.5,50
+Wloclawek, Poland, Kuyavian-Pomeranian Voivodeship,45,75
+Binangonan, Philippines,None,75,50
+Cainta, Philippines,None,45,60
+Rybnik, Poland, Silesian Voivodeship,13.88888889,41.66666667
+Akranes, Iceland,None,100,37.5
+Sivas, Turkey, Sivas Province,33.33333333,75
+Puerto Galera, Philippines,None,50,50
+Valmiera, Latvia,None,100,50
+Belize City, Belize, Belize District,50,77.77777778
+Dabrowa Gornicza, Poland, Silesian Voivodeship,33.33333333,25
+Kilkenny, Ireland, Leinster,75,75
+Pelotas, Brazil, Rio Grande do Sul,50,50
+Matola, Mozambique, Maputo Province,37.5,50
+Kolobrzeg, Poland, West Pomeranian Voivodeship,100,0
+Caxias do Sul, Brazil, Rio Grande do Sul,85,37.5
+Mwanza, Tanzania, Mwanza Region,60,55
+Walbrzych, Poland, Lower Silesian Voivodeship,36.11111111,60
+Puerto Princesa, Philippines, Western Visayas,62.5,54.16666667
+Durango, Mexico, Durango,83.33333333,50
+Chatham-Kent, Canada, Ontario,60,25
+Chuzhou, People's Republic of China, Anhui,0,50
+Elbasan, Albania, Elbasan County,0,25
+Bar, Montenegro, Bar Municipality,56.25,50
+Korce, Albania, Korce County,75,25
+Viseu, Portugal, Viseu,79.16666667,37.5
+Leuven, Belgium, Flemish Region,56.25,37.5
+Mashhad, Iran, Razavi Khorasan Province,27.38095238,56.25
+Port Shepstone, South Africa,None,75,100
+Jhelum, Pakistan, Punjab,87.5,87.5
+Eau Claire, United States of America, Wisconsin,96.42857143,33.33333333
+Erzurum, Turkey, Erzurum Province,21.875,12.5
+Nanyuki, Kenya,None,100,25
+Grudziadz, Poland, Kuyavian-Pomeranian Voivodeship,45,0
+Dundee, United Kingdom, Scotland,88.88888889,8.333333333
+Charlottesville, United States of America, Virginia,100,58.33333333
+Tijuana, Mexico, Baja California,33.33333333,69.23076923
+Vaasa, Finland,None,92.5,8.333333333
+Port Elizabeth, South Africa, Eastern Cape,80.26315789,56.25
+Kimberley, South Africa, Northern Cape,31.25,87.5
+Acre, Israel, Northern District,25,75
+Tangier, Morocco, Tanger-Tetouan-Al Hoceima,45.58823529,35.41666667
+Wolverhampton, United Kingdom, England,33.33333333,33.33333333
+Eisenstadt, Austria, Burgenland,87.5,50
+Fort McMurray, Canada, Alberta,70,41.66666667
+Antibes, France,None,65,33.33333333
+Weinan, People's Republic of China, Shaanxi,0,50
+Mangalore, India, Karnataka,65.09433962,47.53289474
+Vantaa, Finland, Uusimaa,87.5,12.5
+Beverly Hills, United States of America, California,100,0
+Yonkers, United States of America, New York,100,50
+Niagara Falls, United States of America, New York,100,50
+Kingston upon Hull, United Kingdom, England,59.09090909,42.85714286
+Waco, United States of America, Texas,81.25,68.75
+Frisco, United States of America, Texas,87.5,29.16666667
+Beaumont, United States of America, Texas,70.83333333,87.5
+Denton, United States of America, Texas,62.5,37.5
+Midland, United States of America, Texas,75,100
+Round Rock, United States of America, Texas,75,0
+Wichita Falls, United States of America, Texas,62.5,43.75
+Odessa, United States of America, Texas,100,50
+Lafayette, United States of America, Louisiana,92.85714286,0
+Nis, Serbia, Nisava District,28.125,40.27777778
+Oyster Bay, United States of America, New York,100,25
+Galway, Ireland, Connacht,92.04545455,44.44444444
+Roy, United States of America, Utah,100,50
+Norwich, United Kingdom, England,71.05263158,31.66666667
+Szekesfehervar, Hungary, Fejer County,62.5,18.75
+Hoa Binh, Vietnam, Hoa Binh,75,75
+Mazar-i-Sharif, Afghanistan, Balkh,11.11111111,83.33333333
+Luxor, Egypt, Luxor Governorate,75,37.5
+Banja Luka, Bosnia and Herzegovina, Republika Srpska,45.58823529,58.59375
+Sioux Falls, United States of America, South Dakota,81.81818182,32.14285714
+Brighton, United Kingdom, England,82.14285714,21.73913043
+Wiener Neustadt, Austria, Lower Austria,87.5,50
+Natal, Brazil, Rio Grande do Norte,80.68181818,59.09090909
+Shkoder, Albania, Shkoder County,75,33.33333333
+Polokwane, South Africa, Limpopo,50,50
+Aden, Yemen, 'Adan Governorate,16.66666667,75
+Oran, Algeria, Oran Province,50,35.71428571
+Hanover, United States of America, New Hampshire,100,50
+Ubon Ratchathani, Thailand, Ubon Ratchathani,50,50
+Pau, France,None,75,50
+Erbil, Iraq,None,36.36363636,64.77272727
+Douala, Cameroon, Littoral,40,79.16666667
+Florianopolis, Brazil, Santa Catarina,82.60869565,67.39130435
+Kolomna, Russia, Moscow Oblast,50,25
+Dunedin, New Zealand, Otago Region,85.52631579,15.38461538
+Hamilton, Canada, Ontario,42.79661017,54.01785714
+Patras, Greece, West Greece Region,60,41.66666667
+Volgodonsk, Russia, Rostov Oblast,25,75
+Limerick, Ireland,None,80.43478261,38.15789474
+Namur, Belgium, Wallonia,72.22222222,55
+Gyor, Hungary, Gyor-Moson-Sopron County,79.16666667,0
+Port Said, Egypt, Port Said Governorate,66.66666667,50
+Suez, Egypt, Suez Governorate,0,100
+Jyvaskyla, Finland,None,95.83333333,0
+Saitama, Japan, Saitama Prefecture,68.75,37.5
+Exeter, United Kingdom, England,79.16666667,13.63636364
+Siauliai, Lithuania,None,57.14285714,58.33333333
+Stoke-on-Trent, United Kingdom, England,67.85714286,33.33333333
+Domodedovo, Russia, Moscow Oblast,50,37.5
+Springfield, United States of America, Missouri,84.72222222,42.30769231
+Galveston, United States of America, Texas,85.71428571,50
+Erzincan, Turkey, Erzincan Province,29.16666667,50
+Sandakan, Malaysia, Sabah,75,50
+Kota Kinabalu, Malaysia, Sabah,47.91666667,45.45454545
+Abingdon, United States of America, Virginia,100,50
+Camden, United States of America, New Jersey,87.5,50
+Hoboken, United States of America, New Jersey,56.25,62.5
+Chon Buri, Thailand, Chon Buri,60.71428571,50
+Livermore, United States of America, California,75,54.16666667
+Zabok, Croatia, Krapina-Zagorje County,25,100
+Zabol, Iran, Sistan and Baluchestan Province,14.28571429,66.66666667
+Brossard, Canada, Quebec,100,50
+Saguenay, Canada, Quebec,96.875,18.75
+Zacatecas, Mexico, Zacatecas,82.14285714,37.5
+Longueuil, Canada, Quebec,100,37.5
+Sherbrooke, Canada, Quebec,90.78947368,31.66666667
+Boisbriand, Canada, Quebec,75,25
+Atlantic City, United States of America, New Jersey,91.66666667,37.5
+Richmond, Canada, Quebec,80,50
+Gold Coast, Australia, Queensland,82.63888889,32.60869565
+Brest, Belarus, Brest Region,31.25,55
+Tainan, Taiwan,None,31.25,68.75
+Chateauguay, Canada, Quebec,100,0
+Victoriaville, Canada, Quebec,91.66666667,50
+Mascouche, Canada, Quebec,100,50
+Rouyn-Noranda, Canada, Quebec,91.66666667,12.5
+Laval, Canada, Quebec,91.07142857,41.66666667
+Gatineau, Canada, Quebec,88.63636364,42.85714286
+Granby, Canada, Quebec,100,75
+Drummondville, Canada, Quebec,100,0
+Montmagny, Canada, Quebec,100,50
+Salaberry-de-Valleyfield, Canada, Quebec,85,50
+Senneterre, Canada, Quebec,100,50
+Sainte-Adele, Canada, Quebec,90,100
+Allentown, United States of America, Pennsylvania,60.71428571,75
+Grants Pass, United States of America, Oregon,62.5,75
+Kansk, Russia, Krasnoyarsk Krai,0,75
+Hengyang, People's Republic of China, Hunan,0,50
+Zakopane, Poland, Lesser Poland Voivodeship,33.33333333,50
+Zakynthos, Greece,None,100,25
+Ruma, Serbia,None,25,75
+Banska Bystrica, Slovakia, Banska Bystrica Region,62.5,25
+Trencin, Slovakia, Trencin Region,78.57142857,41.66666667
+Zalau, Romania, Salaj County,100,75
+Zamosc, Poland, Lublin Voivodeship,50,50
+Decin, Czech Republic,None,62.5,50
+Veszprem, Hungary, Veszprem County,96.42857143,8.333333333
+Teplice, Czech Republic,None,75,0
+Liberec, Czech Republic,None,90.625,12.5
+Chomutov, Czech Republic,None,75,50
+Most, Czech Republic,None,62.5,50
+Zanjan, Iran, Zanjan Province,52.77777778,58.33333333
+Zanesville, United States of America, Ohio,50,85
+Manisa, Turkey, Manisa Province,16.66666667,50
+Zaozhuang, People's Republic of China, Shandong,0,50
+Stip, North Macedonia, Stip Municipality,50,40
+Zapopan, Mexico, Jalisco,58.92857143,42.85714286
+Jablonec nad Nisou, Czech Republic,None,75,0
+Zgorzelec, Poland, Lower Silesian Voivodeship,62.5,50
+Jelenia Gora, Poland, Lower Silesian Voivodeship,50,50
+Zaria, Nigeria, Kaduna State,0,100
+Zawiercie, Poland, Silesian Voivodeship,25,50
+Zary, Poland, Lubusz Voivodeship,62.5,50
+Yueyang, People's Republic of China, Hunan,0,50
+Kiryat Bialik, Israel, Haifa District,29.16666667,37.5
+Givatayim, Israel, Tel Aviv District,25,50
+Karmiel, Israel, Northern District,53.57142857,0
+Beit Shemesh, Israel, Jerusalem District,37.5,66.66666667
+Afula, Israel, Northern District,41.66666667,37.5
+Arad, Israel, Southern District,41.66666667,37.5
+Herzliya, Israel, Tel Aviv District,80,15
+Kiryat Ata, Israel, Haifa District,25,50
+St Helens, United Kingdom, England,62.5,25
+Brookhaven, United States of America, Georgia,50,75
+Mogilev, Belarus, Mahiliou Region,53.125,50
+Korolyov, Russia, Moscow Oblast,25,87.5
+Kladno, Czech Republic,None,75,75
+Opava, Czech Republic,None,62.5,50
+Nakhodka, Russia, Primorsky Krai,25,75
+Uzhhorod, Ukraine, Zakarpattia Oblast,54.16666667,50
+Zhytomyr, Ukraine, Zhytomyr Oblast,43.75,56.25
+Khmelnytskyi, Ukraine, Khmelnytskyi Oblast,91.66666667,0
+Kremenchuk, Ukraine, Poltava Oblast,0,100
+Ivano-Frankivsk, Ukraine, Ivano-Frankivsk Oblast,28.57142857,45
+Kherson, Ukraine, Kherson Oblast,54.54545455,54.54545455
+Rivne, Ukraine, Rivne Oblast,75,50
+Ternopil, Ukraine, Ternopil Oblast,85.71428571,57.14285714
+Poltava, Ukraine, Poltava Oblast,70,35
+Sumy, Ukraine, Sumy Oblast,46.42857143,53.57142857
+Joinville, Brazil, Santa Catarina,77.94117647,58.82352941
+Struga, North Macedonia, Struga Municipality,35,70
+Usti nad Labem, Czech Republic,None,62.5,87.5
+Tetovo, North Macedonia, Tetovo Municipality,10.90909091,65.77669903
+Prilep, North Macedonia, Prilep Municipality,58.33333333,37.5
+Veles, North Macedonia, Veles Municipality,25,50
+Chernihiv, Ukraine, Chernihiv Oblast,58.33333333,75
+Cherkasy, Ukraine, Cherkasy Oblast,30.55555556,53.125
+Gostivar, North Macedonia, Gostivar Municipality,66.66666667,83.33333333
+Gevgelija, North Macedonia, Gevgelija Municipality,100,33.33333333
+Vinnytsia, Ukraine, Vinnytsia Oblast,62.5,71.42857143
+Bitola, North Macedonia, Bitola Municipality,35.625,44.44444444
+Horlivka, Ukraine, Donetsk Oblast,0,100
+King's Lynn, United Kingdom, England,0,100
+Chernivtsi, Ukraine, Chernivtsi Oblast,81.25,26.25
+Piotrkow Trybunalski, Poland, Lodz Voivodeship,35,25
+Kicevo, North Macedonia, Kicevo Municipality,25,37.5
+Gwalior, India, Madhya Pradesh,25,72.97297297
+Pabianice, Poland, Lodz Voivodeship,29.16666667,50
+Bushehr, Iran, Bushehr Province,0,100
+Santa Cruz, United States of America, California,88.23529412,34.61538462
+Santa Clara, United States of America, California,75,35
+Arequipa, Peru, Arequipa,18.33333333,88.33333333
+Santa Barbara, United States of America, California,83.82352941,56.25
+Faro, Portugal,None,79.16666667,25
+Vlore, Albania, Vlore County,66.66666667,75
+Batman, Turkey, Batman Province,0,50
+Ruse, Bulgaria, Ruse Province,21.42857143,50
+Samsun, Turkey, Samsun Province,31.81818182,50
+Inverness, United Kingdom, Scotland,84.375,56.25
+Heraklion, Greece,None,86.76470588,50
+Salisbury, United Kingdom, England,64.28571429,42.85714286
+Valdivia, Chile, Los Rios Region,0,50
+Fukushima, Japan, Fukushima Prefecture,33.33333333,66.66666667
+Reading, United Kingdom, England,72.82608696,30.55555556
+Czeladz, Poland, Silesian Voivodeship,50,25
+Konotop, Ukraine, Sumy Oblast,75,25
+Kuopio, Finland,None,95.83333333,37.5
+Allahabad, India, Uttar Pradesh,13.7195122,75
+Oskemen, Kazakhstan, East Kazakhstan Region,10.71428571,60.71428571
+Cartagena, Spain, Region of Murcia,65.625,25
+Port Antonio, Jamaica, Surrey County,75,100
+Dezhou, People's Republic of China, Shandong,0,50
+Akron, United States of America, Ohio,65,83.33333333
+Ramenskoye, Russia,None,25,50
+West Palm Beach, United States of America, Florida,72.5,66.66666667
+Thrissur, India, Kerala,47.82608696,75
+Kopavogur, Iceland,None,100,50
+Coslada, Spain, Community of Madrid,70.83333333,50
+Kawasaki, Japan, Kanagawa Prefecture,70,25
+Chambery, France,None,87.5,50
+Merida, Mexico, Yucatan,71.09375,50
+Teresina, Brazil, Piaui,75,75
+Pleven, Bulgaria, Pleven Province,17.85714286,100
+Stornoway, United Kingdom, Scotland,100,0
+Fort Lauderdale, United States of America, Florida,81.57894737,42.10526316
+Malatya, Turkey, Malatya Province,0,50
+Upper Hutt, New Zealand, Wellington Region,100,50
+Billings, United States of America, Montana,75,40
+West Lafayette, United States of America, Indiana,75,75
+Crescent City, United States of America, California,100,0
+Eger, Hungary, Heves County,100,50
+Kalamazoo, United States of America, Michigan,88.63636364,53.57142857
+Kragujevac, Serbia, Sumadija District,50,43.75
+Joao Pessoa, Brazil, Paraiba,86.11111111,43.75
+Liepaja, Latvia,None,90.38461538,5.555555556
+Yavne, Israel, Central District,25,50
+Thiruvananthapuram, India,None,52.71084337,53.28947368
+Cakovec, Croatia, Medimurje County,100,37.5
+Kalamata, Greece, Peloponnese Region,50,40
+Craiova, Romania, Dolj County,53.84615385,36.11111111
+Adiyaman, Turkey, Adiyaman Province,0,50
+Vitoria, Brazil, Espirito Santo,34.61538462,55
+Sopron, Hungary, Gyor-Moson-Sopron County,100,0
+Dobrich, Bulgaria, Dobrich Province,37.5,100
+Sari, Iran, Mazandaran Province,29.16666667,50
+Eskisehir, Turkey,None,64.58333333,36.11111111
+Campo Grande, Brazil, Mato Grosso do Sul,92.5,57.14285714
+Tripoli, Lebanon, North Governorate,27.77777778,81.25
+Moa, Cuba, Holguin Province,0,75
+Nara, Japan, Nara Prefecture,100,50
+Doboj, Bosnia and Herzegovina, Republika Srpska,87.5,75
+San Mateo, United States of America, California,80,20
+Yuba City, United States of America, California,100,50
+Srinagar, India, Jammu and Kashmir,77.5862069,51.92307692
+Jinan, People's Republic of China, Shandong,15.27777778,46.42857143
+Chester, United Kingdom, England,81.25,20
+Subotica, Serbia,None,50,50
+Abbottabad, Pakistan, Khyber Pakhtunkhwa,62.5,80.35714286
+Qingdao, People's Republic of China, Shandong,50.73529412,62.93103448
+Blackpool, United Kingdom, England,70,45.83333333
+Stara Zagora, Bulgaria, Stara Zagora Province,61.11111111,5
+Passaic, United States of America, New Jersey,50,75
+Agartala, India, Tripura,63.63636364,58.33333333
+Aydin, Turkey, Aydin Province,14.28571429,50
+Bournemouth, United Kingdom,None,64.70588235,31.25
+Gloucester, United Kingdom, England,50,50
+Taganrog, Russia, Rostov Oblast,58.33333333,58.33333333
+Agadir, Morocco, Souss-Massa,64.58333333,18.18181818
+Amasya, Turkey, Amasya Province,12.5,50
+Qom, Iran, Qom Province,20,33.33333333
+Chiba, Japan, Chiba Prefecture,100,100
+Keflavik, Iceland,None,87.5,0
+Cuiaba, Brazil, Mato Grosso,25,37.5
+Guimaraes, Portugal, Braga,93.75,43.75
+Pattaya, Thailand, Chon Buri,19.40789474,78.66666667
+Denizli, Turkey, Denizli Province,29.54545455,40
+Zlin, Czech Republic,None,75,37.5
+Isparta, Turkey, Isparta Province,12.5,37.5
+Kotor, Montenegro, Kotor Municipality,75,25
+Dornbirn, Austria, Vorarlberg,100,0
+Nyiregyhaza, Hungary, Szabolcs-Szatmar-Bereg County,50,50
+Eugene, United States of America, Oregon,75,36.25
+Esztergom, Hungary, Komarom-Esztergom County,75,50
+Kecskemet, Hungary, Bacs-Kiskun County,75,50
+Campinas, Brazil, Sao Paulo,61.02941176,48.33333333
+Maracaibo, Venezuela, Zulia,20,95
+Ashdod, Israel, Southern District,25,41.66666667
+Kerman, Iran, Kerman Province,48.07692308,14.28571429
+Bhubaneswar, India, Odisha,55.76923077,50.71428571
+Alanya, Turkey, Antalya Province,91.66666667,37.5
+Middlesbrough, United Kingdom, England,87.5,20.83333333
+Larnaca, Cyprus, Larnaca District,52.63157895,50
+Nanchang, People's Republic of China, Jiangxi,19.44444444,70
+Winchester, United Kingdom, England,75,0
+Bodrum, Turkey, Mugla Province,80,25
+Peterborough, United Kingdom, England,85,15
+Porto Velho, Brazil, Rondonia,50,50
+Blagoevgrad, Bulgaria, Blagoevgrad Province,47.5,25
+Kirkuk, Iraq,None,25,62.5
+Cetinje, Montenegro, Old Royal Capital Cetinje,100,0
+Veliko Tarnovo, Bulgaria, Veliko Tarnovo Province,62.5,31.25
+Arad, Romania, Arad County,66.25,35
+Setubal, Portugal, Setubal,61.11111111,60
+Polomolok, Philippines,None,100,50
+Faisalabad, Pakistan, Punjab,25,76.92307692
+Elazig, Turkey, Elazig Province,25,50
+Changsha, People's Republic of China, Hunan,35.52631579,46.42857143
+Wilmington, United States of America, Delaware,66.66666667,87.5
+Budva, Montenegro, Budva Municipality,95.83333333,41.66666667
+Ranchi, India, Jharkhand,52.77777778,65.97222222
+Odiongan, Philippines,None,100,75
+Alba Iulia, Romania, Alba County,62.5,50
+Tuzla, Bosnia and Herzegovina, Federation of Bosnia and Herzegovina,10.9375,50
+Shizuoka, Japan, Shizuoka Prefecture,70,0
+Villa Alemana, Chile, Valparaiso Region,37.5,50
+Tartus, Syria, Tartus Governorate,0,100
+Novomoskovsk, Russia,None,50,50
+Adapazari, Turkey,None,100,75
+Novocheboksarsk, Russia, Chuvash Republic,25,25
+Obninsk, Russia, Kaluga Oblast,100,50
+Odintsovo, Russia, Moscow Oblast,50,25
+Jableh, Syria, Latakia Governorate,0,100
+Horsham, United Kingdom, England,50,0
+Toamasina, Madagascar,None,25,50
+Poughkeepsie, United States of America, New York,91.66666667,12.5
+Rasht, Iran, Gilan Province,44.44444444,45
+Jurmala, Latvia,None,87.5,37.5
+Sliven, Bulgaria, Sliven Province,53.57142857,8.333333333
+Larissa, Greece,None,50,29.16666667
+Wels, Austria, Upper Austria,75,0
+Meknes, Morocco, Fes-Meknes,39.28571429,12.5
+Niteroi, Brazil, Rio de Janeiro,57.8125,52.27272727
+Puyallup, United States of America, Washington,75,25
+Nanning, People's Republic of China, Guangxi,30.35714286,75
+Niigata, Japan, Niigata Prefecture,75,0
+Durham, United Kingdom, England,95.83333333,12.5
+Evora, Portugal, Evora,93.75,35.41666667
+Lincoln, United Kingdom, England,91.66666667,25
+Kermanshah, Iran, Kermanshah Province,10.71428571,41.66666667
+Ife, Nigeria, Osun State,0,50
+Hradec Kralove, Czech Republic,None,75,29.16666667
+Kozani, Greece, West Macedonia Region,50,100
+Rancho Palos Verdes, United States of America, California,87.5,25
+Pori, Finland,None,100,0
+Foca, Bosnia and Herzegovina, Republika Srpska,37.5,50
+Rezekne, Latvia,None,75,25
+Truro, United Kingdom, England,100,0
+Paphos, Cyprus, Paphos District,67.85714286,25
+Omdurman, Sudan, Khartoum,25,62.5
+Boa Vista, Brazil, Roraima,91.66666667,58.33333333
+Szolnok, Hungary, Jasz-Nagykun-Szolnok County,75,16.66666667
+Wavre, Belgium, Wallonia,75,100
+Kaohsiung, Taiwan,None,20.45454545,71.66666667
+Qazvin, Iran, Qazvin Province,29.16666667,25
+Shumen, Bulgaria, Shumen Province,28.57142857,75
+Lappeenranta, Finland,None,100,0
+Augusta, United States of America, Georgia,71.875,33.33333333
+Naha, Japan, Okinawa Prefecture,100,0
+Tekirdag, Turkey, Tekirdag Province,15,75
+Aksaray, Turkey, Aksaray Province,0,50
+Rustenburg, South Africa, North West,25,75
+Kumasi, Ghana, Ashanti Region,55,66.66666667
+Tobruk, Libya, Butnan District,0,75
+Chania, Greece,None,85.29411765,27.94117647
+Yazd, Iran, Yazd Province,5,25
+Silistra, Bulgaria, Silistra Province,100,50
+Tourcoing, France,None,62.5,50
+Rustavi, Georgia, Kvemo Kartli,33.33333333,62.5
+Kunming, People's Republic of China, Yunnan,58.92857143,72.5
+Stirling, United Kingdom, Scotland,87.5,50
+Feldkirch, Austria, Vorarlberg,83.33333333,0
+Jihlava, Czech Republic,None,87.5,50
+Cochabamba, Bolivia, Cochabamba Department,26.38888889,68.75
+Ioannina, Greece, Epirus Region,87.5,41.66666667
+Ibadan, Nigeria, Oyo State,37.5,93.75
+Safi, Morocco, Marrakesh-Safi,32.8125,65
+Waterford, Ireland,None,87.5,25
+Lanzhou, People's Republic of China, Gansu,28.125,50
+Tokat, Turkey, Tokat Province,25,75
+Zenica, Bosnia and Herzegovina, Federation of Bosnia and Herzegovina,30.55555556,40.625
+Preston, United Kingdom, England,84.375,18.75
+Colchester, United Kingdom, England,75,25
+Vina del Mar, Chile, Valparaiso Region,62.5,30
+Sao Bernardo do Campo, Brazil, Sao Paulo,28.125,66.66666667
+Guarulhos, Brazil, Sao Paulo,67.85714286,21.875
+Ordu, Turkey, Ordu Province,43.75,25
+Bolton, United Kingdom, England,75,37.5
+Grand Rapids, United States of America, Michigan,69.23076923,44.44444444
+Ipswich, United Kingdom, England,70.83333333,28.57142857
+Siirt, Turkey, Siirt Province,0,50
+Tlemcen, Algeria, Tlemcen Province,68.75,37.5
+Tetouan, Morocco, Tanger-Tetouan-Al Hoceima,68.75,43.75
+Grapevine, United States of America, Texas,0,100
+Baia Mare, Romania, Maramure? County,60.86956522,44.73684211
+Pernik, Bulgaria, Pernik Province,25,0
+Satu Mare, Romania, Satu Mare County,64.28571429,83.33333333
+Bundaberg, Australia, Queensland,58.33333333,32.14285714
+Multan, Pakistan, Punjab,28.26086957,65
+Quetta, Pakistan,None,22.5,83.82352941
+Mandalay, Myanmar, Mandalay Region,19.64285714,53.84615385
+Knoxville, United States of America, Tennessee,56.94444444,51.78571429
+Pietermaritzburg, South Africa, KwaZulu-Natal,29.6875,79.6875
+Belvidere, United States of America, Illinois,75,25
+Limassol, Cyprus, Limassol District,56.25,31.48148148
+Hefei, People's Republic of China, Anhui,25,75
+Gangtok, India, Sikkim,90.625,46.875
+Joensuu, Finland,None,100,0
+Haskovo, Bulgaria, Haskovo Province,25,25
+Embu, Kenya, Eastern Province,87.5,25
+Yambol, Bulgaria, Yambol Province,55,37.5
+Pazardzhik, Bulgaria, Pazardzhik Province,25,50
+Chattanooga, United States of America, Tennessee,79.41176471,61.53846154
+Hurghada, Egypt, Red Sea Governorate,66.66666667,75
+Constantine, Algeria, Constantine Province,41.66666667,56.25
+Kavala, Greece,None,83.33333333,0
+Spokane, United States of America, Washington,77.88461538,25
+Dunaujvaros, Hungary,None,60,50
+Tatabanya, Hungary, Komarom-Esztergom County,62.5,50
+Mostoles, Spain, Community of Madrid,87.5,50
+Wollongong, Australia, New South Wales,76.13636364,30.26315789
+Sunderland, United Kingdom, England,87.5,62.5
+Blackburn, United Kingdom, England,0,75
+Braila, Romania, Braila County,41.66666667,81.25
+Blantyre, Malawi, Southern Region,100,0
+Rhodes, Greece,None,92.85714286,21.42857143
+Kitakyushu, Japan, Fukuoka Prefecture,83.33333333,75
+Ribeirao Preto, Brazil, Sao Paulo,47.72727273,61.11111111
+Kutahya, Turkey, Kutahya Province,0,50
+Nova Iguacu, Brazil, Rio de Janeiro,45,100
+Sorocaba, Brazil, Sao Paulo,53.57142857,41.66666667
+Petropolis, Brazil, Rio de Janeiro,100,75
+Mytilene, Greece, North Aegean Region,100,37.5
+Cairns, Australia, Queensland,77.27272727,37.39516129
+Usak, Turkey, Usak Province,8.333333333,66.66666667
+Hermosillo, Mexico, Sonora,65.27777778,51.38888889
+Utena, Lithuania,None,87.5,50
+Amadora, Portugal, Lisbon,75,75
+Kyustendil, Bulgaria, Kyustendil Province,62.5,50
+Lovech, Bulgaria, Lovech Province,37.5,50
+Damietta, Egypt, Damietta Governorate,0,100
+Vratsa, Bulgaria, Vratsa Province,35.71428571,75
+Bizerte, Tunisia, Bizerte Governorate,18.75,43.75
+Missoula, United States of America, Montana,79.6875,22.91666667
+Guilin, People's Republic of China, Guangxi,12.5,50
+Karabuk, Turkey, Karabuk Province,21.42857143,25
+Haikou, People's Republic of China, Hainan,60,37.5
+Argos, Greece, Peloponnese Region,25,100
+Sligo, Ireland, Connacht,75,50
+Cienfuegos, Cuba, Cienfuegos Province,0,100
+Townsville, Australia, Queensland,89.28571429,40.625
+Luang Prabang, Laos, Luang Prabang Province,32.14285714,83.33333333
+Mikkeli, Finland,None,100,16.66666667
+Petah Tikva, Israel, Central District,27.77777778,20.83333333
+Alexandroupoli, Greece,None,87.5,31.25
+Abha, Saudi Arabia, 'Asir Province,93.75,18.75
+Jekabpils, Latvia,None,100,0
+Kanazawa, Japan, Ishikawa Prefecture,100,0
+Vila Nova de Gaia, Portugal, Porto,67.5,31.25
+Sao Jose dos Campos, Brazil, Sao Paulo,69,26.47058824
+Santo Andre, Brazil, Sao Paulo,50,0
+Ventimiglia, Italy, Liguria,50,25
+Karvina, Czech Republic,None,30,50
+Mlada Boleslav, Czech Republic,None,70,50
+Asenovgrad, Bulgaria, Plovdiv region,25,0
+Sisak, Croatia, Sisak-Moslavina County,37.5,50
+Kotka, Finland,None,100,0
+Holon, Israel, Tel Aviv District,32.14285714,25
+Netanya, Israel, Central District,77.77777778,27.77777778
+Ciudad del Este, Paraguay, Alto Parana Department,100,0
+Northampton, United Kingdom, England,77.27272727,32.14285714
+Vaslui, Romania, Vaslui County,62.5,50
+Champigny-sur-Marne, France, Ile-de-France,90,0
+Aizawl, India, Mizoram,100,75
+Londrina, Brazil, Parana,80,35
+Boulder, United States of America, Colorado,85,47.91666667
+Leskovac, Serbia, Jablanica District,87.5,0
+Ramnicu Valcea, Romania, Valcea County,87.5,31.25
+Ramat Gan, Israel, Tel Aviv District,32.5,29.16666667
+Kardzhali, Bulgaria, Kardzhali Province,40,50
+Smolyan, Bulgaria, Smolyan Province,100,50
+Carlisle, United Kingdom, England,89.28571429,0
+Havirov, Czech Republic,None,50,0
+Juiz de Fora, Brazil, Minas Gerais,80,58.33333333
+Duque de Caxias, Brazil, Rio de Janeiro,12.5,50
+Erd, Hungary, Pest County,66.66666667,37.5
+Kajaani, Finland,None,100,50
+Bulawayo, Zimbabwe,None,67.85714286,71.42857143
+Iquitos, Peru, Loreto,25,75
+Porvoo, Finland, Uusimaa,100,0
+Rybinsk, Russia, Yaroslavl Oblast,25,100
+Miercurea Ciuc, Romania, Harghita County,90,0
+Artvin, Turkey, Artvin Province,58.33333333,50
+Armagh, United Kingdom, Northern Ireland,75,50
+Angra do Heroismo, Portugal, Azores,100,0
+Cheb, Czech Republic,None,87.5,50
+Sergiyev Posad, Russia, Moscow Oblast,75,75
+Oujda, Morocco, Oriental,75,50
+Birjand, Iran, South Khorasan Province,60,0
+Drobeta-Turnu Severin, Romania, Mehedin?i County,45,50
+Rueil-Malmaison, France, Ile-de-France,58.33333333,25
+Seraing, Belgium, Wallonia,75,50
+Serpukhov, Russia, Moscow Oblast,0,50
+Nigde, Turkey, Nigde Province,0,50
+Irbid, Jordan, Irbid Governorate,25,56.25
+Canoas, Brazil, Rio Grande do Sul,62.5,87.5
+Uberlandia, Brazil, Minas Gerais,87.5,37.5
+Mogi das Cruzes, Brazil, Sao Paulo,90,20
+Sao Carlos, Brazil, Sao Paulo,80,45
+Feira de Santana, Brazil, Bahia,62.5,62.5
+Karakol, Kyrgyzstan, Issyk-Kul Region,25,50
+Buckingham, United Kingdom, England,100,0
+Stary Oskol, Russia, Belgorod Oblast,0,100
+Zhangjiagang, People's Republic of China, Jiangsu,15,100
+Zhangjiajie, People's Republic of China, Hunan,0,50
+Zhangye, People's Republic of China, Gansu,0,50
+Zhaotong, People's Republic of China, Yunnan,50,50
+Zhaoyuan, People's Republic of China, Shandong,0,50
+Khimki, Russia, Moscow Oblast,33.33333333,66.66666667
+Zhoukou, People's Republic of China, Henan,0,50
+Zhuji, People's Republic of China, Zhejiang,0,50
+Zhumadian, People's Republic of China, Henan,0,50
+Zhuzhou, People's Republic of China, Hunan,0,50
+Zibo, People's Republic of China, Shandong,0,50
+Aktau, Kazakhstan, Mangystau Region,8.333333333,91.66666667
+Dehradun, India, Uttarakhand,41.12903226,66.66666667
+Agri, Turkey, Agri Province,25,50
+Guwahati, India, Assam,33.75,78.77358491
+Canakkale, Turkey, Canakkale Province,80,37.5
+Balikesir, Turkey, Balikesir Province,35,50
+Tacoma, United States of America, Washington,78.94736842,50
+Karbala, Iraq, Karbala Governorate,12.5,87.5
+Visakhapatnam, India, Andhra Pradesh,40.40697674,69.62025316
+Vijayawada, India, Andhra Pradesh,30.11363636,58.75
+Jodhpur, India, Rajasthan,27.77777778,65.625
+Matsuyama, Japan, Ehime Prefecture,75,25
+Hamilton, New Zealand, Waikato Region,93.42105263,25
+Latakia, Syria, Latakia Governorate,62.5,37.5
+Volos, Greece,None,50,55.55555556
+Ajmer, India, Rajasthan,50,45.83333333
+Jamshedpur, India, Jharkhand,46.32352941,55.38461538
+Okayama, Japan, Okayama Prefecture,25,0
+Ludhiana, India, Punjab,17.85714286,68.18181818
+Kitchener, Canada, Ontario,80.43478261,30.26315789
+Nashik, India, Maharashtra,69.44444444,50
+Meerut, India, Uttar Pradesh,27.65957447,75.65789474
+Kochi, Japan, Kochi Prefecture,100,50
+Mathura, India,None,53.125,66
+Udaipur, India, Rajasthan,57.14285714,72.58064516
+Povoa de Varzim, Portugal, Porto,75,50
+Utsunomiya, Japan, Tochigi Prefecture,100,75
+Faridabad, India, Haryana,13.06818182,80.42168675
+Slubice, Poland, Lubusz Voivodeship,87.5,50
+Aurangabad, India, Maharashtra,30.64516129,62
+Bikaner, India, Rajasthan,61.9047619,54.16666667
+Niksic, Montenegro, Niksic Municipality,25,50
+Aguascalientes City, Mexico, Aguascalientes,73.61111111,48.61111111
+Jabalpur, India, Madhya Pradesh,42.85714286,68.10344828
+Rethymno, Greece,None,85,0
+Swindon, United Kingdom, England,41.66666667,12.5
+Bolu, Turkey, Bolu Province,75,37.5
+Giresun, Turkey, Giresun Province,37.5,50
+Rize, Turkey, Rize Province,65,25
+Zrenjanin, Serbia,None,46.875,96.875
+Buzau, Romania, Buzau County,70,50
+Sanok, Poland, Podkarpackie Voivodeship,62.5,50
+Huddersfield, United Kingdom, England,58.33333333,0
+Aligarh, India, Uttar Pradesh,50,0
+Asansol, India, West Bengal,25.96153846,68.47826087
+Hameenlinna, Finland, Tavastia Proper,75,25
+Aba, Nigeria, Abia State,0,50
+Foz do Iguacu, Brazil, Parana,100,33.33333333
+Giurgiu, Romania, Giurgiu County,50,50
+Targu Jiu, Romania, Gorj County,37.5,50
+Sfantu Gheorghe, Romania, Covasna County,100,0
+Novi Pazar, Serbia, Raska District,75,0
+Oldham, United Kingdom, England,100,0
+Otsu, Japan, Shiga Prefecture,100,0
+Kingston, Canada, Ontario,83.33333333,29.54545455
+Perth, United Kingdom, Scotland,41.66666667,58.33333333
+Whistler, Canada, British Columbia,100,50
+Kandy, Sri Lanka, Central Province,28.125,43.42105263
+Napier, New Zealand,None,90.38461538,50
+Mazeikiai, Lithuania,None,62.5,50
+Luton, United Kingdom, England,77.5,41.66666667
+Visaginas, Lithuania,None,87.5,12.5
+Southend-on-Sea, United Kingdom, England,61.11111111,65
+Milton Keynes, United Kingdom, England,86.84210526,16.66666667
+Toyama, Japan, Toyama Prefecture,100,0
+San Luis Potosi, Mexico, San Luis Potosi,48.21428571,59.61538462
+Kouvola, Finland,None,100,0
+Bihac, Bosnia and Herzegovina, Federation of Bosnia and Herzegovina,100,0
+Sabac, Serbia, Macva District,25,83.33333333
+Modesto, United States of America, California,46.66666667,54.54545455
+Hereford, United Kingdom, England,75,8.333333333
+Deva, Romania, Hunedoara County,81.25,31.25
+Dundalk, Ireland, Leinster,81.25,31.25
+Pancevo, Serbia,None,10.71428571,53.57142857
+Granada, Nicaragua, Granada Department,25,25
+Cascavel, Brazil, Parana,100,37.5
+Howrah, India, West Bengal,50,75
+Corfu, Greece,None,88.63636364,25
+Aspen, United States of America, Colorado,75,50
+Qiqihar, People's Republic of China, Heilongjiang,12.5,50
+Yalova, Turkey, Yalova Province,46.875,43.75
+Kraljevo, Serbia, Raska District,37.5,37.5
+Nelson, New Zealand, Nelson Region,83.33333333,29.16666667
+Kyrenia, Cyprus,None,75,50
+Ajka, Hungary, Veszprem County,75,50
+Nevsehir, Turkey, Nevsehir Province,50,0
+Duzce, Turkey, Duzce Province,0,50
+Kirikkale, Turkey, Kirikkale Province,4.166666667,50
+Hakkari, Turkey, Hakkari Province,0,50
+Corum, Turkey, Corum Province,12.5,50
+Kirklareli, Turkey, Kirklareli Province,32.14285714,0
+Kastoria, Greece, West Macedonia Region,100,0
+Cheltenham, United Kingdom, England,75,0
+Slatina, Romania, Olt County,58.33333333,25
+Ghaziabad, India, Uttar Pradesh,12.90322581,80
+Drogheda, Ireland, Leinster,100,12.5
+Zliten, Libya, Murqub,75,100
+Rehovot, Israel, Central District,37.5,31.25
+Vac, Hungary, Pest County,100,0
+Tuxtla Gutierrez, Mexico, Chiapas,75,31.25
+Trikala, Greece,None,95.83333333,33.33333333
+Bijelo Polje, Montenegro, Bijelo Polje Municipality,0,75
+Lod, Israel, Central District,25,100
+Chichester, United Kingdom, England,100,0
+Thane, India, Maharashtra,41.66666667,70.94594595
+Shillong, India, Meghalaya,73.33333333,73.33333333
+Hyvinkaa, Finland, Uusimaa,100,50
+Tauranga, New Zealand, Bay of Plenty Region,83.92857143,36.36363636
+Kokkola, Finland,None,95,75
+Tepic, Mexico, Nayarit,100,50
+Fethiye, Turkey, Mugla Province,100,75
+Bilecik, Turkey, Bilecik Province,20.83333333,50
+Valjevo, Serbia, Kolubara District,0,75
+Cacak, Serbia, Moravica District,41.66666667,50
+Imphal, India, Manipur,47.91666667,65.38461538
+Wigan, United Kingdom, England,87.5,12.5
+Ponta Delgada, Portugal, Azores,100,5
+Viana do Castelo, Portugal, Viana do Castelo,100,58.33333333
+Patiala, India,None,33.33333333,69.11764706
+Berane, Montenegro, Berane Municipality,100,0
+Bedford, United Kingdom, England,80,75
+Eastbourne, United Kingdom, England,79.16666667,0
+Kaduna, Nigeria, Kaduna State,31.25,56.25
+Kirkwall, United Kingdom, Scotland,100,50
+Borjomi, Georgia, Samtskhe-Javakheti,100,50
+Komotini, Greece,None,75,18.75
+Vallejo, United States of America, California,100,50
+Thousand Oaks, United States of America, California,92.5,20.83333333
+Sunnyvale, United States of America, California,77.08333333,55.55555556
+Kaifeng, People's Republic of China, Henan,0,100
+Maringa, Brazil, Parana,95.83333333,25
+Bat Yam, Israel, Tel Aviv District,50,41.66666667
+Prievidza, Slovakia, Trencin Region,80,0
+Hachioji, Japan,None,75,50
+Rotorua, New Zealand, Bay of Plenty Region,72.91666667,45
+Santa Marta, Colombia, Magdalena Department,50,71.42857143
+Toluca, Mexico, State of Mexico,25,41.66666667
+Torquay, United Kingdom, England,56.25,37.5
+Burnley, United Kingdom, England,37.5,25
+Ennis, Ireland,None,100,50
+Oxnard, United States of America, California,95,0
+East London, South Africa, Eastern Cape,70.83333333,58.33333333
+Kolhapur, India, Maharashtra,52.88461538,69.04761905
+Sagamihara, Japan, Kanagawa Prefecture,75,50
+Biala Podlaska, Poland, Lublin Voivodeship,50,50
+Edessa, Greece,None,100,0
+Ambato, Ecuador, Tungurahua Province,72.22222222,75
+Yozgat, Turkey, Yozgat Province,25,50
+Xanthi, Greece,None,100,35
+Beihai, People's Republic of China, Guangxi,21.875,75
+Katerini, Greece,None,37.5,37.5
+Yantai, People's Republic of China, Shandong,20.83333333,50
+Ubud, Indonesia, Bali,50,25
+Livadeia, Greece, Central Greece Region,62.5,50
+Villahermosa, Mexico, Tabasco,56.25,43.75
+Chelmsford, United Kingdom, England,62.5,12.5
+Imatra, Finland,None,91.66666667,0
+Roeselare, Belgium, Flemish Region,75,50
+Johvi, Estonia, Ida-Viru County,100,50
+Yinchuan, People's Republic of China, Ningxia,0,50
+Beira, Mozambique, Sofala,0,100
+Carlow, Ireland, Leinster,58.33333333,41.66666667
+Bayburt, Turkey, Bayburt Province,100,0
+Oshawa, Canada, Ontario,84.09090909,32.14285714
+Slough, United Kingdom, England,35.71428571,60
+Dunfermline, United Kingdom, Scotland,100,0
+Kusadasi, Turkey, Aydin Province,25,100
+Entebbe, Uganda,None,50,75
+Palmerston North, New Zealand,None,95.83333333,32.14285714
+Arak, Iran, Markazi Province,2.272727273,67.85714286
+Lushnje, Albania, Fier County,0,100
+Shariff Aguak, Philippines,None,25,0
+Antigua Guatemala, Guatemala, Sacatepequez Department,32.14285714,53.57142857
+West Bromwich, United Kingdom, England,50,0
+Drama, Greece,None,100,25
+Wadowice, Poland, Lesser Poland Voivodeship,30,0
+New Plymouth, New Zealand,None,95,15
+Santa Rosa, United States of America, California,81.25,29.54545455
+Akola, India, Maharashtra,31.52173913,62.5
+Bareilly, India, Uttar Pradesh,45.83333333,48.52941176
+Elva, Estonia, Tartu County,100,8.333333333
+Maidstone, United Kingdom, England,12.5,50
+Darlington, United Kingdom, England,100,0
+Barcelos, Portugal, Braga,100,50
+Tirunelveli, India,None,55.55555556,75
+Amagasaki, Japan, Hyogo Prefecture,100,0
+Rapid City, United States of America, South Dakota,92.5,37.5
+Tralee, Ireland,None,91.66666667,8.333333333
+Guildford, United Kingdom, England,67.85714286,39.28571429
+Aylesbury, United Kingdom, England,58.33333333,25
+Binghamton, United States of America, New York,62.5,62.5
+Dudley, United Kingdom, England,100,0
+Bellevue, United States of America, Washington,94.23076923,19.44444444
+Trujillo, Peru, La Libertad,50,37.5
+Kocani, North Macedonia, Kocani Municipality,12.5,50
+Kisumu, Kenya,None,100,0
+Panaji, India, Goa,25,50
+Lohja, Finland, Uusimaa,100,50
+Kazincbarcika, Hungary, Borsod-Abauj-Zemplen County,50,50
+Znojmo, Czech Republic,None,87.5,50
+Jaffna, Sri Lanka, Northern Province,53.57142857,53.57142857
+Lomza, Poland, Podlaskie Voivodeship,75,50
+Slobozia, Romania, Ialomi?a County,25,75
+Warrington, United Kingdom, England,75,25
+Xiangtan, People's Republic of China, Hunan,0,50
+Harrogate, United Kingdom, England,75,6.25
+Rapla, Estonia, Rapla County,100,50
+Husavik, Iceland,None,50,50
+Fayetteville, United States of America, Arkansas,94.44444444,20
+El Jadida, Morocco, Casablanca-Settat,15,65
+Macon, United States of America, Georgia,60,50
+Montana, Bulgaria, Montana Province,20,50
+Kuching, Malaysia, Sarawak,61.9047619,61.66666667
+Walvis Bay, Namibia, Erongo Region,25,58.33333333
+Xalapa, Mexico, Veracruz,62.5,18.75
+Cugir, Romania, Alba County,100,25
+Vinkovci, Croatia, Vukovar-Syrmia County,100,0
+Comodoro Rivadavia, Argentina, Chubut Province,85.71428571,58.33333333
+Walla Walla, United States of America, Washington,100,0
+Ibague, Colombia, Tolima Department,56.61764706,79.04411765
+Casper, United States of America, Wyoming,100,33.33333333
+Tivat, Montenegro, Tivat Municipality,65,50
+Mansoura, Egypt,None,37.5,70
+Redmond, United States of America, Washington,87.5,33.33333333
+Piura, Peru, Piura,25,75
+Johor Bahru, Malaysia, Johor,50,56.25
+Geelong, Australia, Victoria,83.33333333,23.80952381
+Kelowna, Canada, British Columbia,79.87804878,32.43243243
+Peoria, United States of America, Illinois,96.875,29.16666667
+Gisborne, New Zealand,None,0,75
+Aberdeen, United States of America, Washington,100,0
+Rockford, United States of America, Illinois,60.71428571,60
+Vancouver, United States of America, Washington,73.07692308,29.80769231
+Erie, United States of America, Pennsylvania,80,100
+Chelm, Poland, Lublin Voivodeship,50,50
+Hollywood, United States of America, Florida,100,37.5
+Al Ain, United Arab Emirates, Emirate of Abu Dhabi,44.79166667,38.88888889
+Suwalki, Poland, Podlaskie Voivodeship,87.5,50
+Aberdeen, United States of America, South Dakota,50,83.33333333
+Tunja, Colombia, Boyaca Department,100,75
+Solapur, India, Maharashtra,20.83333333,73.07692308
+Reading, United States of America, Pennsylvania,87.5,50
+Brunswick, United States of America, Vermont,100,37.5
+Nakuru, Kenya,None,75,25
+Kitwe, Zambia, Copperbelt Province,0,100
+Columbus, United States of America, Georgia,82.5,45
+Mission, United States of America, Texas,100,0
+Bauru, Brazil, Sao Paulo,58.33333333,50
+Plasencia, Spain, Extremadura,75,50
+Huntington, United States of America, West Virginia,75,25
+Kingsport, United States of America, Tennessee,56.25,93.75
+Givet, France,None,100,50
+Bhilai, India, Chhattisgarh,34.82142857,55.68181818
+Abeche, Chad, Ouaddai Region,62.5,37.5
+Sremska Mitrovica, Serbia,None,75,12.5
+Ponta Grossa, Brazil, Parana,62.5,37.5
+Bhavnagar, India, Gujarat,61.36363636,61.9047619
+Jhansi, India, Uttar Pradesh,47.82608696,69.73684211
+Naperville, United States of America, Illinois,83.33333333,12.5
+Morogoro, Tanzania,None,66.66666667,100
+Gujranwala, Pakistan, Punjab,18.05555556,54.41176471
+Khulna, Bangladesh, Khulna Division,45.83333333,39.28571429
+Changwon, South Korea, South Gyeongsang,31.25,75
+Bucaramanga, Colombia, Santander Department,40,25
+Nishinomiya, Japan, Hyogo Prefecture,62.5,50
+Setif, Algeria, Setif Province,50,100
+Burnaby, Canada, British Columbia,77.77777778,41.07142857
+Clearwater, United States of America, Florida,85.71428571,35.71428571
+Dhanbad, India, Jharkhand,20.19230769,64.13043478
+Bani Walid, Libya, Misrata District,100,50
+Tabuk, Saudi Arabia, Tabuk Province,50,25
+Taichung, Taiwan,None,22.79411765,75.79365079
+Lewes, United Kingdom, England,100,0
+Wuwei, People's Republic of China, Gansu,0,50
+Traralgon, Australia, Victoria,75,50
+Olaine, Latvia, Olaine Municipality,100,0
+Keelung, Taiwan, Taiwan Province,50,50
+Bharatpur, Nepal, Bagmati,87.5,12.5
+Sochaczew, Poland, Masovian Voivodeship,37.5,50
+Bad Ischl, Austria, Upper Austria,85,50
+Knysna, South Africa, Western Cape,100,25
+Amstetten, Austria, Lower Austria,62.5,50
+Vocklabruck, Austria, Upper Austria,100,50
+Gaya, India, Bihar,0,50
+Simbach am Inn, Germany, Bavaria,100,50
+Clifton, United States of America, New Jersey,100,0
+Jammu, India, Jammu and Kashmir,44.76744186,62.82051282
+Hallein, Austria, Salzburg,100,50
+Abensberg, Germany, Bavaria,100,50
+Bunbury, Australia, Western Australia,100,0
+Mittersill, Austria, Salzburg,50,50
+Naples, United States of America, Florida,80.76923077,30.76923077
+Bruck an der Mur, Austria, Styria,75,50
+Traun, Austria, Upper Austria,87.5,50
+Steyr, Austria, Upper Austria,100,50
+Chiclayo, Peru, Lambayeque,50,50
+Karaman, Turkey, Karaman Province,20,0
+Ozamiz, Philippines,None,87.5,50
+Baniyas, Syria, Tartus Governorate,25,91.66666667
+Trowbridge, United Kingdom, England,0,100
+Yongzhou, People's Republic of China, Hunan,0,50
+Aurora, Canada, Ontario,50,37.5
+Newport Beach, United States of America, California,93.75,25
+Dhahran, Saudi Arabia, Eastern Province,40.625,40.625
+Buchanan, Liberia, Grand Bassa County,0,50
+Amravati, India, Maharashtra,36.25,59.61538462
+Belgaum, India, Karnataka,46.71052632,82.43243243
+Lethbridge, Canada, Alberta,68.75,36.36363636
+Contagem, Brazil, Minas Gerais,50,75
+Scranton, United States of America, Pennsylvania,92.85714286,41.66666667
+Ipoh, Malaysia, Perak,61.11111111,50
+Abbotsford, Canada, British Columbia,64.28571429,36.45833333
+Moshi, Tanzania, Kilimanjaro Region,75,0
+Tanta, Egypt, Gharbia Governorate,37.5,80
+Turnhout, Belgium, Flemish Region,75,50
+Makarska, Croatia, Split-Dalmatia County,100,0
+Sanandaj, Iran, Kurdistan Province,3.571428571,83.33333333
+Haridwar, India, Uttarakhand,71.875,53.125
+Cascais, Portugal, Lisbon,78.125,41.66666667
+Tsukuba, Japan, Ibaraki Prefecture,100,25
+Santarem, Portugal, Santarem,95,50
+Niagara Falls, Canada, Ontario,83.33333333,43.75
+San Pedro Sula, Honduras, Cortes Department,28.57142857,67.85714286
+Jundiai, Brazil, Sao Paulo,67.85714286,5
+Massawa, Eritrea, Northern Red Sea Region,100,25
+Caldas da Rainha, Portugal, Leiria,50,50
+Volta Redonda, Brazil, Rio de Janeiro,50,50
+Nove Zamky, Slovakia, Nitra Region,75,0
+Hajnowka, Poland, Podlaskie Voivodeship,62.5,50
+Karaikal, India, Puducherry,50,50
+Azaz, Syria, Aleppo Governorate,8.333333333,50
+Modling, Austria, Lower Austria,87.5,50
+Noida, India, Uttar Pradesh,11.48255814,82.63473054
+Coonoor, India, Tamil Nadu,87.5,45
+David, Panama, Chiriqui Province,80,30
+Teixeira de Freitas, Brazil, Bahia,25,100
+Albany, United States of America, Georgia,75,16.66666667
+Duluth, United States of America, Georgia,50,0
+Blacksburg, United States of America, Virginia,75,0
+Newport, United States of America, New Hampshire,100,0
+Sharjah, United Arab Emirates, Emirate of Sharjah,54.41176471,36.76470588
+Rio Claro, Brazil, Sao Paulo,25,50
+Valsad, India, Gujarat,75,75
+Muonio, Finland,None,100,0
+Kakamega, Kenya,None,100,75
+Middletown, United States of America, New York,100,25
+Daqing, People's Republic of China, Heilongjiang,12.5,50
+Abastumani, Georgia, Samtskhe-Javakheti,62.5,50
+Al Wakrah, Qatar,None,14.28571429,25
+Witbank, South Africa, Mpumalanga,16.25,98.4375
+Boston, United Kingdom, England,62.5,25
+Naga, Philippines,None,70,45
+Joplin, United States of America, Missouri,79.16666667,18.75
+Bojnord, Iran, North Khorasan Province,0,50
+Bahawalpur, Pakistan,None,75,60
+Vilvoorde, Belgium, Flemish Region,75,50
+Gospic, Croatia, Lika-Senj County,100,0
+Galle, Sri Lanka, Southern Province,75,37.5
+Sanya, People's Republic of China, Hainan,70,0
+Siedlce, Poland, Masovian Voivodeship,46.42857143,50
+San Juan de Pasto, Colombia, Narino Department,70,75
+Lancaster, United States of America, Pennsylvania,66.66666667,45
+Pocatello, United States of America, Idaho,83.33333333,87.5
+Bata, Equatorial Guinea,None,25,25
+Novo Hamburgo, Brazil, Rio Grande do Sul,87.5,0
+Abingdon-on-Thames, United Kingdom, England,100,50
+Kollam, India, Kerala,75,44.11764706
+Valkeakoski, Finland,None,100,50
+Rajshahi, Bangladesh, Rajshahi Division,47.22222222,30
+Brcko, Bosnia and Herzegovina, Brcko District,25,87.5
+Simi Valley, United States of America, California,82.14285714,25
+Fairfield, United States of America, California,87.5,37.5
+Prijedor, Bosnia and Herzegovina, Republika Srpska,75,25
+Guarapuava, Brazil, Parana,100,0
+Bangor, United States of America, Maine,87.5,12.5
+Rockville, United States of America, Maryland,87.5,50
+Mount Gambier, Australia, South Australia,83.33333333,0
+Laramie, United States of America, Wyoming,100,0
+Almada, Portugal, Setubal,85.71428571,50
+Armenia, Colombia, Quindio Department,62.5,37.5
+Okinawa, Japan, Okinawa Prefecture,80.55555556,40
+Nuevo Laredo, Mexico, Tamaulipas State,37.5,68.75
+Parkersburg, United States of America, West Virginia,0,100
+Kalgoorlie, Australia, Western Australia,75,50
+Kota, India,None,30.20833333,48.4375
+Muradabad, India, Uttar Pradesh,37.5,43.75
+Dimitrovgrad, Bulgaria, Haskovo Province,12.5,50
+Amol, Iran, Mazandaran Province,100,75
+Fayetteville, United States of America, North Carolina,77.08333333,66.66666667
+Velika Gorica, Croatia, Zagreb County,25,50
+Schenectady, United States of America, New York,50,50
+Albury, Australia, New South Wales,95,8.333333333
+Heze, People's Republic of China, Shandong,0,50
+Maracay, Venezuela, Aragua,25,100
+Vila Velha, Brazil, Espirito Santo,33.33333333,41.66666667
+Quetzaltenango, Guatemala, Quetzaltenango Department,29.16666667,75
+Newport News, United States of America, Virginia,66.66666667,62.5
+Popayan, Colombia, Cauca Department,100,25
+Salto, Uruguay, Salto Department,100,25
+Lienz, Austria, Tyrol,100,50
+Cuprija, Serbia, Pomoravlje District,59.375,65.625
+Qena, Egypt, Qena Governorate,50,25
+Inuvik, Canada, Northwest Territories,87.5,50
+Batna, Algeria, Batna Province,100,25
+Holland, United States of America, Indiana,75,75
+Launceston, Australia, Tasmania,68.75,50
+Caslav, Czech Republic,None,100,0
+Shuangyashan, People's Republic of China, Heilongjiang,12.5,50
+Adelanto, United States of America, California,50,50
+Wuhu, People's Republic of China, Anhui,0,50
+Huainan, People's Republic of China, Anhui,0,50
+Anqing, People's Republic of China, Anhui,0,50
+Fuyang, People's Republic of China, Anhui,0,50
+Lu'an, People's Republic of China, Anhui,0,50
+Bozhou, People's Republic of China, Anhui,0,50
+Xuancheng, People's Republic of China, Anhui,0,50
+Ganzhou, People's Republic of China, Jiangxi,0,50
+Fuzhou, People's Republic of China, Jiangxi,50,25
+Shangrao, People's Republic of China, Jiangxi,0,50
+Goldsboro, United States of America, North Carolina,60,100
+Chester, United States of America, Pennsylvania,87.5,50
+Medicine Hat, Canada, Alberta,87.5,34.375
+Jindrichuv Hradec, Czech Republic,None,100,25
+Athlone, Ireland, Leinster,80,25
+El Cajon, United States of America, California,50,25
+George, South Africa, Western Cape,93.75,12.5
+Dahab, Egypt, South Sinai Governorate,100,58.33333333
+Pembroke Pines, United States of America, Florida,100,75
+Slapanice, Czech Republic,None,87.5,37.5
+Adrian, United States of America, Georgia,83.33333333,87.5
+Dongying, People's Republic of China, Shandong,0,50
+Escondido, United States of America, California,75,12.5
+Farmville, United States of America, North Carolina,75,25
+Raipur, India, Chhattisgarh,15.09433962,68.61702128
+Jining, People's Republic of China, Shandong,0,50
+Tavira, Portugal,None,100,0
+Sines, Portugal, Setubal,75,50
+Weihai, People's Republic of China, Shandong,12.5,50
+Zywiec, Poland, Silesian Voivodeship,50,50
+Rizhao, People's Republic of China, Shandong,10.71428571,37.5
+Taytay, Philippines,None,0,100
+Linyi, People's Republic of China, Shandong,4.166666667,87.5
+Liaocheng, People's Republic of China, Shandong,0,50
+Binzhou, People's Republic of China, Shandong,0,50
+Castelo Branco, Portugal, Castelo Branco,100,0
+Albufeira, Portugal,None,71.42857143,33.33333333
+Jeddah, Saudi Arabia, Mecca Province,35.24096386,54.43037975
+Folkestone, United Kingdom, England,75,50
+Gouyave, Grenada, Saint John Parish,50,75
+Valasske Mezirici, Czech Republic,None,50,100
+Valledupar, Colombia, Cesar Department,50,50
+Nove Mesto nad Vahom, Slovakia, Trencin Region,50,50
+Heviz, Hungary, Zala County,62.5,37.5
+Janakpurdham, Nepal,None,50,62.5
+Latacunga, Ecuador, Cotopaxi Province,58.33333333,91.66666667
+Puerto la Cruz, Venezuela, Anzoategui,25,100
+Nyeri, Kenya,None,87.5,50
+Yasuj, Iran, Kohgiluyeh and Boyer-Ahmad Province,0,50
+Lukow, Poland, Lublin Voivodeship,62.5,50
+Litomerice, Czech Republic,None,75,50
+Hattiesburg, United States of America, Mississippi,82.14285714,41.66666667
+Karlovy Vary, Czech Republic,None,64.28571429,16.66666667
+Penrith, Australia, New South Wales,25,25
+Whitby, Canada, Ontario,86.53846154,17.30769231
+Ajax, Canada, Ontario,87.5,38.63636364
+Pickering, Canada, Ontario,75,50
+Des Plaines, United States of America, Illinois,100,50
+Torreon, Mexico, Coahuila,47.22222222,50
+Paradise, United States of America, California,75,50
+Samokov, Bulgaria, Sofia Province,50,50
+Sohag, Egypt, Sohag Governorate,25,100
+Badulla, Sri Lanka, Uva Province,50,50
+Jagodina, Serbia, Pomoravlje District,32.14285714,53.57142857
+Surrey, Canada, British Columbia,71.73913043,33.33333333
+Bansko, Bulgaria, Blagoevgrad Province,100,0
+Barcelona, Venezuela, Anzoategui,12.5,50
+Ambleside, United Kingdom, England,87.5,50
+Everett, United States of America, Washington,88.63636364,32.14285714
+Sumperk, Czech Republic,None,75,50
+Zory, Poland, Silesian Voivodeship,25,50
+Mersa Matruh, Egypt, Matrouh Governorate,87.5,37.5
+Petrinja, Croatia, Sisak-Moslavina County,75,50
+Kutina, Croatia, Sisak-Moslavina County,45,25
+Novalja, Croatia, Lika-Senj County,50,50
+Agrinio, Greece, West Greece Region,75,50
+Solihull, United Kingdom, England,100,0
+Ogulin, Croatia,None,100,0
+Delnice, Croatia, Primorje-Gorski Kotar County,100,0
+Novska, Croatia, Sisak-Moslavina County,100,0
+Slunj, Croatia,None,100,0
+Columbia, United States of America, Maryland,100,25
+Pingdingshan, People's Republic of China, Henan,15,75
+Xinxiang, People's Republic of China, Henan,0,100
+Jiaozuo, People's Republic of China, Henan,0,50
+Puyang, People's Republic of China, Henan,0,50
+Xuchang, People's Republic of China, Henan,0,50
+Luohe, People's Republic of China, Henan,0,50
+Sanmenxia, People's Republic of China, Henan,0,50
+Nanyang, People's Republic of China, Henan,0,50
+Shangqiu, People's Republic of China, Henan,0,50
+Xinyang, People's Republic of China, Henan,0,50
+Airdrie, Canada, Alberta,62.5,25
+Changde, People's Republic of China, Hunan,0,50
+Yiyang, People's Republic of China, Hunan,0,50
+Chenzhou, People's Republic of China, Hunan,0,50
+Aksu, People's Republic of China, Xinjiang,75,100
+Welland, Canada, Ontario,45,45
+Oakville, Canada, Ontario,80,33.33333333
+Milton, Canada, Ontario,81.81818182,29.54545455
+Panzhihua, People's Republic of China, Sichuan,0,50
+Luzhou, People's Republic of China, Sichuan,0,50
+Deyang, People's Republic of China, Sichuan,0,50
+Mianyang, People's Republic of China, Sichuan,10.71428571,87.5
+Guangyuan, People's Republic of China, Sichuan,0,50
+Suining, People's Republic of China, Sichuan,0,50
+Leshan, People's Republic of China, Sichuan,0,50
+Nanchong, People's Republic of China, Sichuan,0,50
+Temple, United States of America, Texas,100,0
+Yibin, People's Republic of China, Sichuan,0,50
+Dazhou, People's Republic of China, Sichuan,0,50
+Ya'an, People's Republic of China, Sichuan,0,50
+Figueira da Foz, Portugal, Coimbra,93.75,25
+Caernarfon, United Kingdom, Wales,62.5,12.5
+Sangli, India, Maharashtra,47.22222222,62.5
+Bellingham, United States of America, Washington,94.73684211,30
+Gmunden, Austria, Upper Austria,100,50
+Nymburk, Czech Republic,None,75,50
+Chingola, Zambia, Copperbelt Province,75,100
+Alverca do Ribatejo, Portugal, Lisbon,50,0
+Chico, United States of America, California,72.5,50
+Alton, United States of America, Illinois,25,75
+Am Timan, Chad, Salamat Region,100,0
+Amargosa Valley, United States of America, Nevada,25,100
+Moncton, Canada, New Brunswick,83.33333333,23.52941176
+Chetumal, Mexico, Quintana Roo,75,50
+Wagga Wagga, Australia, New South Wales,75,20
+Sao Joao de Meriti, Brazil, Rio de Janeiro,0,75
+Ulhasnagar, India, Maharashtra,10.86956522,73.91304348
+Ostroleka, Poland, Masovian Voivodeship,62.5,50
+Muzaffarabad, Pakistan,None,33.33333333,66.66666667
+Burrel, Albania, Diber County,100,62.5
+Bedzin, Poland, Silesian Voivodeship,65,0
+Barueri, Brazil, Sao Paulo,50,50
+Grand Island, United States of America, Nebraska,75,0
+Kenosha, United States of America, Wisconsin,87.5,12.5
+White Plains, United States of America, New York,37.5,62.5
+Urbana, United States of America, Illinois,87.5,12.5
+Cape Coral, United States of America, Florida,75,25
+Spisska Nova Ves, Slovakia, Kosice Region,62.5,50
+Sault Ste. Marie, Canada, Ontario,50,53.33333333
+Geel, Belgium, Flemish Region,87.5,50
+Bahir Dar, Ethiopia, Amhara Region,50,50
+Enugu, Nigeria, Enugu State,5,100
+Great Falls, United States of America, Montana,75,25
+Ta'izz, Yemen, Ta'izz Governorate,0,100
+Sylhet, Bangladesh, Sylhet Division,50,53.33333333
+Americana, Brazil, Sao Paulo,25,75
+Kurashiki, Japan, Okayama Prefecture,50,50
+Nova Friburgo, Brazil, Rio de Janeiro,100,0
+Huancayo, Peru, Junin,75,75
+Ames, United States of America, Iowa,66.66666667,50
+Kolin, Czech Republic,None,75,50
+Prerov, Czech Republic,None,62.5,50
+Prostejov, Czech Republic,None,50,50
+Hadera, Israel, Haifa District,25,50
+Kamloops, Canada, British Columbia,71.42857143,25
+Macae, Brazil, Rio de Janeiro,100,37.5
+Ibiza, Spain, Balearic Islands,68.75,50
+Bridgewater, Canada, Nova Scotia,100,0
+Rochdale, United Kingdom, England,50,0
+Alor Setar, Malaysia, Kedah,70.83333333,41.66666667
+Wolfville, Canada, Nova Scotia,75,0
+Backa Palanka, Serbia,None,62.5,50
+Aktobe, Kazakhstan, Aktobe Region,25,87.5
+Kiskunfelegyhaza, Hungary, Bacs-Kiskun County,100,75
+Kenitra, Morocco, Rabat-Sale-Kenitra,40.625,71.42857143
+Toowoomba, Australia, Queensland,86.66666667,10
+Riobamba, Ecuador, Chimborazo Province,100,75
+Spanish Fork, United States of America, Utah,75,0
+Logan, United States of America, Utah,67.85714286,0
+Tooele, United States of America, Utah,100,50
+Farmington, United States of America, Utah,100,50
+Lewiston, United States of America, Utah,75,0
+Villach, Austria, Carinthia,85.41666667,11.25
+Algeciras, Spain, Andalusia,75,50
+Berkeley, United States of America, California,79.16666667,36.11111111
+Karaganda, Kazakhstan, Karaganda Region,16.66666667,66.66666667
+Marbella, Spain, Andalusia,94.64285714,42.85714286
+Port Perry, Canada, Ontario,100,37.5
+Ann Arbor, United States of America, Michigan,76.31578947,51.78571429
+Pasadena, United States of America, California,65,20
+Key West, United States of America, Florida,100,0
+Leoben, Austria, Styria,80,75
+Ferrol, Spain, Galicia,100,50
+Aveiro, Portugal, Aveiro,67.1875,46.66666667
+Duluth, United States of America, Minnesota,96.42857143,25
+Glendale, United States of America, California,77.5,45.83333333
+Liupanshui, People's Republic of China, Guizhou,0,50
+Anshun, People's Republic of China, Guizhou,37.5,50
+San Bernardino, United States of America, California,0,50
+Tongren, People's Republic of China, Guizhou,25,50
+Pavlodar, Kazakhstan, Pavlodar Region,0,75
+Pensacola, United States of America, Florida,66.17647059,53.125
+Kufstein, Austria, Tyrol,87.5,50
+Cedar Rapids, United States of America, Iowa,89.28571429,25
+Baden bei Wien, Austria, Lower Austria,87.5,50
+Evansville, United States of America, Indiana,68.75,37.5
+Kansas City, United States of America, Kansas,68.75,31.25
+Rochester, United States of America, Minnesota,80.55555556,62.5
+Mountain View, United States of America, California,91.66666667,33.33333333
+Pomona, United States of America, California,37.5,75
+South Bend, United States of America, Indiana,92.85714286,33.33333333
+Atyrau, Kazakhstan, Atyrau Region,28.57142857,60.71428571
+Minot, United States of America, North Dakota,68.75,75
+Monterey, United States of America, California,91.66666667,34.375
+Klosterneuburg, Austria, Lower Austria,62.5,50
+Wolfsberg, Austria, Carinthia,100,50
+Barakaldo, Spain, Basque Autonomous Community,87.5,50
+Leonding, Austria, Upper Austria,100,0
+Iowa City, United States of America, Iowa,83.33333333,37.5
+Benidorm, Spain, Community of Valencia,80.55555556,50
+St. Augustine, United States of America, Florida,87.5,62.5
+Gainesville, United States of America, Florida,87.5,34.375
+Palm Springs, United States of America, California,43.75,87.5
+Salinas, United States of America, California,100,50
+Ontario, United States of America, California,33.33333333,25
+Eureka, United States of America, California,100,0
+Oceanside, United States of America, California,75,75
+Palmdale, United States of America, California,32.14285714,50
+Kostanay, Kazakhstan, Kostanay Region,0,75
+Torrance, United States of America, California,75,0
+Sioux City, United States of America, Iowa,100,50
+Tulln an der Donau, Austria, Lower Austria,87.5,50
+Schwechat, Austria, Lower Austria,87.5,50
+Bloomington, United States of America, Indiana,83.33333333,55
+Ventura, United States of America, California,85,35
+Concord, United States of America, California,62.5,12.5
+Flint, United States of America, Michigan,62.5,87.5
+Gulfport, United States of America, Mississippi,100,0
+Daytona Beach, United States of America, Florida,96.42857143,46.42857143
+Biloxi, United States of America, Mississippi,100,50
+Fort Collins, United States of America, Colorado,86.84210526,35
+Alameda, United States of America, California,62.5,37.5
+Sri Ganganagar, India, Rajasthan,50,44.44444444
+Adoni, India,None,0,100
+Carlsbad, United States of America, California,75,25
+Hayward, United States of America, California,87.5,25
+Fontana, United States of America, California,45,35
+Santa Clarita, United States of America, California,87.5,31.25
+Canton, United States of America, Ohio,83.33333333,25
+Roseville, United States of America, California,93.75,40
+Anderson, United States of America, Indiana,90,25
+Sarasota, United States of America, Florida,90.38461538,25
+Williamsburg, United States of America, Virginia,100,0
+Winchester, United States of America, Virginia,100,50
+Terre Haute, United States of America, Indiana,75,12.5
+Andover, United Kingdom, England,92.5,25
+Walnut Creek, United States of America, California,83.33333333,8.333333333
+Lawrence, United States of America, Kansas,87.5,50
+Owensboro, United States of America, Kentucky,60.71428571,66.66666667
+Kronach, Germany, Bavaria,87.5,50
+Knittelfeld, Austria, Styria,75,50
+Carson, United States of America, California,25,100
+Corona, United States of America, California,50,37.5
+Lancaster, United States of America, California,87.5,12.5
+Fullerton, United States of America, California,100,25
+Victorville, United States of America, California,85.71428571,50
+Antioch, United States of America, California,0,75
+Redding, United States of America, California,72.22222222,45.83333333
+Rancho Cucamonga, United States of America, California,66.66666667,16.66666667
+El Centro, United States of America, California,78.57142857,66.66666667
+Visalia, United States of America, California,40,75
+Manzini, Eswatini, Manzini Region,100,62.5
+Idaho Falls, United States of America, Idaho,95.83333333,16.66666667
+Wrexham, United Kingdom, Wales,83.33333333,0
+Qujing, People's Republic of China, Yunnan,25,50
+Ekibastuz, Kazakhstan, Pavlodar Region,25,50
+Yuxi, People's Republic of China, Yunnan,25,50
+Xianyang, People's Republic of China, Shaanxi,0,50
+Tubize, Belgium, Wallonia,100,0
+Bendigo, Australia, Victoria,0,100
+Bad Arolsen, Germany, Hesse,100,50
+Bauska, Latvia,None,75,50
+Tyler, United States of America, Texas,66.66666667,45.83333333
+Merced, United States of America, California,87.5,50
+Costa Mesa, United States of America, California,56.25,40
+Yakima, United States of America, Washington,78.125,31.25
+Ilam, Iran, Ilam Province,0,50
+Coeur d'Alene, United States of America, Idaho,79.16666667,50
+Moscow, United States of America, Idaho,37.5,62.5
+Shah Alam, Malaysia, Selangor,42.30769231,68.75
+Ogbomosho, Nigeria, Oyo State,50,0
+Overland Park, United States of America, Kansas,98.21428571,16.66666667
+Lewiston, United States of America, Maine,100,50
+Coatzacoalcos, Mexico, Veracruz,50,83.33333333
+Rishikesh, India, Uttarakhand,37.5,87.5
+Khorramabad, Iran, Lorestan Province,50,75
+Humenne, Slovakia, Presov Region,62.5,25
+Uherske Hradiste, Czech Republic,None,45,0
+Vereeniging, South Africa, Gauteng,8.333333333,100
+Lawton, United States of America, Oklahoma,100,50
+Tottenham, United Kingdom, England,30,20
+Vila Real, Portugal, Vila Real,100,6.25
+Guelph, Canada, Ontario,86.9047619,26.47058824
+Ayacucho, Peru, Ayacucho,100,0
+Chaves, Portugal, Vila Real,100,25
+Franca, Brazil, Sao Paulo,100,50
+Clausthal-Zellerfeld, Germany, Lower Saxony,100,50
+Ouarzazate, Morocco, Draa-Tafilalet,25,100
+Redwood City, United States of America, California,100,0
+Coral Springs, United States of America, Florida,100,50
+Decatur, United States of America, Illinois,70.83333333,37.5
+Mission Viejo, United States of America, California,75,75
+Fort Myers, United States of America, Florida,70.58823529,85
+Veurne, Belgium, Flemish Region,87.5,50
+Rochester, United Kingdom, England,95.83333333,0
+Vsetin, Czech Republic,None,62.5,50
+Tongchuan, People's Republic of China, Shaanxi,0,50
+Baoji, People's Republic of China, Shaanxi,0,50
+Bad Waldsee, Germany, Baden-Wurttemberg,100,50
+Hanzhong, People's Republic of China, Shaanxi,0,100
+Ankang, People's Republic of China, Shaanxi,25,75
+Albany, United States of America, Oregon,75,12.5
+Chimbote, Peru, Ancash,0,100
+Veraval, India, Gujarat,0,100
+Varamin, Iran, Tehran Province,0,50
+Nakhon Pathom, Thailand, Nakhon Pathom,25,62.5
+Sahiwal, Pakistan, Punjab,75,25
+Presidente Prudente, Brazil, Sao Paulo,68.75,12.5
+Passo Fundo, Brazil, Rio Grande do Sul,50,75
+Koror, Palau,None,100,0
+Bamenda, Cameroon, Northwest,15,92.85714286
+Tsetserleg, Mongolia, Arkhangai Province,0,50
+Ajman, United Arab Emirates, Emirate of Ajman,44.64285714,42.30769231
+Naxos, Greece,None,100,50
+Encinitas, United States of America, California,75,12.5
+Jinchang, People's Republic of China, Gansu,20,0
+Tianshui, People's Republic of China, Gansu,0,50
+Pingliang, People's Republic of China, Gansu,0,50
+Hohhot, People's Republic of China, Inner Mongolia,0,50
+Weilheim in Oberbayern, Germany, Bavaria,100,50
+Alexandria, United States of America, Minnesota,100,25
+La Vega, Dominican Republic, La Vega Province,33.33333333,93.75
+Portimao, Portugal,None,90,35
+Arnprior, Canada, Ontario,100,25
+Bordj Bou Arreridj, Algeria, Bordj Bou Arreridj Province,62.5,0
+Royal Leamington Spa, United Kingdom, England,92.85714286,0
+Dunakeszi, Hungary, Pest County,50,0
+Twin Falls, United States of America, Idaho,75,75
+Merrillville, United States of America, Indiana,87.5,50
+Warwick, United Kingdom, England,89.28571429,25
+Yeovil, United Kingdom, England,62.5,37.5
+Vila Nova de Famalicao, Portugal, Braga,100,50
+Buckow, Germany, Brandenburg,87.5,50
+Pila, Poland, Greater Poland Voivodeship,53.125,0
+Ankeny, United States of America, Iowa,100,50
+Annan, United Kingdom, Scotland,50,50
+Kos, Greece,None,100,25
+Bozeman, United States of America, Montana,100,5.555555556
+Baotou, People's Republic of China, Inner Mongolia,28.57142857,33.33333333
+Wuhai, People's Republic of China, Inner Mongolia,0,50
+Chifeng, People's Republic of China, Inner Mongolia,0,50
+Senta, Serbia,None,25,75
+Qinzhou, People's Republic of China, Guangxi,0,50
+Guigang, People's Republic of China, Guangxi,12.5,50
+Greenville, United States of America, South Carolina,91.25,18.33333333
+Warri, Nigeria, Delta State,0,100
+New Braunfels, United States of America, Texas,100,31.25
+Pittsfield, United States of America, Illinois,100,50
+Lapu-Lapu, Philippines,None,12.5,87.5
+Wheaton, United States of America, Illinois,100,0
+Macomb, United States of America, Illinois,75,0
+McHenry, United States of America, Illinois,75,75
+Lockport, United States of America, Illinois,100,0
+Quincy, United States of America, Illinois,91.66666667,25
+Upington, South Africa,None,100,12.5
+Corning, United States of America, New York,100,37.5
+Kilmarnock, United Kingdom, Scotland,75,16.66666667
+Telford, United Kingdom, England,90.625,31.25
+Mariapocs, Hungary, Szabolcs-Szatmar-Bereg County,100,0
+Calbayog, Philippines,None,75,50
+Crystal Lake, United States of America, Illinois,68.75,25
+Bloomington, United States of America, Illinois,93.75,25
+Collinsville, United States of America, Illinois,75,25
+Rock Island, United States of America, Illinois,79.16666667,50
+Champaign, United States of America, Illinois,58.33333333,33.33333333
+Mount Vernon, United States of America, Illinois,100,0
+Labasa, Fiji, Northern Division,50,100
+Morden, Canada, Manitoba,25,50
+Burlington, United States of America, Iowa,87.5,37.5
+DeKalb, United States of America, Illinois,75,50
+Cabudare, Venezuela, Lara,0,100
+Orange, Australia, New South Wales,100,0
+Gulu, Uganda,None,100,0
+Satara, India, Maharashtra,87.5,56.25
+Bradenton, United States of America, Florida,83.33333333,42.85714286
+Antsirabe, Madagascar,None,0,100
+Hazel Park, United States of America, Michigan,25,25
+Owerri, Nigeria, Imo State,10,100
+Kissimmee, United States of America, Florida,70,68.75
+Udupi, India, Karnataka,50,37.5
+Fort Pierce, United States of America, Florida,75,0
+Stara Pazova, Serbia,None,62.5,50
+Deerfield Beach, United States of America, Florida,91.66666667,36.11111111
+Paso Robles, United States of America, California,100,75
+Kuala Belait, Brunei, Belait District,12.5,100
+Kharagpur, India, West Bengal,50,55.76923077
+Germantown, United States of America, Tennessee,100,25
+Prince George, Canada, British Columbia,58.33333333,41.66666667
+Nachod, Czech Republic,None,100,50
+Spisska Stara Ves, Slovakia, Presov Region,12.5,50
+Farah, Afghanistan, Farah,100,0
+Bintulu, Malaysia, Sarawak,39.28571429,60
+General Santos, Philippines,None,66.66666667,66.66666667
+Mandurah, Australia, Western Australia,37.5,62.5
+Ialoveni, Moldova, Ialoveni District,25,75
+Gore, New Zealand, Southland Region,60,100
+Florence, United States of America, South Carolina,100,50
+Balneario Camboriu, Brazil, Santa Catarina,25,87.5
+Yucaipa, United States of America, California,50,75
+Loei, Thailand, Loei,37.5,50
+Begusarai, India, Bihar,44.44444444,55
+Sinop, Turkey, Sinop Province,0,75
+Powell River, Canada, British Columbia,100,0
+East Chicago, United States of America, Indiana,100,50
+Thies, Senegal, Thies Region,50,25
+Masvingo, Zimbabwe,None,25,62.5
+Temixco, Mexico, Morelos,100,75
+Coffs Harbour, Australia, New South Wales,100,25
+Shizuishan, People's Republic of China, Ningxia,0,50
+Gosford, Australia, New South Wales,100,0
+Babol, Iran, Mazandaran Province,100,0
+Kamez, Albania, Tirana County,50,100
+Potchefstroom, South Africa,None,43.75,84.375
+Malayer, Iran, Hamadan Province,12.5,50
+Geraldton, Australia, Western Australia,82.14285714,25
+Stara Lubovna, Slovakia, Presov Region,100,75
+Port Macquarie, Australia, New South Wales,75,46.15384615
+Rockhampton, Australia, Queensland,88.63636364,18.75
+Fremantle, Australia, Western Australia,91.66666667,50
+Port Lincoln, Australia, South Australia,0,25
+Wodonga, Australia, New South Wales,100,0
+Hervey Bay, Australia, Queensland,66.66666667,33.33333333
+Mount Isa, Australia, Queensland,92.85714286,75
+Iguala, Mexico, Guerrero,85,75
+Gilgit, Pakistan, Gilgit-Baltistan,75,100
+Lorain, United States of America, Ohio,0,50
+Palm Coast, United States of America, Florida,90,55
+Lae, Papua New Guinea, Morobe Province,62.5,50
+Queenstown, New Zealand, Otago Region,90.625,25
+Tenterden, United Kingdom, England,100,0
+Fairfax, United States of America, South Carolina,78.33333333,28.84615385
+Wafangdian, People's Republic of China, Liaoning,0,50
+Indaiatuba, Brazil, Sao Paulo,87.5,31.25
+Louny, Czech Republic,None,50,0
+Nadi, Fiji, Western Division,57.14285714,57.14285714
+Apple Valley, United States of America, California,100,0
+Raahe, Finland,None,100,50
+Tomar, Portugal, Santarem,100,75
+Teresopolis, Brazil, Rio de Janeiro,75,100
+Ghardaia, Algeria, Ghardaia Province,75,100
+Kapfenberg, Austria, Styria,75,0
+Killarney, Ireland,None,91.66666667,25
+Puerto de la Cruz, Spain, Canary Islands,100,62.5
+Falkirk, United Kingdom, Scotland,100,0
+Hollabrunn, Austria, Lower Austria,87.5,50
+Araraquara, Brazil, Sao Paulo,58.33333333,50
+Ibajay, Philippines, Western Visayas,50,0
+Aracatuba, Brazil, Sao Paulo,50,0
+Layyah, Pakistan, Punjab,75,100
+Thomasville, United States of America, North Carolina,87.5,50
+High Point, United States of America, North Carolina,75,12.5
+Norwich, United States of America, Connecticut,92.85714286,50
+San Rafael, United States of America, California,100,0
+Nakhon Ratchasima, Thailand, Nakhon Ratchasima,25,64.28571429
+Montego Bay, Jamaica, Cornwall County,50,73.21428571
+Lafayette, United States of America, Indiana,66.66666667,56.25
+Neiva, Colombia, Huila Department,75,75
+Kraslava, Latvia, Kraslava Municipality,50,50
+Waterloo, Canada, Ontario,84.72222222,34.72222222
+Pondicherry, India, Puducherry,50,59.09090909
+Lakeland, United States of America, Florida,100,45
+Midrand, South Africa, Gauteng,16.66666667,50
+Balasore, India, Odisha,21.15384615,58.33333333
+Barrington, United States of America, Rhode Island,50,25
+Lomas de Zamora, Argentina, Buenos Aires Province,62.5,37.5
+Busselton, Australia, Western Australia,90,50
+Poltsamaa, Estonia, Jogeva County,100,0
+Permet, Albania, Gjirokaster County,100,0
+Grande Prairie, Canada, Alberta,87.5,15.625
+Coquitlam, Canada, British Columbia,80.95238095,30.88235294
+Sialkot, Pakistan, Punjab,37.5,67.70833333
+Santa Maria, United States of America, California,83.33333333,75
+Skarzysko-Kamienna, Poland, Swietokrzyskie Voivodeship,62.5,50
+Krugersdorp, South Africa, Gauteng,25,100
+Portmore, Jamaica, Middlesex County,38.33333333,70.45454545
+Longford, Ireland, Leinster,100,50
+Mtwara, Tanzania, Mtwara Region,50,50
+Arrecife, Spain, Canary Islands,80,0
+Asheville, United States of America, North Carolina,88.88888889,48
+Crewe, United Kingdom, England,100,0
+Tapa, Estonia, Laane-Viru County,100,50
+Gainesville, United States of America, Georgia,100,50
+Kota Bharu, Malaysia, Kelantan,81.25,56.25
+Hat Yai, Thailand, Songkhla,75,25
+Embu das Artes, Brazil, Sao Paulo,50,50
+Dourados, Brazil, Mato Grosso do Sul,75,75
+Diadema, Brazil, Sao Paulo,41.66666667,75
+Montes Claros, Brazil, Minas Gerais,50,25
+Dumfries, United Kingdom, Scotland,100,0
+Wicklow, Ireland, Leinster,100,50
+Ratlam, India, Madhya Pradesh,65,55
+Peristeri, Greece, Attica Region,62.5,50
+Bolnisi, Georgia, Kvemo Kartli,0,100
+Morgantown, United States of America, West Virginia,86.11111111,75
+Atascadero, United States of America, California,100,100
+Newbury, United Kingdom, England,100,0
+Ensenada, Mexico, Baja California,79.41176471,50
+Cartagena, Colombia, Bolivar Department,60,65
+Karamay, People's Republic of China, Xinjiang,12.5,50
+Citrus Heights, United States of America, California,100,50
+Mielec, Poland, Podkarpackie Voivodeship,50,50
+Wilmington, United States of America, North Carolina,100,50
+Landeck, Austria, Tyrol,87.5,50
+Weymouth, United Kingdom, England,100,0
+Laizhou, People's Republic of China, Shandong,0,50
+Hua Hin, Thailand, Prachuap Khiri Khan,39.28571429,76.78571429
+Singleton, Australia, New South Wales,87.5,50
+Tupelo, United States of America, Mississippi,85.71428571,25
+Perry, United States of America, Georgia,87.5,50
+Davis, United States of America, California,75,25
+Negombo, Sri Lanka, Western Province,30.55555556,69.44444444
+College Park, United States of America, Maryland,100,0
+Bend, United States of America, Oregon,100,0
+Worthing, United Kingdom, England,75,31.25
+Prince Albert, Canada, Saskatchewan,75,37.5
+Srikakulam, India, Andhra Pradesh,75,37.5
+Chapel Hill, United States of America, North Carolina,83.33333333,41.66666667
+Wejherowo, Poland, Pomeranian Voivodeship,87.5,50
+Ha'il, Saudi Arabia, ???il Province,41.66666667,41.66666667
+Pueblo, United States of America, Colorado,95,50
+Arlon, Belgium, Wallonia,100,50
+Clinton, United States of America, Iowa,87.5,50
+Gravesend, United Kingdom, England,0,100
+Renton, United States of America, Washington,62.5,16.66666667
+San Francisco de Macoris, Dominican Republic, Duarte Province,75,25
+Mawlamyine, Myanmar, Mon State,0,50
+Saraburi, Thailand, Saraburi,14.28571429,100
+Fort Smith, Canada, Northwest Territories,100,50
+Sao Leopoldo, Brazil, Rio Grande do Sul,75,100
+Campos dos Goytacazes, Brazil, Rio de Janeiro,65,50
+Trebinje, Bosnia and Herzegovina, Republika Srpska,100,37.5
+Matamata, New Zealand, Waikato Region,100,50
+Machakos, Kenya,None,75,33.33333333
+Highland, United States of America, California,50,100
+Bowling Green, United States of America, Kentucky,91.66666667,100
+Bremerton, United States of America, Washington,100,25
+College Station, United States of America, Texas,77.5,35
+Albany, Australia, Western Australia,84.375,31.25
+Mackay, Australia, Queensland,90,75
+Tamworth, United Kingdom, England,75,0
+Bathurst, Australia, New South Wales,91.66666667,37.5
+Gladstone, Australia, Queensland,75,56.25
+Devonport, Australia, Tasmania,95.83333333,0
+Warrnambool, Australia, Victoria,100,25
+Whyalla, Australia, South Australia,71.42857143,16.66666667
+Dubbo, Australia, New South Wales,83.33333333,35
+Puli, Taiwan, Taiwan Province,25,50
+Shepparton, Australia, Victoria,75,50
+Bathinda, India,None,30.68181818,68.75
+Paracin, Serbia, Pomoravlje District,75,25
+Arundel, United Kingdom, England,75,0
+Nurabad, Iran, Fars Province,25,50
+Nowshahr, Iran, Mazandaran Province,100,50
+Najafabad, Iran, Isfahan Province,0,50
+Jaroslaw, Poland, Podkarpackie Voivodeship,25,50
+Huaral, Peru, Lima region,50,25
+San Ignacio, Belize, Cayo District,100,75
+Ashburton, New Zealand, Canterbury Region,80,50
+Ashford, United Kingdom, England,50,0
+Ashland, United States of America, Ohio,83.33333333,8.333333333
+Sokolov, Czech Republic,None,100,50
+Chatham, United Kingdom, England,80,37.5
+Eastleigh, United Kingdom, England,0,25
+Lagos, Portugal,None,75,75
+Viamao, Brazil, Rio Grande do Sul,100,50
+Greensburg, United States of America, Pennsylvania,87.5,50
+Cabo Frio, Brazil, Rio de Janeiro,87.5,62.5
+Kedainiai, Lithuania,None,60,0
+Ylivieska, Finland,None,100,0
+St. Cloud, United States of America, Minnesota,100,0
+Sur, Oman, Ash Sharqiyah South Governorate,75,25
+Marilia, Brazil, Sao Paulo,83.33333333,0
+Reynosa, Mexico, Tamaulipas State,62.5,58.33333333
+Matamoros, Mexico, Tamaulipas State,75,56.25
+Sittwe, Myanmar,None,0,25
+Velky Meder, Slovakia, Trnava Region,75,50
+Stratford, Canada, Ontario,50,41.66666667
+Santa Maria, Brazil, Rio Grande do Sul,62.5,87.5
+Linden, Guyana, Upper Demerara-Berbice,37.5,62.5
+Butte, United States of America, North Dakota,75,56.25
+Mae Hong Son, Thailand, Mae Hong Son,50,50
+Ballsh, Albania, Fier County,0,62.5
+Jonava, Lithuania,None,50,100
+Farmington, United States of America, Connecticut,75,50
+Scarborough, United Kingdom, England,100,25
+Whangarei, New Zealand, Northland Region,80.76923077,53.57142857
+Saldus, Latvia,None,100,0
+New Rochelle, United States of America, New York,50,25
+Puerto Penasco, Mexico, Sonora,68.75,37.5
+Pleasanton, United States of America, California,100,0
+Barisal, Bangladesh, Barisal Division,20,50
+Battambang, Cambodia, Battambang Province,66.66666667,50
+Corvallis, United States of America, Oregon,75,50
+Naousa, Greece,None,100,0
+Chios, Greece, North Aegean Region,87.5,87.5
+Villavicencio, Colombia, Meta,100,25
+San Juan, Philippines, Metro Manila,25,75
+Maynooth, Ireland, Leinster,50,58.33333333
+Senica, Slovakia, Trnava Region,62.5,50
+Savannakhet, Laos, Savannakhet Province,75,100
+Vila Real de Santo Antonio, Portugal,None,75,50
+Stalowa Wola, Poland, Podkarpackie Voivodeship,25,25
+Lake Forest, United States of America, California,87.5,0
+Gaithersburg, United States of America, Maryland,91.66666667,12.5
+Gulbene, Latvia, Gulbene Municipality,100,0
+Easton, United States of America, Maryland,100,50
+Hyattsville, United States of America, Maryland,50,75
+Fairfield, United States of America, Connecticut,79.16666667,62.5
+Partizanske, Slovakia, Trencin Region,50,50
+Trumbull, United States of America, Connecticut,91.66666667,25
+Laurel, United States of America, Maryland,87.5,50
+Athens, United States of America, Ohio,100,0
+Hagerstown, United States of America, Maryland,87.5,50
+Salisbury, United States of America, Maryland,100,0
+Georgetown, United States of America, Delaware,100,50
+Budaors, Hungary, Pest County,75,0
+Svitavy, Czech Republic,None,62.5,50
+Askim, Norway, Viken,100,50
+Milton, United States of America, Delaware,50,100
+Richmond, United States of America, Kentucky,80.26315789,47.36842105
+Bharuch, India, Gujarat,30.55555556,67.85714286
+Bhagalpur, India, Bihar,53.75,50
+Springs, South Africa, Gauteng,0,50
+Lages, Brazil, Santa Catarina,62.5,75
+Saveh, Iran, Markazi Province,25,75
+Hachimantai, Japan, Iwate Prefecture,100,0
+Rujiena, Latvia, Rujiena Municipality,100,0
+Milovice, Czech Republic,None,90,0
+Keene, United States of America, New Hampshire,100,50
+Nonthaburi, Thailand, Nonthaburi,33.33333333,50
+Boumerdes, Algeria, Boumerdes Province,33.33333333,58.33333333
+Johnson City, United States of America, Tennessee,90,20
+Milagro, Ecuador, Guayas Province,0,50
+Spartanburg, United States of America, South Carolina,100,25
+La Chorrera, Panama, Panama Province,25,75
+Kurunegala, Sri Lanka, North Western Province,50,100
+Peterborough, Canada, Ontario,85,20.83333333
+Klaipeda, Lithuania,None,75,33.33333333
+Wallasey, United Kingdom, England,100,25
+Victoria, United States of America, Texas,100,25
+Songea, Tanzania, Ruvuma Region,62.5,75
+Songkhla, Thailand, Songkhla,42.85714286,50
+Bhiwani, India, Haryana,25,12.5
+Prijepolje, Serbia, Zlatibor District,0,50
+Bafoussam, Cameroon, West Region,0,50
+Boquete, Panama, Chiriqui Province,90,43.75
+Banning, United States of America, California,80,50
+Laitila, Finland,None,100,50
+Barnstable, United States of America, Massachusetts,100,75
+Bartlesville, United States of America, Oklahoma,75,75
+Baruun-Urt, Mongolia, Sukhbaatar Province,37.5,50
+Basingstoke, United Kingdom, England,100,0
+Bathurst, Canada, New Brunswick,95,50
+Baytown, United States of America, Texas,100,50
+Beaufort, United States of America, North Carolina,50,75
+Beaverlodge, Canada, Alberta,100,50
+Beckley, United States of America, West Virginia,100,50
+Bochnia, Poland, Lesser Poland Voivodeship,60,0
+Belmont, United States of America, California,100,25
+Udon Thani, Thailand, Udon Thani,40,50
+Irapuato, Mexico,None,17.5,65
+Beni Mellal, Morocco, Beni Mellal-Khenifra,75,100
+Kuantan, Malaysia, Pahang,62.5,75
+Benoni, South Africa, Gauteng,50,62.5
+Bentonville, United States of America, Arkansas,91.66666667,0
+York, United States of America, Pennsylvania,64.28571429,75
+Chesterfield, United Kingdom, England,87.5,16.66666667
+Delray Beach, United States of America, Florida,100,0
+Newport, United States of America, Oregon,100,75
+Nador, Morocco, Oriental,54.16666667,45.83333333
+Krosno, Poland, Podkarpackie Voivodeship,62.5,50
+Halifax, United Kingdom, England,81.25,50
+Beroun, Czech Republic,None,62.5,50
+Quilmes, Argentina, Buenos Aires Province,25,25
+Hnusta, Slovakia, Banska Bystrica Region,62.5,50
+Grass Valley, United States of America, California,62.5,62.5
+Mount Vernon, United States of America, New York,100,50
+Naujoji Akmene, Lithuania,None,62.5,50
+Tirupur, India, Tamil Nadu,42.64705882,50
+Medford, United States of America, Oregon,85.71428571,25
+Ukiah, United States of America, California,100,50
+Dublin, United States of America, California,100,0
+Sannicolau Mare, Romania, Timi? County,75,50
+Ojai, United States of America, California,87.5,50
+Korla, People's Republic of China, Xinjiang,0,50
+Malacky, Slovakia, Bratislava Region,87.5,50
+Wheeling, United States of America, West Virginia,70,75
+Temecula, United States of America, California,71.42857143,27.77777778
+Murrieta, United States of America, California,100,25
+Indio, United States of America, California,50,25
+Myrtle Beach, United States of America, South Carolina,87.5,50
+Yamanashi, Japan, Yamanashi Prefecture,100,0
+Redondo Beach, United States of America, California,100,37.5
+Surat Thani, Thailand, Surat Thani,37.5,50
+Limeira, Brazil, Sao Paulo,12.5,75
+Gizycko, Poland, Warmian-Masurian Voivodeship,100,50
+Mustvee, Estonia, Jogeva County,100,50
+Petrolina, Brazil, Pernambuco,87.5,75
+Itajai, Brazil, Santa Catarina,100,0
+Kent, United States of America, Washington,100,0
+Texarkana, United States of America, Texas,64.28571429,75
+Kennewick, United States of America, Washington,95,20
+Phuket, Thailand, Phuket,70.68965517,70.23809524
+Crawley, United Kingdom, England,50,0
+Taunton, United Kingdom, England,50,50
+Weston-super-Mare, United Kingdom, England,68.75,0
+Ramat HaSharon, Israel, Tel Aviv District,25,75
+Camarillo, United States of America, California,100,0
+Kearney, United States of America, Nebraska,100,75
+Klamath Falls, United States of America, Oregon,83.33333333,62.5
+Roseburg, United States of America, Oregon,75,40
+Kuala Terengganu, Malaysia, Terengganu,35.71428571,70
+Danville, United States of America, California,100,75
+Jelsava, Slovakia, Banska Bystrica Region,50,50
+Spanish Town, Jamaica, Middlesex County,50,100
+North Charleston, United States of America, South Carolina,100,50
+Nagercoil, India, Tamil Nadu,37.5,55
+Seremban, Malaysia, Negeri Sembilan,25,91.66666667
+Joniskis, Lithuania,None,87.5,50
+Livingston, United Kingdom, Scotland,66.66666667,25
+Jaslo, Poland, Podkarpackie Voivodeship,62.5,50
+Szczecinek, Poland, West Pomeranian Voivodeship,75,50
+Covilha, Portugal, Castelo Branco,95.83333333,0
+Koprivnice, Czech Republic,None,75,50
+Mostaganem, Algeria, Mostaganem Province,75,75
+Jaragua do Sul, Brazil, Santa Catarina,87.5,37.5
+Mora, Sweden, Dalarna County,75,0
+Oroville, United States of America, California,100,0
+Madera, United States of America, California,75,50
+Glendora, United States of America, California,50,25
+Praia Grande, Brazil, Sao Paulo,75,100
+Nyala, Sudan, South Darfur,100,0
+Onitsha, Nigeria, Anambra State,0,75
+Wad Madani, Sudan, Gezira,100,25
+Panama City, United States of America, Florida,50,37.5
+Longview, United States of America, Texas,85,75
+Cary, United States of America, North Carolina,50,62.5
+Hamilton, United States of America, Ohio,87.5,50
+Marietta, United States of America, Georgia,80.55555556,10
+Stillwater, United States of America, Oklahoma,93.75,50
+Harlow, United Kingdom, England,50,0
+Kalispell, United States of America, Montana,89.28571429,0
+Livonia, United States of America, Michigan,100,25
+Montclair, United States of America, California,75,0
+Soroca, Moldova, Soroca District,75,75
+Nanded, India, Maharashtra,38.23529412,53.57142857
+Sargodha, Pakistan, Punjab,68.75,37.5
+Klang, Malaysia, Selangor,30,75
+Chiang Rai, Thailand, Chiang Rai,22.36842105,62.5
+Manhattan, United States of America, Kansas,100,0
+Dartford, United Kingdom, England,50,75
+Tlokweng, Botswana, South-East District,62.5,75
+Bilaspur, India, Chhattisgarh,31.57894737,75
+Chandrapur, India, Maharashtra,11.11111111,68.33333333
+Paro, Bhutan, Paro District,75,50
+Eslamshahr, Iran, Tehran Province,0,50
+Yucca Valley, United States of America, California,87.5,50
+Summerside, Canada, Prince Edward Island,100,0
+Slonim, Belarus, Grodno Region,62.5,12.5
+Bindura, Zimbabwe, Mashonaland Central Province,50,75
+Lake Charles, United States of America, Louisiana,66.66666667,60
+Yarmouth, Canada, Nova Scotia,100,25
+Huntsville, United States of America, Texas,100,50
+Petaling Jaya, Malaysia, Selangor,39.81481481,57.95454545
+Moss Point, United States of America, Mississippi,91.66666667,50
+Verona, United States of America, Mississippi,100,50
+Olive Branch, United States of America, Mississippi,100,0
+Freeport, The Bahamas,None,75,0
+Phitsanulok, Thailand, Phitsanulok,75,0
+Minas, Uruguay, Lavalleja Department,100,25
+Sukkur, Pakistan, Sindh,50,50
+Harlingen, United States of America, Texas,100,0
+Valparaiso, United States of America, Indiana,100,50
+Jackson, United States of America, Wyoming,100,50
+Dumaguete, Philippines,None,20.83333333,62.5
+Pagadian, Philippines,None,75,75
+Dagupan, Philippines, Ilocos Region,21.875,75
+New Westminster, Canada, British Columbia,87.5,18.33333333
+Loveland, United States of America, Colorado,72.5,35
+Khon Kaen, Thailand, Khon Kaen,42.85714286,62.5
+Kampot, Cambodia, Kampot Province,62.5,50
+Subang Jaya, Malaysia, Selangor,42.5,70.45454545
+Punta Gorda, Belize, Toledo District,100,75
+Blenheim, New Zealand, Marlborough District,91.66666667,0
+Bloomfield Hills, United States of America, Michigan,0,100
+Boksburg, South Africa, Gauteng,50,50
+Bolungarvik, Iceland,None,100,0
+Boone, United States of America, North Carolina,75,50
+Bowling Green, United States of America, Ohio,100,16.66666667
+Boynton Beach, United States of America, Florida,100,50
+Brahmanbaria, Bangladesh, Chattogram Division,25,50
+Brainerd, United States of America, Minnesota,100,50
+Branson, United States of America, Missouri,100,0
+Iernut, Romania, Mure? County,87.5,75
+Ostroda, Poland, Warmian-Masurian Voivodeship,62.5,50
+Brattleboro, United States of America, Vermont,100,50
+Breckenridge, United States of America, Colorado,100,25
+Vanderhoof, Canada, British Columbia,100,50
+Wyszkow, Poland, Masovian Voivodeship,100,50
+North Bay, Canada, Ontario,93.75,25
+Kokomo, United States of America, Indiana,90,25
+Sandpoint, United States of America, Idaho,100,0
+Scunthorpe, United Kingdom, England,75,25
+Resende, Brazil, Rio de Janeiro,62.5,50
+Wisconsin Dells, United States of America, Wisconsin,100,50
+Albert Lea, United States of America, Minnesota,100,25
+Corcoran, United States of America, California,50,50
+Bridgeton, United States of America, New Jersey,100,50
+Bridport, United Kingdom, England,100,0
+San Nicolas de los Garza, Mexico, Nuevo Leon,41.66666667,16.66666667
+Rumelange, Luxembourg,None,62.5,50
+Modrice, Czech Republic,None,12.5,50
+La Ceiba, Honduras, Atlantida Department,62.5,75
+Torres Vedras, Portugal, Lisbon,87.5,75
+Vila Franca de Xira, Portugal, Lisbon,87.5,12.5
+Tustin, United States of America, California,75,37.5
+Kildare, Ireland, Leinster,100,100
+Ocala, United States of America, Florida,77.5,32.5
+Gillette, United States of America, Wyoming,100,50
+Gedera, Israel, Central District,12.5,50
+Langley, Canada, British Columbia,75,62.5
+New Amsterdam, Guyana, East Berbice-Corentyne,100,50
+San Angelo, United States of America, Texas,100,37.5
+Colombo, Brazil, Parana,33.33333333,50
+Oeiras, Portugal, Lisbon,81.25,18.75
+Pinehurst, United States of America, Georgia,100,0
+Serra, Brazil, Espirito Santo,25,75
+Tarapoto, Peru, San Martin,75,75
+Gujrat, Pakistan, Punjab,50,87.5
+Imperial, United States of America, California,87.5,50
+Sydney, Canada, Nova Scotia,100,25
+Avellaneda, Argentina, Santa Fe Province,0,100
+Largo, United States of America, Florida,75,75
+San Miguelito District, Panama, Panama Province,50,50
+Muncie, United States of America, Indiana,87.5,50
+Elmira, United States of America, New York,100,25
+Meru, Kenya, Eastern Province,75,25
+Laurel, United States of America, Mississippi,87.5,50
+Penticton, Canada, British Columbia,56.25,12.5
+Oban, United Kingdom, Scotland,100,0
+Koscierzyna, Poland, Pomeranian Voivodeship,62.5,50
+La Crosse, United States of America, Wisconsin,100,50
+Guadalupe, Mexico, Nuevo Leon,50,25
+Bildudalur, Iceland,None,0,100
+St. Albert, Canada, Alberta,100,8.333333333
+Sungai Petani, Malaysia, Kedah,37.5,50
+Itapetininga, Brazil, Sao Paulo,62.5,50
+Franklin, United States of America, Massachusetts,87.5,12.5
+Sohar, Oman, Al Batinah North Governorate,75,66.66666667
+Loja, Ecuador, Loja Province,100,75
+Elizabethtown, United States of America, Kentucky,90,0
+Ibarra, Ecuador, Imbabura Province,77.77777778,50
+Selah, United States of America, Washington,75,25
+Lake Elsinore, United States of America, California,50,75
+Aliso Viejo, United States of America, California,100,75
+Melbourne, United States of America, Florida,80,39.28571429
+Pouso Alegre, Brazil, Minas Gerais,87.5,37.5
+Paulista, Brazil, Pernambuco,75,25
+Muskegon, United States of America, Michigan,100,50
+Safety Harbor, United States of America, Florida,100,75
+Burns Lake, Canada, British Columbia,100,50
+Marshall, United States of America, Missouri,100,50
+Rolla, United States of America, Missouri,100,25
+Taos, United States of America, Missouri,100,75
+Cornwall, Canada, Ontario,96.42857143,50
+Libby, United States of America, Montana,100,25
+Crown Point, United States of America, Indiana,87.5,25
+Newbridge, Ireland, Leinster,50,0
+Wenatchee, United States of America, Washington,25,0
+Liberty, United States of America, Missouri,62.5,50
+Chesterfield, United States of America, Missouri,87.5,37.5
+O'Fallon, United States of America, Missouri,0,100
+Youngstown, United States of America, New York,75,58.33333333
+Forsyth, United States of America, Montana,80,100
+Rock Hill, United States of America, South Carolina,87.5,62.5
+Morristown, United States of America, New Jersey,100,100
+Chesham, United Kingdom, England,75,50
+Leesburg, United States of America, Georgia,87.5,50
+Oshkosh, United States of America, Nebraska,50,75
+Brentwood, United States of America, Missouri,75,0
+Cape Canaveral, United States of America, Florida,75,0
+Clayton, United States of America, Missouri,87.5,50
+Sao Caetano do Sul, Brazil, Sao Paulo,37.5,50
+Okara, Pakistan, Punjab,75,50
+Vero Beach, United States of America, Florida,93.75,62.5
+Lawrenceville, United States of America, Georgia,100,0
+Weatherford, United States of America, Texas,100,0
+Del Rio, United States of America, Texas,100,25
+Warrenton, United States of America, Virginia,100,0
+Sheikhupura, Pakistan, Punjab,50,100
+Mansfield, United States of America, Texas,90,0
+Whakatane, New Zealand, Bay of Plenty Region,100,37.5
+Negril, Jamaica, Cornwall County,100,75
+Skardu, Pakistan, Gilgit-Baltistan,100,75
+Jeffersonville, United States of America, Indiana,87.5,50
+Lake Worth, United States of America, Texas,100,100
+Kawthaung, Myanmar, Tanintharyi Region,50,50
+Katy, United States of America, Texas,60,50
+McLean, United States of America, Texas,100,25
+Leander, United States of America, Texas,100,0
+San Marcos, United States of America, Texas,100,0
+League City, United States of America, Texas,75,25
+Chilliwack, Canada, British Columbia,79.54545455,16.66666667
+Pullman, United States of America, Washington,100,0
+Catanduva, Brazil, Sao Paulo,37.5,50
+Mansfield, United States of America, Ohio,75,25
+Krasnik, Poland, Lublin Voivodeship,50,50
+Fort Dodge, United States of America, Iowa,25,75
+Lakeville, United States of America, Minnesota,100,50
+Titusville, United States of America, Florida,100,25
+Lakewood, United States of America, Washington,100,75
+Longview, United States of America, Washington,0,75
+Oxford, United States of America, Mississippi,100,0
+Lima, United States of America, Ohio,75,50
+Nisko, Poland, Podkarpackie Voivodeship,62.5,50
+Fort Walton Beach, United States of America, Florida,100,50
+Paducah, United States of America, Kentucky,85.71428571,62.5
+Coon Rapids, United States of America, Minnesota,100,50
+Traverse City, United States of America, Michigan,75,25
+Patos de Minas, Brazil, Minas Gerais,25,50
+Tebessa, Algeria, Tebessa Province,100,0
+Rocklin, United States of America, California,100,0
+Sheboygan, United States of America, Wisconsin,100,0
+Marina, United States of America, California,100,50
+Sebring, United States of America, Florida,25,50
+Morecambe, United Kingdom, England,100,25
+Alexandria, United States of America, Louisiana,100,50
+Jackson, United States of America, Tennessee,96.875,12.5
+Nikaia, Greece, Attica Region,33.33333333,0
+Eden Prairie, United States of America, Minnesota,91.66666667,8.333333333
+Clovis, United States of America, New Mexico,0,100
+Fond du Lac, United States of America, Wisconsin,75,75
+Vernon, Canada, British Columbia,72.5,54.16666667
+Lloydminster, Canada, Alberta,60.71428571,27.77777778
+Konstancin-Jeziorna, Poland, Masovian Voivodeship,35,45.83333333
+Chrudim, Czech Republic,None,100,50
+Litvinov, Czech Republic,None,62.5,50
+Trinec, Czech Republic,None,50,50
+New Port Richey, United States of America, Florida,50,0
+Jupiter, United States of America, Florida,100,25
+Jacksonville, United States of America, North Carolina,100,0
+Lousada, Portugal, Porto,75,50
+Lebanon, United States of America, Ohio,100,50
+Miri, Malaysia, Sarawak,75,57.14285714
+Swords, Ireland,None,50,0
+Malahide, Ireland,None,75,25
+Slidell, United States of America, Louisiana,50,100
+Torrington, United States of America, Wyoming,90,75
+Longmont, United States of America, Colorado,0,75
+East Orange, United States of America, New Jersey,100,75
+Polaniec, Poland, Swietokrzyskie Voivodeship,50,50
+Sao Bras de Alportel, Portugal,None,100,50
+Foster City, United States of America, California,100,0
+Statesboro, United States of America, Georgia,75,41.66666667
+DeLand, United States of America, Florida,81.25,25
+Stockton-on-Tees, United Kingdom, England,100,50
+Encamp, Andorra, Encamp,50,25
+Grand Junction, United States of America, Colorado,85.41666667,18.75
+Vanderbijlpark, South Africa, Gauteng,11.66666667,89.58333333
+North Platte, United States of America, Nebraska,100,25
+Playa del Carmen, Mexico, Quintana Roo,87.5,62.5
+Troy, United States of America, Michigan,62.5,25
+Sakai, Japan, Fukui Prefecture,75,50
+Maia, Portugal, Porto,89.28571429,0
+Seixal, Portugal, Setubal,37.5,50
+Weston, United States of America, Florida,100,0
+Portoviejo, Ecuador, Manabi Province,62.5,50
+Manta, Ecuador, Manabi Province,68.18181818,70
+Broumov, Czech Republic,None,75,50
+Mesquite, United States of America, Nevada,100,0
+Timmins, Canada, Ontario,75,45
+Corner Brook, Canada, Newfoundland and Labrador,93.75,0
+Ciudad del Carmen, Mexico, Campeche,66.66666667,66.66666667
+Canmore, Canada, Alberta,100,25
+Grays, United Kingdom, England,0,100
+Chalandri, Greece, Attica Region,75,0
+Novi, United States of America, Michigan,100,0
+Mardan, Pakistan, Khyber Pakhtunkhwa,75,33.33333333
+Brunswick, United States of America, Georgia,78.125,37.5
+Opoczno, Poland, Lodz Voivodeship,0,75
+Rangpur, Bangladesh, Rangpur Division,25,62.5
+Corby, United Kingdom, England,65,25
+Tawau, Malaysia, Sabah,100,100
+Long Branch, United States of America, New Jersey,75,25
+San Luis Rio Colorado, Mexico, Sonora,100,50
+Monroe, United States of America, Michigan,100,25
+Mossel Bay, South Africa, Western Cape,100,0
+Listowel, Ireland,None,100,0
+Cumbernauld, United Kingdom, Scotland,87.5,0
+Dalton, United States of America, Georgia,100,25
+Criuleni, Moldova, Criuleni District,50,75
+Kumba, Cameroon, Southwest,75,50
+Mansa, Zambia, Luapula Province,75,25
+Narok, Kenya,None,50,100
+Buckie, United Kingdom, Scotland,75,0
+Humpolec, Czech Republic,None,100,50
+Vlasim, Czech Republic,None,100,50
+Krabi, Thailand, Krabi,100,50
+Burton upon Trent, United Kingdom, England,0,25
+Summit, United States of America, New Jersey,37.5,62.5
+Wokingham, United Kingdom, England,91.66666667,0
+Goole, United Kingdom, England,25,50
+Dalby, Australia, Queensland,100,50
+Temirtau, Kazakhstan, Karaganda Region,0,75
+Hilton Head Island, United States of America, South Carolina,100,25
+North Vancouver, Canada, British Columbia,92.64705882,13.46153846
+Ifrane, Morocco, Fes-Meknes,100,12.5
+Masaya, Nicaragua, Masaya Department,50,100
+Cotacachi, Ecuador, Imbabura Province,100,0
+Middelburg, South Africa, Eastern Cape,54.16666667,100
+New Bern, United States of America, North Carolina,100,50
+Queluz, Portugal, Lisbon,50,0
+Eluru, India, Andhra Pradesh,54.16666667,57.14285714
+Alpharetta, United States of America, Georgia,62.5,37.5
+Radcliff, United States of America, Kentucky,87.5,50
+Cumming, United States of America, Georgia,58.33333333,41.66666667
+Ironton, United States of America, Ohio,100,50
+Midland, United States of America, Michigan,95,33.33333333
+Palakkad, India, Kerala,86.53846154,54.16666667
+Fort Saskatchewan, Canada, Alberta,75,12.5
+Esteli, Nicaragua, Esteli Department,75,50
+Muswellbrook, Australia, New South Wales,87.5,50
+Roznov pod Radhostem, Czech Republic,None,100,50
+Clitheroe, United Kingdom, England,100,0
+Otrokovice, Czech Republic,None,75,50
+Smithers, Canada, British Columbia,100,50
+Ipswich, Australia, Queensland,50,75
+Valdosta, United States of America, Georgia,100,50
+Hobbs, United States of America, New Mexico,100,50
+Deal, United Kingdom, England,50,25
+Yiwu, People's Republic of China, Zhejiang,0,50
+Taiping, Malaysia, Perak,0,25
+Princes Town, Trinidad and Tobago, Princes Town,0,100
+Langley, United States of America, Washington,100,0
+Nakhon Si Thammarat, Thailand, Nakhon Si Thammarat,100,25
+Nakhon Sawan, Thailand, Nakhon Sawan,30.55555556,41.66666667
+Lampang, Thailand, Lampang,12.5,50
+Sakon Nakhon, Thailand, Sakon Nakhon,0,100
+Durango, United States of America, Colorado,75,0
+Farmington, United States of America, New Mexico,95,50
+Rourkela, India, Odisha,33,58.33333333
+Drumheller, Canada, Alberta,100,0
+Spruce Grove, Canada, Alberta,100,0
+Rymarov, Czech Republic,None,87.5,50
+Nan, Thailand, Nan,25,50
+Ormoc, Philippines,None,62.5,62.5
+Rayong, Thailand, Rayong,43.75,75
+Bilovec, Czech Republic,None,62.5,50
+Welkom, South Africa, Free State,75,100
+Prince Rupert, Canada, British Columbia,100,58.33333333
+Klerksdorp, South Africa, North West,75,75
+Santo Domingo, Ecuador, Santo Domingo de los Tsachilas Province,0,50
+Lower Hutt, New Zealand, Wellington Region,100,20.83333333
+Hastings, New Zealand, Hawke's Bay Region,85,56.25
+Porirua, New Zealand, Wellington Region,100,75
+Yixing, People's Republic of China, Jiangsu,0,50
+Changshu, People's Republic of China, Jiangsu,0,50
+Jiangyin, People's Republic of China, Jiangsu,0,50
+Williamsport, United States of America, Pennsylvania,100,0
+Timaru, New Zealand, Canterbury Region,54.16666667,75
+Hinton, Canada, Alberta,100,50
+Sheridan, United States of America, Wyoming,95.83333333,12.5
+Cholpon-Ata, Kyrgyzstan, Issyk-Kul Region,75,50
+Kokopo, Papua New Guinea,None,75,50
+Popondetta, Papua New Guinea, Oro Province,50,100
+Courtenay, Canada, British Columbia,85.71428571,33.33333333
+Isa Town, Bahrain, Central Governorate,25,87.5
+Cold Lake, Canada, Alberta,96.875,37.5
+Owen Sound, Canada, Ontario,100,25
+Paarl, South Africa, Western Cape,100,0
+Samos, Greece, North Aegean Region,100,0
+Butterworth, Malaysia, Penang,25,25
+Selkirk, Canada, Manitoba,100,0
+Comox, Canada, British Columbia,87.5,50
+Rochester, United States of America, Michigan,100,0
+Fairborn, United States of America, Ohio,87.5,50
+San Martin de los Andes, Argentina, Neuquen Province,100,75
+Moose Jaw, Canada, Saskatchewan,91.66666667,33.33333333
+Uitenhage, South Africa, Eastern Cape,100,0
+Rongcheng, People's Republic of China, Shandong,12.5,50
+Mirpur Khas, Pakistan, Sindh,0,100
+Rio Tinto, Portugal, Porto,100,75
+Terrace, Canada, British Columbia,91.66666667,0
+Port Mathurin, Mauritius,None,75,87.5
+Ypsilanti, United States of America, Michigan,75,66.66666667
+Port Alberni, Canada, British Columbia,83.33333333,0
+Lin'an, People's Republic of China, Zhejiang,0,50
+Drayton Valley, Canada, Alberta,100,50
+San Fernando, Trinidad and Tobago,None,50,55
+Lisle, United States of America, Illinois,100,0
+Wangaratta, Australia, Victoria,100,25
+Valladolid, Mexico, Yucatan,100,0
+Clifden, Ireland, Connacht,100,50
+Franschhoek, South Africa, Western Cape,50,75
+Pathanamthitta, India, Kerala,89.70588235,38.63636364
+Jaunpur, India, Uttar Pradesh,50,62.5
+Nong Khai, Thailand, Nong Khai,50,37.5
+Salinas, Ecuador, Santa Elena Province,25,100
+Jinotega, Nicaragua, Jinotega Department,66.66666667,83.33333333
+Chachoengsao, Thailand, Chachoengsao,75,100
+Sandton, South Africa, Gauteng,64.58333333,33.33333333
+Jhang, Pakistan, Punjab,50,50
+Ainaro, Timor-Leste, Ainaro Municipality,100,75
+Newcastle, South Africa, KwaZulu-Natal,6.25,81.25
+Ermelo, South Africa, Mpumalanga,50,50
+Pottsville, United States of America, Pennsylvania,75,0
+Cambridge, New Zealand, Waikato Region,75,0
+Cambridge, Canada, Ontario,63.46153846,55.76923077
+Concord, United States of America, North Carolina,91.66666667,62.5
+Campbell River, Canada, British Columbia,100,0
+Campbellton, Canada, New Brunswick,75,0
+Darayya, Syria, Rif Dimashq Governorate,100,25
+Harstad, Norway, Troms og Finnmark fylke,100,75
+Kampong Chhnang, Cambodia, Kampong Chhnang Province,100,50
+Sibu, Malaysia, Sarawak,65,25
+Cuevas del Almanzora, Spain, Andalusia,62.5,50
+Andkhoy, Afghanistan, Faryab,50,50
+Centurion, South Africa, Gauteng,25,72.22222222
+Chapala, Mexico, Jalisco,87.5,50
+Watertown, United States of America, South Dakota,95.83333333,50
+Moses Lake, United States of America, Washington,75,0
+Johnstown, United States of America, Pennsylvania,87.5,75
+Dadu, Pakistan,None,50,50
+Claremorris, Ireland, Connacht,100,0
+Banting, Malaysia,None,25,75
+Busia, Kenya,None,50,100
+Peshawar, Pakistan, Khyber Pakhtunkhwa,29.05405405,55.46875
+Bloomsburg, United States of America, Pennsylvania,87.5,25
+Darbhanga, India, Bihar,40.625,59.375
+Metsamor, Armenia, Armavir Region,0,50
+Frankston, Australia, Victoria,87.5,100
+Cranbrook, Canada, British Columbia,100,16.66666667
+Twickenham, United Kingdom, England,87.5,12.5
+Hazard, United States of America, Kentucky,100,50
+New Castle, United States of America, Pennsylvania,87.5,50
+Anderson, United States of America, South Carolina,87.5,0
+Te Anau, New Zealand, Southland Region,100,50
+Warren, United States of America, Pennsylvania,100,50
+Yenangyaung, Myanmar,None,0,50
+Woodland, United States of America, Washington,100,0
+Laixi, People's Republic of China, Shandong,0,50
+Kluang, Malaysia, Johor,75,100
+Surin, Thailand, Surin,75,50
+Yala, Thailand, Yala,70.83333333,50
+Ratchaburi, Thailand, Ratchaburi,35,0
+Phrae, Thailand, Phrae,12.5,50
+Si Sa Ket, Thailand, Si Sa Ket,75,25
+Phetchabun, Thailand, Phetchabun,58.33333333,50
+Diego Martin, Trinidad and Tobago, Diego Martin Regional Corporation,100,50
+Ohrid, North Macedonia, Ohrid Municipality,82.14285714,28.33333333
+Masterton, New Zealand, Wellington Region,85.71428571,33.33333333
+Dondo, Mozambique, Sofala,50,100
+Moca, Dominican Republic, Espaillat Province,0,25
+Rushan, People's Republic of China, Shandong,0,50
+Chakwal, Pakistan, Punjab,50,50
+Houston, Canada, British Columbia,100,50
+Sechelt, Canada, British Columbia,75,0
+Dibrugarh, India, Assam,51.78571429,44.44444444
+Salalah, Oman,None,81.25,56.25
+Kalutara, Sri Lanka, Western Province,75,75
+Lomnice nad Popelkou, Czech Republic,None,75,50
+Karratha, Australia, Western Australia,100,0
+Jurong, People's Republic of China, Jiangsu,0,50
+Marsh Harbour, The Bahamas, Central Abaco,50,75
+Romford, United Kingdom, England,75,0
+Nuwara Eliya, Sri Lanka, Central Province,83.33333333,16.66666667
+Shouguang, People's Republic of China, Shandong,0,50
+Samut Sakhon, Thailand, Samut Sakhon,14.28571429,75
+Ashland, United States of America, Massachusetts,100,50
+Okotoks, Canada, Alberta,100,12.5
+Liyang, People's Republic of China, Jiangsu,0,50
+Rocky Mount, United States of America, Virginia,50,75
+Herndon, United States of America, Virginia,50,25
+Amherst, United States of America, Virginia,100,50
+Christiansburg, United States of America, Virginia,75,100
+Highgate, Jamaica,None,75,25
+Watertown, United States of America, New York,62.5,37.5
+Ewarton, Jamaica, Middlesex County,75,50
+Liberia, Costa Rica, Guanacaste Province,100,0
+Ubari, Libya, Wadi al Hayaa District,0,100
+Newcastle upon Tyne, United Kingdom, England,73.14814815,20.23809524
+Tamworth, Australia, New South Wales,100,25
+Parksville, Canada, British Columbia,80,0
+Chaguanas, Trinidad and Tobago,None,20,70
+Dhangadhi, Nepal,None,62.5,37.5
+Rohtak, India, Haryana,50,25
+Muzaffarpur, India, Bihar,17.59259259,57.60869565
+Knutsford, United Kingdom, England,100,0
+Richards Bay, South Africa, KwaZulu-Natal,75,25
+Gannan, People's Republic of China, Heilongjiang,0,50
+Spring Hill, United States of America, Tennessee,87.5,25
+Airway Heights, United States of America, Washington,100,0
+Yelm, United States of America, Washington,50,50
+Sequim, United States of America, Washington,100,25
+Brier, United States of America, Washington,100,0
+Kirtipur, Nepal, Bagmati,62.5,50
+Katoomba, Australia, New South Wales,100,0
+Siddharthanagar, Nepal,None,25,75
+Goose Creek, United States of America, South Carolina,100,0
+Atlantida, Uruguay, Canelones Department,66.66666667,33.33333333
+Gympie, Australia, Queensland,62.5,62.5
+Punta Cana, Dominican Republic, La Altagracia Province,40.625,65.625
+Waterloo, United States of America, Wisconsin,100,50
+Neenah, United States of America, Wisconsin,50,0
+Kempton Park, South Africa, Gauteng,37.5,50
+Hempstead, United States of America, New York,100,50
+Smithtown, United States of America, New York,100,50
+Hella, Iceland,None,100,0
+Hermanus, South Africa, Western Cape,100,0
+Rio de Mouro, Portugal, Lisbon,100,50
+Temara, Morocco, Rabat-Sale-Kenitra,75,25
+Atibaia, Brazil, Sao Paulo,75,25
+Alberton, South Africa, Gauteng,28.125,59.375
+Yorkton, Canada, Saskatchewan,100,0
+Hyderabad, Pakistan,None,50,59.09090909
+Plymouth, United States of America, Michigan,50,50
+Woodstock, Canada, Ontario,50,50
+Parnaiba, Brazil, Piaui,100,75
+Worcester, United Kingdom, England,83.33333333,16.66666667
+Khenchela, Algeria, Khenchela Province,100,0
+Stony Hill, Jamaica,None,100,0
+May Pen, Jamaica, Middlesex County,68.75,18.75
+Madaba, Jordan, Madaba Governorate,37.5,75
+Panevezys, Lithuania,None,70,40
+St. Paul, Canada, Alberta,100,0
+Islip, United States of America, New York,75,25
+Linhares, Brazil, Espirito Santo,100,100
+Banepa, Nepal, Bagmati,0,100
+Woodburn, United States of America, Oregon,100,0
+Riffa, Bahrain, Southern Governorate,32.69230769,53.125
+Purnia, India, Bihar,100,50
+Nandyal, India,None,12.5,75
+Wardha, India, Maharashtra,50,50
+Hisar, India, Haryana,29.62962963,46.15384615
+Ponca City, United States of America, Oklahoma,100,50
+Pilar, Argentina, Buenos Aires Province,75,100
+Portsmouth, United States of America, Rhode Island,100,0
+Rio das Ostras, Brazil, Rio de Janeiro,25,100
+Kretinga, Lithuania,None,75,50
+Anand, India, Gujarat,78.84615385,45.45454545
+La Libertad, Ecuador, Santa Elena Province,75,100
+La Piedad, Mexico, Michoacan,50,100
+Mandeville, Jamaica, Middlesex County,62.5,12.5
+Trail, Canada, British Columbia,100,0
+Fresnillo, Mexico, Zacatecas,75,25
+Lephalale, South Africa, Limpopo,62.5,50
+Lisburn, United Kingdom, Northern Ireland,75,25
+Muar, Malaysia, Johor,25,50
+Zeeland, United States of America, Michigan,100,0
+Piedras Negras, Mexico, Coahuila,75,25
+Roanoke, United States of America, Indiana,95.45454545,35.71428571
+Weirton, United States of America, West Virginia,62.5,50
+Revelstoke, Canada, British Columbia,100,50
+Vieira de Leiria, Portugal, Leiria,87.5,50
+Detroit Lakes, United States of America, Minnesota,100,50
+Waterford, United States of America, Connecticut,25,50
+Deltona, United States of America, Florida,87.5,75
+Melfort, Canada, Saskatchewan,100,0
+Morehead, United States of America, Kentucky,100,25
+Ustrzyki Dolne, Poland, Podkarpackie Voivodeship,70,0
+Nizwa, Oman, Ad Dakhiliyah Governorate,100,100
+Navsari, India, Gujarat,68.75,54.54545455
+Birmingham, United States of America, Iowa,71.05263158,31.66666667
+Waldorf, United States of America, Minnesota,100,75
+Tenali, India, Andhra Pradesh,71.42857143,58.33333333
+San Pedro Garza Garcia, Mexico, Nuevo Leon,46.875,12.5
+Kajang, Malaysia, Selangor,50,50
+Leawood, United States of America, Kansas,50,75
+Mohali, India, Punjab,87.5,75
+Nalgonda, India, Telangana,75,75
+Lakeport, United States of America, California,100,50
+Jackson, United States of America, California,100,50
+Attock, Pakistan, Punjab,75,50
+Upland, United States of America, Indiana,62.5,50
+San Juan, Trinidad and Tobago, San Juan-Laventille,25,25
+Medea, Algeria, Medea Province,50,50
+Elko, United States of America, South Carolina,100,25
+Cutler Bay, United States of America, Florida,100,25
+Kareli, Georgia, Shida Kartli,0,50
+Greenville, United States of America, North Carolina,90,25
+Narayanganj, Bangladesh, Dhaka Division,6.25,93.75
+Hun, Libya, Jufra,100,0
+Vadnais Heights, United States of America, Minnesota,100,50
+Hinesville, United States of America, Georgia,75,25
+Abington, United States of America, Massachusetts,100,50
+Williston, United States of America, North Dakota,85,75
+Fairmont, United States of America, West Virginia,100,50
+Warner Robins, United States of America, Georgia,100,37.5
+Korba, India, Chhattisgarh,43.75,43.75
+Elkhart, United States of America, Indiana,87.5,50
+Frankfort, United States of America, Indiana,50,75
+La Porte, United States of America, Indiana,87.5,50
+Takoradi, Ghana, Western Region,75,50
+Hounslow, United Kingdom, England,0,50
+Sanford, United States of America, North Carolina,100,50
+Spruce Pine, United States of America, North Carolina,100,0
+Yanceyville, United States of America, North Carolina,87.5,50
+Mooresville, United States of America, North Carolina,100,25
+Hope Mills, United States of America, North Carolina,100,50
+Hickory, United States of America, North Carolina,100,50
+Bryson City, United States of America, North Carolina,87.5,50
+Williams Lake, Canada, British Columbia,75,75
+Torpoint, United Kingdom, England,100,50
+Palanga, Lithuania,None,100,50
+Buffalo, United States of America, North Dakota,100,50
+Beaver Dam, United States of America, Kentucky,100,50
+Pingdu, People's Republic of China, Shandong,0,50
+Chesterfield, United States of America, South Carolina,100,25
+Quesnel, Canada, British Columbia,100,50
+Stone Mountain, United States of America, Georgia,0,100
+Astoria, United States of America, Illinois,37.5,62.5
+Ellsworth, United States of America, Maine,100,50
+Swampscott, United States of America, Massachusetts,100,50
+San Jose del Cabo, Mexico, Baja California Sur,100,25
+Secunda, South Africa, Mpumalanga,9.090909091,60.71428571
+Litija, Slovenia, Litija Municipality,50,0
+Ras al-Khaimah, United Arab Emirates, Emirate of Ras Al Khaimah,57.14285714,29.6875
+Seminole, United States of America, Florida,100,0
+Zephyrhills, United States of America, Florida,25,50
+Bukit Mertajam, Malaysia, Penang,62.5,62.5
+California, United States of America, Kentucky,0,100
+San Isidro, Argentina, Buenos Aires Province,100,0
+Gettysburg, United States of America, South Dakota,75,75
+KwaMhlanga, South Africa, Mpumalanga,50,50
+Bajos de Haina, Dominican Republic,None,0,100
+Croydon, United Kingdom, England,45,45
+Parry Sound, Canada, Ontario,100,50
+Telsiai, Lithuania,None,50,75
+Beloit, United States of America, Kansas,50,62.5
+Willoughby, United States of America, Ohio,75,0
+Mansfield, United States of America, Georgia,0,50
+Tinsukia, India, Assam,0,75
+Ithaca, United States of America, Michigan,93.75,40.625
+Wayne, United States of America, West Virginia,87.5,50
+El Progreso, Honduras, Yoro Department,25,100
+Banstead, United Kingdom, England,100,0
+Bourne, United States of America, Massachusetts,75,25
+Nalaikh, Mongolia,None,50,50
+Holetown, Barbados, Saint James,100,50
+Skikda, Algeria, Skikda Province,0,100
+Randburg, South Africa, Gauteng,83.33333333,33.33333333
+Ilford, United Kingdom, England,0,25
+Longmeadow, United States of America, Massachusetts,75,25
+Owosso, United States of America, Michigan,75,100
+Kingston upon Thames, United Kingdom, England,81.25,33.33333333
+Amherst, United States of America, New Hampshire,100,50
+Port Hawkesbury, Canada, Nova Scotia,100,50
+Taourirt, Morocco, Oriental,100,100
+Hampton, United States of America, South Carolina,37.5,50
+Bowral, Australia, New South Wales,75,33.33333333
+Oakland, United States of America, Tennessee,100,0
+Arlington, United States of America, Kansas,66.66666667,16.66666667
+Lewisburg, United States of America, Tennessee,100,50
+Sidi Slimane, Morocco, Rabat-Sale-Kenitra,75,50
+Clarksville, United States of America, Indiana,95,0
+Kyaukpyu, Myanmar,None,0,50
+Orillia, Canada, Ontario,100,0
+Ait Melloul, Morocco, Souss-Massa,100,0
+Ashburn, United States of America, Georgia,60,25
+Taupo, New Zealand, Bay of Plenty Region,100,25
+Franklin, United States of America, West Virginia,100,0
+Decatur, United States of America, Tennessee,75,100
+Bridgewater, United States of America, Connecticut,87.5,50
+Cookeville, United States of America, Tennessee,100,50
+Chafford Hundred, United Kingdom, England,82.14285714,50
+Peachtree City, United States of America, Georgia,50,50
+Pardes Hanna-Karkur, Israel,None,25,50
+Syracuse, United States of America, Indiana,75,50
+Mandeville, United States of America, Louisiana,75,75
+Lynchburg, United States of America, South Carolina,100,0
+Holderness, United States of America, New Hampshire,100,50
+Speightstown, Barbados, Saint Peter,75,75
+Long Island, United States of America, Kansas,87.5,25
+Aconibe, Equatorial Guinea,None,0,100
+Yreka, United States of America, California,100,50
+Tyngsborough, United States of America, Massachusetts,100,50
+Sirajganj, Bangladesh, Rajshahi Division,100,75
+Mirpur, Pakistan,None,66.66666667,100
+Huntingdon, United States of America, Tennessee,75,50
+Couva, Trinidad and Tobago, Couva-Tabaquite-Talparo,43.75,43.75
+Talanga, Honduras, Francisco Morazan Department,50,50
+Seaside, United States of America, Oregon,100,0
+Pooler, United States of America, Georgia,75,25
+Cankuzo, Burundi, Cankuzo Province,0,100
+Arendal, Norway, Agder,87.5,0
+Edison, United States of America, Georgia,75,25
+Greater Noida, India, Uttar Pradesh,25,100
+Las Tablas, Panama, Los Santos Province,100,0
+Topsham, United States of America, Maine,100,50
+Alwar, India, Rajasthan,37.5,55.76923077
+Frederick, United States of America, South Dakota,91.66666667,33.33333333
+Manistee, United States of America, Michigan,100,50
+Allegan, United States of America, Michigan,100,0
+Bayla, Somalia, Bari,100,0
+Richland, United States of America, Oregon,100,0
+Rumford, United States of America, Maine,100,50
+Nnewi, Nigeria,None,12.5,50
+Djelfa, Algeria, Djelfa Province,50,62.5
+Pikeville, United States of America, Kentucky,100,50
+Douglasville, United States of America, Georgia,25,75
+Batu Pahat, Malaysia, Johor,75,100
+Bowmanville, Canada, Ontario,0,100
+Sangre Grande, Trinidad and Tobago, Sangre Grande Regional Corporation,75,75
+Chesapeake, United States of America, West Virginia,100,37.5
+Brandon, United States of America, Vermont,100,0
+Salmon Arm, Canada, British Columbia,25,75
+Yorkville, United States of America, Tennessee,100,0
+Fredericksburg, United States of America, Indiana,100,25
+Simcoe, Canada, Ontario,100,50
+Utica, United States of America, Indiana,93.75,37.5
+Grenville, Grenada, Saint Andrew Parish,66.66666667,58.33333333
+Guntur, India,None,38.54166667,57.89473684
+Manassas, United States of America, Georgia,87.5,0
+Gadsden, United States of America, Tennessee,87.5,75
+Bomassa, Republic of the Congo, Sangha Department,0,100
+Hlatikulu, Eswatini, Shiselweni District,87.5,62.5
+Deep River, Canada, Ontario,100,50
+Rutherford, United States of America, Tennessee,0,100
+Merimbula, Australia, New South Wales,100,0
+Norman Wells, Canada, Northwest Territories,100,50
+Braga, Portugal, Braga,85.29411765,25
+Leiria, Portugal, Leiria,89.28571429,28.57142857
+Matosinhos, Portugal, Porto,37.5,62.5
+Pak Kret, Thailand, Nonthaburi,40.625,87.5
+Kristiansund, Norway, More og Romsdal,75,0
+Robe, Ethiopia,None,75,75
+Willimantic, United States of America, Maine,100,50
+Middlesex, United States of America, Vermont,83.33333333,50
+Somerset, United States of America, Vermont,100,50
+Siparia, Trinidad and Tobago, Siparia Regional Corporation,62.5,50
+Carlisle, United States of America, New York,100,50
+Al Jubayhah, Jordan, Amman Governorate,75,37.5
+Vizianagaram, India, Andhra Pradesh,58.33333333,58.33333333
+Kurnool, India,None,43.33333333,65.90909091
+New Windsor, United States of America, New York,100,50
+Taylor, United States of America, New York,87.5,50
+New Paltz, United States of America, New York,100,50
+Webster, United States of America, New York,0,50
+Hamar, Norway, Innlandet,95,0
+Lillehammer, Norway, Innlandet,85,75
+Germantown, United States of America, New York,100,0
+Kocaeli, Turkey, Kocaeli Province,22.72727273,62.5
+Princeton, United States of America, Massachusetts,87.5,25
+Sakarya, Turkey,None,41.66666667,0
+Santa Ana, Costa Rica, San Jose Province,75,50
+Kaunas, Lithuania,None,73.27586207,24
+Takengon, Indonesia, Aceh,100,0
+Innopolis, Russia, Republic of Tatarstan,100,0
+Addu City, Maldives, Addu Atoll,50,100
+Anshan, People's Republic of China, Hebei,0,100
+Bakaata, Lebanon, Mount Lebanon Governorate,0,100
+Bath, United States of America, New York,100,50
+Bayan Lepas, Malaysia, Penang,31.25,93.75
+Buderim, Australia, Queensland,75,0
+Dickinson, United States of America, New York,100,50
+Drummond, South Africa, KwaZulu-Natal,12.5,50
+Gjovik, Norway, Innlandet,100,50
+Gainesville, United States of America, New York,100,25
+Gorakhpur, India, Uttar Pradesh,47.11538462,66
+Ribeseya, Spain, Asturias,100,50
+Jiujiang, People's Republic of China, Guangdong,0,50
+Shiraz, Iran, Fars Province,55,43.75
+Lafayette, United States of America, Wisconsin,93.75,12.5
+Bridgend, United Kingdom, Wales,75,75
+Millmerran, Australia, Queensland,100,0
+Picton, Canada, Ontario,100,25
+Qingyuan, People's Republic of China, Guangxi,12.5,50
+Saint Joseph, Trinidad and Tobago, Tunapuna-Piarco Regional Corporation,100,75
+Wausau, United States of America, Wisconsin,100,25
+Yilan, People's Republic of China, Heilongjiang,75,50
+Kish, Iran, Hormozgan Province,100,0
+Fredrikstad, Norway, Viken,100,50
+Haugesund, Norway, Rogaland,95,5
+Molde, Norway, More og Romsdal,93.75,18.75
+Sarpsborg, Norway, Viken,90,0
+Solna, Sweden, Stockholm County,58.33333333,25
+Bacau, Romania, Bacau County,67.30769231,50
+Anyang, People's Republic of China, Guangxi,20,0
+Yan'an, People's Republic of China, Guangxi,0,50
+Zhangqiu, People's Republic of China, Shandong,0,50
+Guizhou, People's Republic of China, Hubei,46.42857143,33.33333333
+Linkou, People's Republic of China, Guizhou,25,50
+Luoyang, People's Republic of China, Henan,0,50
+Chancay, Peru, Lima region,25,50
+Chittoor, India, Andhra Pradesh,70,70.83333333
+Gibsons, Canada, British Columbia,100,50
+Elverum, Norway, Innlandet,100,12.5
+Khlong Luang, Thailand, Pathum Thani,25,25
+Qatif, Saudi Arabia, Eastern Province,25,75
+Aarschot, Belgium, Flemish Region,75,41.66666667
+Skien, Norway, Vestfold og Telemark,85.71428571,8.333333333
+Haldia, India, West Bengal,0,100
+Kulai, Malaysia, Johor,50,50
+Horten, Norway, Vestfold og Telemark,100,0
+Belem, Brazil, Para,81.25,93.75
+Guadalajara, Spain, Castile-La Mancha,75,75
+Kocevje, Slovenia, Municipality of Kocevje,100,50
+Sandefjord, Norway, Vestfold og Telemark,75,25
+Samut Prakan, Thailand, Samut Prakan,34.375,50
+Matara, Sri Lanka, Southern Province,25,66.66666667
+Moss, Norway, Viken,80,75
+Croton, Italy,None,62.5,50
+Penglai, People's Republic of China, Sichuan,0,50
+Shilong, People's Republic of China, Guangxi,50,62.5
+Sandnes, Norway, Rogaland,62.5,37.5
+Drammen, Norway, Vestfold og Telemark,77.77777778,5
+Bang Kruai, Thailand, Nonthaburi,25,50
+Sint-Truiden, Belgium, Flemish Region,50,50
+Handan, People's Republic of China, Hebei,0,50
+San Cristobal de La Laguna, Spain, Canary Islands,80,100
+Sihanoukville, Cambodia, Sihanoukville Province,25,86.36363636
+Nantucket, United States of America, Massachusetts,100,50
+Dudelange, Luxembourg,None,66.66666667,62.5
+Benevento, Italy, Campania,45,75
+Oviedo, Spain, Asturias,67.85714286,25
+Spa, Belgium, Wallonia,100,50
+Mechelen, Belgium, Flemish Region,60.71428571,25
+Ostend, Belgium, Flemish Region,37.5,50
+Kortrijk, Belgium, Flemish Region,70.83333333,62.5
+Hasselt, Belgium, Flemish Region,75,25
+Genk, Belgium, Flemish Region,62.5,50
+Osorio, Brazil, Rio Grande do Sul,100,75
+Talavera de la Reina, Spain, Castile-La Mancha,91.66666667,50
+Las Palmas de Gran Canaria, Spain, Canary Islands,70.45454545,48.61111111
+Santander, Spain, Cantabria,83.33333333,10.71428571
+Santiago de Compostela, Spain, Galicia,95.83333333,37.5
+Leon, Spain, Castile and Leon,83.33333333,31.25
+Getafe, Spain, Community of Madrid,45.83333333,0
+Ponferrada, Spain, Castile and Leon,100,50
+Santa Cruz de Tenerife, Spain, Canary Islands,80,46.42857143
+Warangal, India, Telangana,53.40909091,71.875
+Kristiansand, Norway, Agder,93.75,9.375
+Stavanger, Norway, Rogaland,92.1875,15.51724138
+Gombak, Malaysia, Selangor,15,75
+Siping, People's Republic of China,None,0,50
+Antwerp, Belgium, Flemish Region,36.5,40.76086957
+Beringen, Belgium, Flemish Region,0,100
+Damme, Belgium, Flemish Region,87.5,50
+Verviers, Belgium, Wallonia,62.5,50
+Waregem, Belgium, Flemish Region,100,50
+Nivelles, Belgium, Wallonia,100,50
+Jintan, People's Republic of China, Jiangxi,0,50
+Arcos de Valdevez, Portugal, Viana do Castelo,100,0
+Aranjuez, Spain, Community of Madrid,100,0
+Huesca, Spain, Aragon,100,50
+Sagunto, Spain, Community of Valencia,100,50
+Zaragoza, Spain, Aragon,80.55555556,32.14285714
+Erfurt, Germany, Thuringia,85,50
+Garmisch-Partenkirchen, Germany, Bavaria,100,50
+Loures, Portugal,None,100,50
+Mouscron, Belgium, Wallonia,55,75
+Tromso, Norway, Troms og Finnmark fylke,83.92857143,20
+Alesund, Norway, More og Romsdal,95,75
+Arlington, United States of America, Virginia,84.61538462,19.23076923
+Vila do Conde, Portugal,None,100,50
+Alges, Portugal, Lisbon,100,75
+Tournai, Belgium, Wallonia,60.71428571,58.33333333
+Avila, Spain, Castile and Leon,87.5,50
+Teruel, Spain, Aragon,100,50
+Piracicaba, Brazil, Sao Paulo,40,25
+Ciudad Real, Spain, Castile-La Mancha,82.14285714,0
+Palencia, Spain, Castile and Leon,79.16666667,37.5
+Jubail, Saudi Arabia, Eastern Province,30.46875,38.79310345
+Yanbu, Saudi Arabia, Medina Province,0,50
+Cordoba, Spain, Andalusia,85.71428571,8.333333333
+Vic, Spain, Catalonia,100,0
+Segovia, Spain, Castile and Leon,100,0
+Zamora city, Spain, Castile and Leon,100,50
